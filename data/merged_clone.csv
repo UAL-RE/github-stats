@@ -28,6 +28,7 @@ ReDATA_README_Tool,2021-05-06,25,2
 ReDATA_README_Tool,2021-05-08,2,2
 ReDATA_README_Tool,2021-05-09,1,1
 ReDATA_README_Tool,2021-05-10,13,2
+ReDATA_README_Tool,2021-05-11,20,3
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -57,6 +58,7 @@ ReQUIAM_csv,2021-04-19,17,3
 ReQUIAM_csv,2021-04-20,8,5
 ReQUIAM_csv,2021-04-21,1,1
 ReQUIAM_csv,2021-05-08,1,1
+ReQUIAM_csv,2021-05-11,1,1
 UAL-ODIS,2021-04-26,8,5
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
@@ -80,6 +82,7 @@ data-viz-evaluations,2021-04-23,1,1
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
+figstats,2021-05-11,1,1
 github-stats,2021-04-23,9,8
 github-stats,2021-04-24,7,7
 github-stats,2021-04-25,8,7
@@ -98,6 +101,7 @@ github-stats,2021-05-07,9,9
 github-stats,2021-05-08,5,5
 github-stats,2021-05-09,1,1
 github-stats,2021-05-10,7,7
+github-stats,2021-05-11,5,5
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -200,3 +204,4 @@ uptime,2021-05-08,12,6
 uptime,2021-05-09,17,4
 uptime,2021-05-10,17,5
 uptime,2021-05-11,9,3
+uptime,2021-05-12,8,3
