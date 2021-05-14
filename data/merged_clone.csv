@@ -30,6 +30,7 @@ ReDATA_README_Tool,2021-05-09,1,1
 ReDATA_README_Tool,2021-05-10,13,2
 ReDATA_README_Tool,2021-05-11,20,3
 ReDATA_README_Tool,2021-05-12,8,3
+ReDATA_README_Tool,2021-05-13,48,5
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -42,6 +43,7 @@ ReQUIAM,2021-04-20,32,9
 ReQUIAM,2021-04-22,14,3
 ReQUIAM,2021-04-26,46,6
 ReQUIAM,2021-04-27,1,1
+ReQUIAM,2021-05-13,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -61,6 +63,7 @@ ReQUIAM_csv,2021-04-21,1,1
 ReQUIAM_csv,2021-05-08,1,1
 ReQUIAM_csv,2021-05-11,1,1
 UAL-ODIS,2021-04-26,8,5
+UAL-ODIS,2021-05-13,1,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -69,6 +72,7 @@ data-service-landscape-scan,2021-04-14,1,1
 data-service-landscape-scan,2021-04-20,1,1
 data-service-landscape-scan,2021-04-28,1,1
 data-service-landscape-scan,2021-05-12,1,1
+data-service-landscape-scan,2021-05-13,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -76,6 +80,7 @@ data-viz-challenge,2021-03-29,1,1
 data-viz-challenge,2021-04-12,2,2
 data-viz-challenge,2021-04-18,1,1
 data-viz-challenge,2021-04-20,1,1
+data-viz-challenge,2021-05-13,1,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -105,6 +110,7 @@ github-stats,2021-05-09,1,1
 github-stats,2021-05-10,7,7
 github-stats,2021-05-11,5,5
 github-stats,2021-05-12,4,4
+github-stats,2021-05-13,10,9
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -133,6 +139,7 @@ redata-commons,2021-04-20,39,9
 redata-commons,2021-04-21,1,1
 redata-commons,2021-04-28,1,1
 redata-commons,2021-05-01,1,1
+redata-commons,2021-05-13,1,1
 slacking,2021-03-13,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
@@ -209,3 +216,4 @@ uptime,2021-05-10,17,5
 uptime,2021-05-11,9,3
 uptime,2021-05-12,8,3
 uptime,2021-05-13,11,5
+uptime,2021-05-14,10,4
