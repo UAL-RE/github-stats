@@ -31,6 +31,7 @@ ReDATA_README_Tool,2021-05-10,13,2
 ReDATA_README_Tool,2021-05-11,20,3
 ReDATA_README_Tool,2021-05-12,8,3
 ReDATA_README_Tool,2021-05-13,48,5
+ReDATA_README_Tool,2021-05-15,1,1
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -112,7 +113,10 @@ github-stats,2021-05-11,5,5
 github-stats,2021-05-12,4,4
 github-stats,2021-05-13,10,9
 github-stats,2021-05-14,7,7
+github-stats,2021-05-15,6,6
 ldcoolp-figshare,2021-05-14,12,8
+ldcoolp-figshare,2021-05-15,4,3
+ldcoolp-figshare,2021-05-16,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -142,6 +146,7 @@ redata-commons,2021-04-21,1,1
 redata-commons,2021-04-28,1,1
 redata-commons,2021-05-01,1,1
 redata-commons,2021-05-13,1,1
+redata-commons,2021-05-15,1,1
 slacking,2021-03-13,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
@@ -220,3 +225,4 @@ uptime,2021-05-12,8,3
 uptime,2021-05-13,11,5
 uptime,2021-05-14,10,4
 uptime,2021-05-15,13,6
+uptime,2021-05-16,16,7
