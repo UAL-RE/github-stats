@@ -32,6 +32,7 @@ ReDATA_README_Tool,2021-05-11,20,3
 ReDATA_README_Tool,2021-05-12,8,3
 ReDATA_README_Tool,2021-05-13,48,5
 ReDATA_README_Tool,2021-05-15,1,1
+ReDATA_README_Tool,2021-05-17,2,2
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -74,6 +75,7 @@ data-service-landscape-scan,2021-04-20,1,1
 data-service-landscape-scan,2021-04-28,1,1
 data-service-landscape-scan,2021-05-12,1,1
 data-service-landscape-scan,2021-05-13,1,1
+data-service-landscape-scan,2021-05-17,3,3
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -115,9 +117,12 @@ github-stats,2021-05-13,10,9
 github-stats,2021-05-14,7,7
 github-stats,2021-05-15,6,6
 github-stats,2021-05-16,6,6
+github-stats,2021-05-17,7,7
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
+ldcoolp-figshare,2021-05-17,4,4
+ldcoolp-figshare,2021-05-18,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -229,3 +234,4 @@ uptime,2021-05-14,10,4
 uptime,2021-05-15,13,6
 uptime,2021-05-16,16,7
 uptime,2021-05-17,18,7
+uptime,2021-05-18,15,9
