@@ -1,0 +1,30 @@
+date,path,title,count,uniques
+2021-05-25,/UAL-ODIS/redata-commons,UAL-ODIS/redata-commons: Commons code used by ReDATA codebases,17,2
+2021-05-25,/UAL-ODIS/redata-commons/releases,Releases · UAL-ODIS/redata-commons,10,1
+2021-05-25,/UAL-ODIS/redata-commons/tree/main/docs/source,redata-commons/docs/source at main · UAL-ODIS/redata-commons,9,1
+2021-05-25,/UAL-ODIS/redata-commons/issues,Issues · UAL-ODIS/redata-commons,8,1
+2021-05-25,/UAL-ODIS/redata-commons/releases/tag/v0.4.0,Release v0.4.0 · UAL-ODIS/redata-commons,5,2
+2021-05-25,/UAL-ODIS/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-ODIS/redata-commons,5,1
+2021-05-25,/UAL-ODIS/redata-commons/pull/15,Add issue_requests function to code by astrochun · Pull Request #15 · UAL-ODI...,5,1
+2021-05-25,/UAL-ODIS/redata-commons/pulls,Pull requests · UAL-ODIS/redata-commons,5,1
+2021-05-25,/UAL-ODIS/redata-commons/stargazers,Stargazers · UAL-ODIS/redata-commons,4,1
+2021-05-25,/UAL-ODIS/redata-commons/tree/main/docs,redata-commons/docs at main · UAL-ODIS/redata-commons,4,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,13,5
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/pull/14/files,[WIP] Feature: Work with Figshare curation metadata instead of published meta...,12,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/pull/14,[WIP] Feature: Work with Figshare curation metadata instead of published meta...,7,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/pulls,Pull requests · UAL-ODIS/ReDATA_README_Tool,6,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/pull/14/commits/cdf8973b35bdfaebdcfc6c8ee51afb96a2ec3d09,[WIP] Feature: Work with Figshare curation metadata instead of published meta...,5,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/pull/14/checks,[WIP] Feature: Work with Figshare curation metadata instead of published meta...,4,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/tree/main/readme_tool,ReDATA_README_Tool/readme_tool at main · UAL-ODIS/ReDATA_README_Tool,2,2
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/issues,Issues · UAL-ODIS/ReDATA_README_Tool,2,1
+2021-05-25,/UAL-ODIS/ReDATA_README_Tool/issues/15,Feature: Containerized for deployment · Issue #15 · UAL-ODIS/ReDATA_README_Tool,2,1
+2021-05-25,/UAL-ODIS/ReQUIAM,UAL-ODIS/ReQUIAM: Identity and Access Management backend software for UA Rese...,3,2
+2021-05-25,/UAL-ODIS/ReQUIAM/issues/47,Failed error with manual_override from script_run · Issue #47 · UAL-ODIS/ReQU...,1,1
+2021-05-25,/UAL-ODIS/ReQUIAM_csv,UAL-ODIS/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,2
+2021-05-25,/UAL-ODIS/ReQUIAM_csv/blob/master/README.md,ReQUIAM_csv/README.md at master · UAL-ODIS/ReQUIAM_csv,1,1
+2021-05-25,/UAL-ODIS/ReQUIAM_csv/projects/1,ReDATA Research Themes Management Software · GitHub,1,1
+2021-05-25,/UAL-ODIS/uptime/actions,Actions · UAL-ODIS/uptime,2,1
+2021-05-25,/UAL-ODIS/uptime/actions/runs/846972022,:bento: Update graphs [skip ci] · UAL-ODIS/uptime@662497c,1,1
+2021-05-25,/UAL-ODIS/uptime/actions/runs/847069357,:bento: Update graphs [skip ci] · UAL-ODIS/uptime@662497c,1,1
+2021-05-25,/UAL-ODIS/uptime/watchers,Watchers · UAL-ODIS/uptime,1,1
