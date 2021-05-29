@@ -10,6 +10,7 @@ LD-Cool-P,2021-05-22,5,1
 LD-Cool-P,2021-05-25,90,3
 LD-Cool-P,2021-05-27,10,3
 LD-Cool-P,2021-05-28,16,1
+LD-Cool-P,2021-05-29,6,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -142,6 +143,8 @@ data-service-landscape-scan,2021-05-14,1,1
 data-service-landscape-scan,2021-05-16,4,1
 data-service-landscape-scan,2021-05-17,6,1
 data-service-landscape-scan,2021-05-27,3,1
+data-service-landscape-scan,2021-05-28,6,1
+data-service-landscape-scan,2021-05-29,3,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -172,6 +175,7 @@ ldcoolp-figshare,2021-05-20,7,1
 ldcoolp-figshare,2021-05-24,134,1
 ldcoolp-figshare,2021-05-25,9,3
 ldcoolp-figshare,2021-05-26,7,5
+ldcoolp-figshare,2021-05-29,7,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
