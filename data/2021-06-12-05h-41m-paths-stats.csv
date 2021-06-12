@@ -1,0 +1,55 @@
+date,path,title,count,uniques
+2021-06-12,/UAL-ODIS/data-viz-challenge,UAL-ODIS/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
+2021-06-12,/UAL-ODIS/figstats,UAL-ODIS/figstats: Python software to retrieve statistics for public datasets...,1,1
+2021-06-12,/UAL-ODIS/figstats/commit/a06513d5c379074569d25e98cbb67ef8fae6e9ea,stats.Figshare: Add institution in get_totals #1 · UAL-ODIS/figstats@a06513d ...,1,1
+2021-06-12,/UAL-ODIS/github-stats,UAL-ODIS/github-stats: GitHub stats for UAL-ODIS,9,1
+2021-06-12,/UAL-ODIS/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-ODIS/github-stats,1,1
+2021-06-12,/UAL-ODIS/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-ODIS/github-stats,1,1
+2021-06-12,/UAL-ODIS/LD-Cool-P,UAL-ODIS/LD-Cool-P: Python tool to enable data curation,39,4
+2021-06-12,/UAL-ODIS/LD-Cool-P/releases,Releases · UAL-ODIS/LD-Cool-P,35,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/issues,Issues · UAL-ODIS/LD-Cool-P,28,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/pulls,Pull requests · UAL-ODIS/LD-Cool-P,13,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/pull/215,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/pull/215/files,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/milestones,Milestones - UAL-ODIS/LD-Cool-P,6,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/milestone/6,v1.0.0 Milestone,5,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/pull/221,Bug: Characters in old readme files can cause problems by astrochun · Pull Re...,5,1
+2021-06-12,/UAL-ODIS/LD-Cool-P/pull/190,release/v1.0.0 by astrochun · Pull Request #190 · UAL-ODIS/LD-Cool-P · GitHub,4,2
+2021-06-12,/UAL-ODIS/ldcoolp-figshare,UAL-ODIS/ldcoolp-figshare: Python tool using the Figshare API for data curation,22,3
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/graphs/traffic,Traffic · UAL-ODIS/ldcoolp-figshare,7,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/pull/24/files,Update use of redata.commons to include process option by astrochun · Pull Re...,7,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/pull/24,Update use of redata.commons to include process option by astrochun · Pull Re...,6,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/pulls,Pull requests · UAL-ODIS/ldcoolp-figshare,6,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/pulse,Pulse · UAL-ODIS/ldcoolp-figshare,5,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/releases,Releases · UAL-ODIS/ldcoolp-figshare,5,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/actions,Actions · UAL-ODIS/ldcoolp-figshare,3,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/issues,Issues · UAL-ODIS/ldcoolp-figshare,3,1
+2021-06-12,/UAL-ODIS/ldcoolp-figshare/pull/21,"For get_curation_list method, allow for pending selection by astrochun · Pull...",3,1
+2021-06-12,/UAL-ODIS/redata-commons,UAL-ODIS/redata-commons: Commons code used by ReDATA codebases,7,1
+2021-06-12,/UAL-ODIS/redata-commons/pull/19,redata_request should also provide the requests.Request response by astrochun...,7,1
+2021-06-12,/UAL-ODIS/redata-commons/issues,Issues · UAL-ODIS/redata-commons,6,1
+2021-06-12,/UAL-ODIS/redata-commons/pull/19/files,redata_request should also provide the requests.Request response by astrochun...,6,1
+2021-06-12,/UAL-ODIS/redata-commons/pulls,Pull requests · UAL-ODIS/redata-commons,5,1
+2021-06-12,/UAL-ODIS/redata-commons/actions,Actions · UAL-ODIS/redata-commons,4,1
+2021-06-12,/UAL-ODIS/redata-commons/issues/18,redata_request should also provide the requests.Request response · Issue #18 ...,3,1
+2021-06-12,/UAL-ODIS/redata-commons/releases/tag/v0.4.1,Release v0.4.1 · UAL-ODIS/redata-commons,3,1
+2021-06-12,/UAL-ODIS/redata-commons/network,Network Graph · UAL-ODIS/redata-commons,2,1
+2021-06-12,/UAL-ODIS/redata-commons/pull/19/commits,redata_request should also provide the requests.Request response by astrochun...,2,1
+2021-06-12,/UAL-ODIS/redata-docs,UAL-ODIS/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/actions,Actions · UAL-ODIS/ReDATA_README_Tool,14,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,8,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/issues,Issues · UAL-ODIS/ReDATA_README_Tool,7,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/pull/18,Refactor with ldcoolp-figshare by astrochun · Pull Request #18 · UAL-ODIS/ReD...,7,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/pull/18/files,Refactor with ldcoolp-figshare by astrochun · Pull Request #18 · UAL-ODIS/ReD...,7,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/pulls,Pull requests · UAL-ODIS/ReDATA_README_Tool,7,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReDATA_README_Tool/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-...,3,3
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReDATA_README_Tool/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · ...,3,3
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/issues/17,Refactor with ldcoolp-figshare · Issue #17 · UAL-ODIS/ReDATA_README_Tool,3,1
+2021-06-12,/UAL-ODIS/ReDATA_README_Tool/actions/runs/919643193,Refactor figshare module with ldcoolp_figshare · UAL-ODIS/ReDATA_README_Tool@...,2,1
+2021-06-12,/ualibraries/ReQUIAM,GitHub - ualibraries/ReQUIAM: Identity and Access Management backend software...,3,3
+2021-06-12,/UAL-ODIS/ReQUIAM,UAL-ODIS/ReQUIAM: Identity and Access Management backend software for UA Rese...,1,1
+2021-06-12,/UAL-ODIS/ReQUIAM/issues/116,Migration and testing for Grouper v2.5 · Issue #116 · UAL-ODIS/ReQUIAM · GitHub,1,1
+2021-06-12,/UAL-ODIS/ReQUIAM_csv,UAL-ODIS/ReQUIAM_csv: Construct list of research themes and organization mapp...,1,1
+2021-06-12,/UAL-ODIS/ReQUIAM_csv/issues,Issues · UAL-ODIS/ReQUIAM_csv,1,1
+2021-06-12,/UAL-ODIS/uptime,UAL-ODIS/uptime: Uptime monitoring with @upptime,2,1
+2021-06-12,/UAL-ODIS/uptime/stargazers,Stargazers · UAL-ODIS/uptime,1,1
