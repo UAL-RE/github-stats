@@ -12,9 +12,11 @@ LD-Cool-P,2021-06-16,3,1
 LD-Cool-P,2021-06-22,44,8
 LD-Cool-P,2021-06-23,28,7
 LD-Cool-P,2021-06-24,44,11
+LD-Cool-P,2021-06-28,31,10
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
+ReBACH,2021-06-28,3,3
 ReDATA_README_Tool,2021-03-01,1,1
 ReDATA_README_Tool,2021-03-04,7,2
 ReDATA_README_Tool,2021-03-08,7,2
@@ -55,6 +57,7 @@ ReDATA_README_Tool,2021-06-08,13,2
 ReDATA_README_Tool,2021-06-09,19,2
 ReDATA_README_Tool,2021-06-15,1,1
 ReDATA_README_Tool,2021-06-18,1,1
+ReDATA_README_Tool,2021-06-28,11,3
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -71,6 +74,7 @@ ReQUIAM,2021-05-13,1,1
 ReQUIAM,2021-05-21,1,1
 ReQUIAM,2021-06-03,1,1
 ReQUIAM,2021-06-11,1,1
+ReQUIAM,2021-06-28,7,2
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -91,6 +95,7 @@ ReQUIAM_csv,2021-05-08,1,1
 ReQUIAM_csv,2021-05-11,1,1
 ReQUIAM_csv,2021-05-25,1,1
 ReQUIAM_csv,2021-06-03,1,1
+ReQUIAM_csv,2021-06-28,10,3
 UAL-ODIS,2021-04-26,8,5
 UAL-ODIS,2021-05-13,1,1
 data-service-landscape-scan,2021-02-28,1,1
@@ -121,6 +126,7 @@ data-viz-challenge,2021-04-20,1,1
 data-viz-challenge,2021-05-13,1,1
 data-viz-challenge,2021-05-25,1,1
 data-viz-challenge,2021-06-03,2,2
+data-viz-challenge,2021-06-28,5,5
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -199,6 +205,7 @@ github-stats,2021-06-24,5,5
 github-stats,2021-06-25,6,6
 github-stats,2021-06-26,6,6
 github-stats,2021-06-27,6,5
+github-stats,2021-06-28,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -212,6 +219,7 @@ ldcoolp-figshare,2021-06-03,31,15
 ldcoolp-figshare,2021-06-08,20,11
 ldcoolp-figshare,2021-06-18,1,1
 ldcoolp-figshare,2021-06-26,1,1
+ldcoolp-figshare,2021-06-28,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -249,6 +257,7 @@ redata-commons,2021-05-25,1,1
 redata-commons,2021-06-01,1,1
 redata-commons,2021-06-08,45,8
 redata-commons,2021-06-18,1,1
+redata-commons,2021-06-28,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -378,3 +387,4 @@ uptime,2021-06-25,13,5
 uptime,2021-06-26,21,6
 uptime,2021-06-27,23,7
 uptime,2021-06-28,21,5
+uptime,2021-06-29,17,4

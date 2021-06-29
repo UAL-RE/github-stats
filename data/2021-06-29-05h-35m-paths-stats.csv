@@ -1,0 +1,73 @@
+date,path,title,count,uniques
+2021-06-29,/UAL-ODIS/data-service-landscape-scan,UAL-ODIS/data-service-landscape-scan: Scan of data services at academic libra...,2,1
+2021-06-29,/UAL-ODIS/data-service-landscape-scan/search,Search · UAL-ODIS,1,1
+2021-06-29,/UAL-ODIS/data-viz-challenge,UAL-ODIS/data-viz-challenge: Repository for Data Visualization Challenge webs...,8,2
+2021-06-29,/UAL-ODIS/data-viz-challenge/search,Search · UAL-ODIS,4,1
+2021-06-29,/UAL-ODIS/data-viz-challenge/pull/9,Org rename by astrochun · Pull Request #9 · UAL-ODIS/data-viz-challenge,3,2
+2021-06-29,/UAL-ODIS/data-viz-challenge/pull/9/files,Org rename by astrochun · Pull Request #9 · UAL-ODIS/data-viz-challenge,2,2
+2021-06-29,/UAL-ODIS/data-viz-challenge/commit/9423c3e25c39cf7e10f1accd6e06cc1845721156,Merge pull request #9 from UAL-ODIS/org_rename · UAL-ODIS/data-viz-challenge@...,1,1
+2021-06-29,/UAL-ODIS/data-viz-challenge/commits/master,Commits · UAL-ODIS/data-viz-challenge,1,1
+2021-06-29,/UAL-ODIS/data-viz-challenge/issues,Issues · UAL-ODIS/data-viz-challenge,1,1
+2021-06-29,/UAL-ODIS/data-viz-challenge/pulls,Pull requests · UAL-ODIS/data-viz-challenge,1,1
+2021-06-29,/UAL-ODIS/data-viz-evaluations,UAL-ODIS/data-viz-evaluations: Code for processing data visualization submiss...,4,1
+2021-06-29,/UAL-ODIS/data-viz-evaluations/search,Search · UAL-ODIS,3,1
+2021-06-29,/UAL-ODIS/figstats,UAL-ODIS/figstats: Python software to retrieve statistics for public datasets...,1,1
+2021-06-29,/UAL-ODIS/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-ODIS/figs...,1,1
+2021-06-29,/UAL-ODIS/github-stats,UAL-ODIS/github-stats: GitHub stats for UAL-ODIS,8,1
+2021-06-29,/UAL-ODIS/github-stats/actions/runs/975616698,Update data: 2021-06-26 · UAL-ODIS/github-stats@5ca9eb6,3,1
+2021-06-29,/UAL-ODIS/github-stats/tree/main/data,github-stats/data at main · UAL-ODIS/github-stats,3,1
+2021-06-29,/UAL-ODIS/github-stats/actions,Actions · UAL-ODIS/github-stats,2,1
+2021-06-29,/UAL-ODIS/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-ODIS/github-stats,2,1
+2021-06-29,/UAL-ODIS/github-stats/commit/97afb64d226fc0c9e0b61cc259204448370c24b9,Update data: 2021-06-27 · UAL-ODIS/github-stats@97afb64,2,1
+2021-06-29,/ual-odis/github-stats,UAL-ODIS/github-stats: GitHub stats for UAL-ODIS,1,1
+2021-06-29,/UAL-ODIS/github-stats/search,Search · UAL-ODIS,1,1
+2021-06-29,/UAL-ODIS/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-ODIS/github-stats,1,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/releases,Releases · UAL-ODIS/LD-Cool-P,63,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/pulls,Pull requests · UAL-ODIS/LD-Cool-P,52,2
+2021-06-29,/UAL-ODIS/LD-Cool-P,UAL-ODIS/LD-Cool-P: Python tool to enable data curation,26,5
+2021-06-29,/UAL-ODIS/LD-Cool-P/pull/223,Allow for downloading only the metadata by zoidy · Pull Request #223 · UAL-OD...,18,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/issues,Issues · UAL-ODIS/LD-Cool-P,14,2
+2021-06-29,/UAL-ODIS/LD-Cool-P/pull/223/files,Allow for downloading only the metadata by zoidy · Pull Request #223 · UAL-OD...,14,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/pull/225,Enhancement: Double digit for version by astrochun · Pull Request #225 · UAL-...,9,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/pull/226,Enhancement: Dump JSON metadata from Qualtrics API by astrochun · Pull Reques...,9,1
+2021-06-29,/UAL-ODIS/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-ODIS/LD-C...,8,5
+2021-06-29,/UAL-ODIS/LD-Cool-P/issues/160,Enhancement: Dump JSON metadata from Qualtrics API · Issue #160 · UAL-ODIS/LD...,5,2
+2021-06-29,/UAL-ODIS/ldcoolp-figshare,UAL-ODIS/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,1
+2021-06-29,/UAL-ODIS/ldcoolp-figshare/graphs/traffic,Traffic · UAL-ODIS/ldcoolp-figshare,1,1
+2021-06-29,/UAL-ODIS/ldcoolp-figshare/issues,Issues · UAL-ODIS/ldcoolp-figshare,1,1
+2021-06-29,/UAL-ODIS/ldcoolp-figshare/issues/18,Update URL paths for LD-Cool-P · Issue #18 · UAL-ODIS/ldcoolp-figshare,1,1
+2021-06-29,/UAL-ODIS/ldcoolp-figshare/pulse,Pulse · UAL-ODIS/ldcoolp-figshare,1,1
+2021-06-29,/UAL-ODIS/ReBACH,UAL-ODIS/ReBACH: Python-based tool to enable data preservation to a cloud-hos...,1,1
+2021-06-29,/UAL-ODIS/ReBACH/pull/2/files,Org rename by astrochun · Pull Request #2 · UAL-ODIS/ReBACH · GitHub,1,1
+2021-06-29,/UAL-ODIS/redata-commons,UAL-ODIS/redata-commons: Commons code used by ReDATA codebases,1,1
+2021-06-29,/UAL-ODIS/redata-commons/issues,Issues · UAL-ODIS/redata-commons,1,1
+2021-06-29,/UAL-ODIS/redata-commons/pulls,Pull requests · UAL-ODIS/redata-commons,1,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReDATA_README_Tool/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-...,4,4
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/search,Search · UAL-ODIS,4,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReDATA_README_Tool/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · ...,3,3
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,3,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/issues,Issues · UAL-ODIS/ReDATA_README_Tool,1,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/pull/19,Org rename by astrochun · Pull Request #19 · UAL-ODIS/ReDATA_README_Tool,1,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/pull/4,Module to retrieve Figshare metadata for public deposit (no token) by astroch...,1,1
+2021-06-29,/UAL-ODIS/ReDATA_README_Tool/pull/4/files,Module to retrieve Figshare metadata for public deposit (no token) by astroch...,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM,UAL-ODIS/ReQUIAM: Identity and Access Management backend software for UA Rese...,5,3
+2021-06-29,/UAL-ODIS/ReQUIAM/pulls,Pull requests · UAL-ODIS/ReQUIAM,3,2
+2021-06-29,/UAL-ODIS/ReQUIAM/milestones,Milestones - UAL-ODIS/ReQUIAM,2,1
+2021-06-29,/UAL-ODIS/ReQUIAM/blob/master/requiam/commons.py,ReQUIAM/commons.py at master · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/blob/master/requiam/delta.py,ReQUIAM/delta.py at master · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/blob/master/requiam/ldap_query.py,ReQUIAM/ldap_query.py at master · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/blob/master/requiam/manual_override.py,ReQUIAM/manual_override.py at master · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/blob/master/scripts/add_grouper_groups,ReQUIAM/add_grouper_groups at master · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/issues,Issues · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM/pull/154,Org rename by astrochun · Pull Request #154 · UAL-ODIS/ReQUIAM,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv,UAL-ODIS/ReQUIAM_csv: Construct list of research themes and organization mapp...,6,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/issues,Issues · UAL-ODIS/ReQUIAM_csv,3,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/actions,Actions · UAL-ODIS/ReQUIAM_csv,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/actions/runs/980437758,Org rename · UAL-ODIS/ReQUIAM_csv@9929e2f,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/pull/79,Org rename by astrochun · Pull Request #79 · UAL-ODIS/ReQUIAM_csv,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/pull/79/files,Org rename by astrochun · Pull Request #79 · UAL-ODIS/ReQUIAM_csv,1,1
+2021-06-29,/UAL-ODIS/ReQUIAM_csv/search,Search · UAL-ODIS,1,1
+2021-06-29,/UAL-ODIS/uptime,GitHub - UAL-ODIS/uptime: Uptime monitoring with @upptime,1,1
+2021-06-29,/UAL-ODIS/uptime/commit/db39242245e636089a534c11f205bf146d66a2eb,🟩 UA Institutional Repository is up (200 in 656 ms) [skip ci] [upptime] · UA...,1,1
