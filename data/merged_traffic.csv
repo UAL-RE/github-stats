@@ -28,6 +28,7 @@ LD-Cool-P,2021-06-23,67,5
 LD-Cool-P,2021-06-24,44,2
 LD-Cool-P,2021-06-25,5,1
 LD-Cool-P,2021-06-28,49,1
+LD-Cool-P,2021-06-29,63,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -87,6 +88,7 @@ ReDATA_README_Tool,2021-06-22,6,2
 ReDATA_README_Tool,2021-06-24,1,1
 ReDATA_README_Tool,2021-06-27,2,1
 ReDATA_README_Tool,2021-06-28,15,1
+ReDATA_README_Tool,2021-06-29,1,1
 ReQUIAM,2021-03-18,17,1
 ReQUIAM,2021-03-19,1,1
 ReQUIAM,2021-03-22,11,2
@@ -134,6 +136,7 @@ ReQUIAM,2021-06-16,1,1
 ReQUIAM,2021-06-21,9,1
 ReQUIAM,2021-06-22,4,1
 ReQUIAM,2021-06-28,6,1
+ReQUIAM,2021-06-29,1,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -191,6 +194,7 @@ data-service-landscape-scan,2021-05-28,6,1
 data-service-landscape-scan,2021-05-29,3,1
 data-service-landscape-scan,2021-06-02,12,1
 data-service-landscape-scan,2021-06-28,3,1
+data-service-landscape-scan,2021-06-29,11,2
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -198,6 +202,7 @@ data-viz-challenge,2021-04-13,3,1
 data-viz-challenge,2021-06-02,1,1
 data-viz-challenge,2021-06-23,1,1
 data-viz-challenge,2021-06-28,20,2
+data-viz-challenge,2021-06-29,9,1
 data-viz-evaluations,2021-04-07,1,1
 data-viz-evaluations,2021-04-08,2,1
 data-viz-evaluations,2021-06-28,7,1
@@ -244,6 +249,7 @@ ldcoolp-figshare,2021-06-09,1,1
 ldcoolp-figshare,2021-06-20,1,1
 ldcoolp-figshare,2021-06-22,3,1
 ldcoolp-figshare,2021-06-24,2,1
+ldcoolp-figshare,2021-06-29,20,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -288,10 +294,17 @@ redata-commons,2021-06-02,1,1
 redata-commons,2021-06-07,1,1
 redata-commons,2021-06-08,48,1
 redata-commons,2021-06-24,3,1
+redata-commons,2021-06-29,25,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
 redata-docs,2021-06-02,1,1
+redata-docs,2021-06-29,7,2
+redata-iac,2021-06-16,3,2
+redata-iac,2021-06-22,12,2
+redata-iac,2021-06-28,3,1
+redata-iac,2021-06-29,41,1
+slacking,2021-06-29,1,1
 uptime,2021-03-05,2,1
 uptime,2021-03-18,6,1
 uptime,2021-03-31,1,1
