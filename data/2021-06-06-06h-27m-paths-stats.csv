@@ -1,79 +1,79 @@
 date,path,title,count,uniques
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/issues,Issues · UAL-ODIS/data-service-landscape-scan,7,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan,UAL-ODIS/data-service-landscape-scan: Scan of data services at academic libra...,5,2
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/issues/2,Rank services from least common to most common · Issue #2 · UAL-ODIS/data-ser...,3,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/projects,Projects · UAL-ODIS/data-service-landscape-scan,2,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/projects/1,Data Landscape Scan Project Board,2,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/commit/77ab9b07247c02a6906b18374b64ee64a83b46ad,Add rank services plotting script · UAL-ODIS/data-service-landscape-scan@77ab...,1,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/issues/3,Test number of services vs spending · Issue #3 · UAL-ODIS/data-service-landsc...,1,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-ODIS/data-servic...,1,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/issues/new,New Issue · UAL-ODIS/data-service-landscape-scan,1,1
-2021-06-06,/UAL-ODIS/data-service-landscape-scan/watchers,Watchers · UAL-ODIS/data-service-landscape-scan,1,1
-2021-06-06,/UAL-ODIS/data-viz-challenge,UAL-ODIS/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
-2021-06-06,/UAL-ODIS/figstats,UAL-ODIS/figstats: Python software to retrieve statistics for public datasets...,5,2
-2021-06-06,/UAL-ODIS/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-ODIS/figs...,2,1
-2021-06-06,/UAL-ODIS/figstats/commit/a06513d5c379074569d25e98cbb67ef8fae6e9ea,stats.Figshare: Add institution in get_totals #1 · UAL-ODIS/figstats@a06513d,1,1
-2021-06-06,/UAL-ODIS/figstats/commit/c91a618229958e564bce940c30ee38c7e523e66d,Add API code #1 · UAL-ODIS/figstats@c91a618,1,1
-2021-06-06,/UAL-ODIS/figstats/issues,Issues · UAL-ODIS/figstats,1,1
-2021-06-06,/UAL-ODIS/github-stats,UAL-ODIS/github-stats: GitHub stats for UAL-ODIS,8,1
-2021-06-06,/UAL-ODIS/LD-Cool-P,UAL-ODIS/LD-Cool-P: Python tool to enable data curation,29,8
-2021-06-06,/UAL-ODIS/LD-Cool-P/issues,Issues · UAL-ODIS/LD-Cool-P,21,1
-2021-06-06,/UAL-ODIS/LD-Cool-P/pulls,Pull requests · UAL-ODIS/LD-Cool-P,16,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,7,1
+2021-06-06,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libra...,5,2
+2021-06-06,/UAL-RE/data-service-landscape-scan/issues/2,Rank services from least common to most common · Issue #2 · UAL-RE/data-ser...,3,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/projects,Projects · UAL-RE/data-service-landscape-scan,2,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/projects/1,Data Landscape Scan Project Board,2,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/commit/77ab9b07247c02a6906b18374b64ee64a83b46ad,Add rank services plotting script · UAL-RE/data-service-landscape-scan@77ab...,1,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/issues/3,Test number of services vs spending · Issue #3 · UAL-RE/data-service-landsc...,1,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-servic...,1,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/issues/new,New Issue · UAL-RE/data-service-landscape-scan,1,1
+2021-06-06,/UAL-RE/data-service-landscape-scan/watchers,Watchers · UAL-RE/data-service-landscape-scan,1,1
+2021-06-06,/UAL-RE/data-viz-challenge,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
+2021-06-06,/UAL-RE/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets...,5,2
+2021-06-06,/UAL-RE/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-RE/figs...,2,1
+2021-06-06,/UAL-RE/figstats/commit/a06513d5c379074569d25e98cbb67ef8fae6e9ea,stats.Figshare: Add institution in get_totals #1 · UAL-RE/figstats@a06513d,1,1
+2021-06-06,/UAL-RE/figstats/commit/c91a618229958e564bce940c30ee38c7e523e66d,Add API code #1 · UAL-RE/figstats@c91a618,1,1
+2021-06-06,/UAL-RE/figstats/issues,Issues · UAL-RE/figstats,1,1
+2021-06-06,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,8,1
+2021-06-06,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,29,8
+2021-06-06,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,21,1
+2021-06-06,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,16,1
 2021-06-06,/ualibraries/LD_Cool_P,ualibraries/LD_Cool_P: Python tool to enable data curation,9,3
-2021-06-06,/UAL-ODIS/LD-Cool-P/pull/215/files,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,6,1
-2021-06-06,/UAL-ODIS/LD-Cool-P/pull/190,release/v1.0.0 by astrochun · Pull Request #190 · UAL-ODIS/LD-Cool-P · GitHub,5,4
-2021-06-06,/UAL-ODIS/LD-Cool-P/issues/175,Enhancement: Migrate repository to UAL-ODIS · Issue #175 · UAL-ODIS/LD-Cool-P,5,1
-2021-06-06,/UAL-ODIS/LD-Cool-P/pull/215,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,5,1
-2021-06-06,/UAL-ODIS/LD-Cool-P/issues/213,Curation API author metadata content changes after publication · Issue #213 ·...,4,2
-2021-06-06,/UAL-ODIS/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-ODIS/LD-Cool-P,4,2
-2021-06-06,/UAL-ODIS/ldcoolp-figshare,UAL-ODIS/ldcoolp-figshare: Python tool using the Figshare API for data curation,37,8
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/issues,Issues · UAL-ODIS/ldcoolp-figshare,34,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/pulls,Pull requests · UAL-ODIS/ldcoolp-figshare,15,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/actions,Actions · UAL-ODIS/ldcoolp-figshare,10,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/graphs/traffic,Traffic · UAL-ODIS/ldcoolp-figshare,8,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/issues/4,Prepare code for PyPI packaging · Issue #4 · UAL-ODIS/ldcoolp-figshare,7,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/pulse,Pulse · UAL-ODIS/ldcoolp-figshare,6,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/milestones,Milestones - UAL-ODIS/ldcoolp-figshare,5,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/issues/16,Bug: Minor fixes after PyPI publishing · Issue #16 · UAL-ODIS/ldcoolp-figshare,4,1
-2021-06-06,/UAL-ODIS/ldcoolp-figshare/pull/15/files,Prepare code for PyPI packaging; Add CHANGELOG by astrochun · Pull Request #1...,4,1
-2021-06-06,/UAL-ODIS/redata-commons,UAL-ODIS/redata-commons: Commons code used by ReDATA codebases,10,3
-2021-06-06,/UAL-ODIS/redata-commons/stargazers,Stargazers · UAL-ODIS/redata-commons,6,1
-2021-06-06,/UAL-ODIS/redata-commons/issues/6,Include GitHub Actions for automated PyPI publishing · Issue #6 · UAL-ODIS/re...,4,1
-2021-06-06,/UAL-ODIS/redata-commons/issues,Issues · UAL-ODIS/redata-commons,2,1
-2021-06-06,/UAL-ODIS/redata-commons/issues/5,Add sphinx documentation and publish to ReadTheDocs · Issue #5 · UAL-ODIS/red...,1,1
-2021-06-06,/UAL-ODIS/redata-commons/network/dependents,Network Dependents · UAL-ODIS/redata-commons,1,1
-2021-06-06,/UAL-ODIS/redata-commons/releases/tag/v0.4.0,Release v0.4.0 · UAL-ODIS/redata-commons,1,1
-2021-06-06,/UAL-ODIS/redata-commons/tree/main/redata,redata-commons/redata at main · UAL-ODIS/redata-commons,1,1
-2021-06-06,/UAL-ODIS/redata-commons/tree/main/redata/commons,redata-commons/redata/commons at main · UAL-ODIS/redata-commons,1,1
-2021-06-06,/UAL-ODIS/redata-docs,UAL-ODIS/redata-docs: A repo to serve general documentation regarding ReDATA ...,9,1
-2021-06-06,/UAL-ODIS/redata-docs/issues,Issues · UAL-ODIS/redata-docs,9,1
-2021-06-06,/UAL-ODIS/redata-docs/pull/2,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-ODIS/r...,4,2
-2021-06-06,/UAL-ODIS/redata-docs/pull/2/files,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-ODIS/r...,3,2
-2021-06-06,/UAL-ODIS/redata-docs/milestones,Milestones - UAL-ODIS/redata-docs,3,1
-2021-06-06,/UAL-ODIS/redata-docs/actions,Actions · UAL-ODIS/redata-docs,2,1
-2021-06-06,/UAL-ODIS/redata-docs/actions/new,Actions · UAL-ODIS/redata-docs,2,1
-2021-06-06,/UAL-ODIS/redata-docs/actions/runs/879368544,Add sphinx-build GitHub Action · UAL-ODIS/redata-docs@929b7e3,2,1
-2021-06-06,/UAL-ODIS/redata-docs/issues/1,Publish a base layer page on RTDs · Issue #1 · UAL-ODIS/redata-docs,2,1
-2021-06-06,/UAL-ODIS/redata-docs/issues/new,New Issue · UAL-ODIS/redata-docs,2,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,4,2
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/issues,Issues · UAL-ODIS/ReDATA_README_Tool,4,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/labels,Labels · UAL-ODIS/ReDATA_README_Tool,2,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReDATA_README_Tool/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-...,1,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReDATA_README_Tool/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · ...,1,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/blob/main/main.py,ReDATA_README_Tool/main.py at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/blob/main/readme_tool/figshare.py,ReDATA_README_Tool/figshare.py at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-06-06,/UAL-ODIS/ReDATA_README_Tool/tree/main/readme_tool,ReDATA_README_Tool/readme_tool at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM,UAL-ODIS/ReQUIAM: Identity and Access Management backend software for UA Rese...,5,2
+2021-06-06,/UAL-RE/LD-Cool-P/pull/215/files,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,6,1
+2021-06-06,/UAL-RE/LD-Cool-P/pull/190,release/v1.0.0 by astrochun · Pull Request #190 · UAL-RE/LD-Cool-P · GitHub,5,4
+2021-06-06,/UAL-RE/LD-Cool-P/issues/175,Enhancement: Migrate repository to UAL-RE · Issue #175 · UAL-RE/LD-Cool-P,5,1
+2021-06-06,/UAL-RE/LD-Cool-P/pull/215,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,5,1
+2021-06-06,/UAL-RE/LD-Cool-P/issues/213,Curation API author metadata content changes after publication · Issue #213 ·...,4,2
+2021-06-06,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P,4,2
+2021-06-06,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,37,8
+2021-06-06,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,34,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/pulls,Pull requests · UAL-RE/ldcoolp-figshare,15,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/actions,Actions · UAL-RE/ldcoolp-figshare,10,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/graphs/traffic,Traffic · UAL-RE/ldcoolp-figshare,8,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/issues/4,Prepare code for PyPI packaging · Issue #4 · UAL-RE/ldcoolp-figshare,7,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/pulse,Pulse · UAL-RE/ldcoolp-figshare,6,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/milestones,Milestones - UAL-RE/ldcoolp-figshare,5,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/issues/16,Bug: Minor fixes after PyPI publishing · Issue #16 · UAL-RE/ldcoolp-figshare,4,1
+2021-06-06,/UAL-RE/ldcoolp-figshare/pull/15/files,Prepare code for PyPI packaging; Add CHANGELOG by astrochun · Pull Request #1...,4,1
+2021-06-06,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,10,3
+2021-06-06,/UAL-RE/redata-commons/stargazers,Stargazers · UAL-RE/redata-commons,6,1
+2021-06-06,/UAL-RE/redata-commons/issues/6,Include GitHub Actions for automated PyPI publishing · Issue #6 · UAL-RE/re...,4,1
+2021-06-06,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,2,1
+2021-06-06,/UAL-RE/redata-commons/issues/5,Add sphinx documentation and publish to ReadTheDocs · Issue #5 · UAL-RE/red...,1,1
+2021-06-06,/UAL-RE/redata-commons/network/dependents,Network Dependents · UAL-RE/redata-commons,1,1
+2021-06-06,/UAL-RE/redata-commons/releases/tag/v0.4.0,Release v0.4.0 · UAL-RE/redata-commons,1,1
+2021-06-06,/UAL-RE/redata-commons/tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
+2021-06-06,/UAL-RE/redata-commons/tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
+2021-06-06,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,9,1
+2021-06-06,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,9,1
+2021-06-06,/UAL-RE/redata-docs/pull/2,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-RE/r...,4,2
+2021-06-06,/UAL-RE/redata-docs/pull/2/files,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-RE/r...,3,2
+2021-06-06,/UAL-RE/redata-docs/milestones,Milestones - UAL-RE/redata-docs,3,1
+2021-06-06,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,2,1
+2021-06-06,/UAL-RE/redata-docs/actions/new,Actions · UAL-RE/redata-docs,2,1
+2021-06-06,/UAL-RE/redata-docs/actions/runs/879368544,Add sphinx-build GitHub Action · UAL-RE/redata-docs@929b7e3,2,1
+2021-06-06,/UAL-RE/redata-docs/issues/1,Publish a base layer page on RTDs · Issue #1 · UAL-RE/redata-docs,2,1
+2021-06-06,/UAL-RE/redata-docs/issues/new,New Issue · UAL-RE/redata-docs,2,1
+2021-06-06,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metad...,4,2
+2021-06-06,/UAL-RE/ReM/issues,Issues · UAL-RE/ReM,4,1
+2021-06-06,/UAL-RE/ReM/labels,Labels · UAL-RE/ReM,2,1
+2021-06-06,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-...,1,1
+2021-06-06,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · ...,1,1
+2021-06-06,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,1,1
+2021-06-06,/UAL-RE/ReM/blob/main/readme_tool/figshare.py,ReM/figshare.py at main · UAL-RE/ReM,1,1
+2021-06-06,/UAL-RE/ReM/tree/main/readme_tool,ReM/readme_tool at main · UAL-RE/ReM,1,1
+2021-06-06,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Rese...,5,2
 2021-06-06,/ualibraries/ReQUIAM,GitHub - ualibraries/ReQUIAM: Identity and Access Management backend software...,3,3
-2021-06-06,/UAL-ODIS/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-ODIS/ReQUIAM,2,1
-2021-06-06,/UAL-ODIS/ReQUIAM/commits,Commits · UAL-ODIS/ReQUIAM,2,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv,UAL-ODIS/ReQUIAM_csv: Construct list of research themes and organization mapp...,4,2
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/releases/tag/v0.7.0,Release v0.7.0 · UAL-ODIS/ReQUIAM_csv,2,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/tags,Tags · UAL-ODIS/ReQUIAM_csv,2,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/blob/master/requirements.txt,ReQUIAM_csv/requirements.txt at master · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/blob/master/setup.py,ReQUIAM_csv/setup.py at master · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/blob/v0.7.0/setup.py,ReQUIAM_csv/setup.py at v0.7.0 · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/branches,Branches · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/branches/stale,Branches · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/issues,Issues · UAL-ODIS/ReQUIAM_csv,1,1
-2021-06-06,/UAL-ODIS/ReQUIAM_csv/tree/v0.7.0,UAL-ODIS/ReQUIAM_csv at v0.7.0,1,1
+2021-06-06,/UAL-RE/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,2,1
+2021-06-06,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM,2,1
+2021-06-06,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,4,2
+2021-06-06,/UAL-RE/ReQUIAM_csv/releases/tag/v0.7.0,Release v0.7.0 · UAL-RE/ReQUIAM_csv,2,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/tags,Tags · UAL-RE/ReQUIAM_csv,2,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/blob/master/requirements.txt,ReQUIAM_csv/requirements.txt at master · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/blob/master/setup.py,ReQUIAM_csv/setup.py at master · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/blob/v0.7.0/setup.py,ReQUIAM_csv/setup.py at v0.7.0 · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/branches,Branches · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/branches/stale,Branches · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,1,1
+2021-06-06,/UAL-RE/ReQUIAM_csv/tree/v0.7.0,UAL-RE/ReQUIAM_csv at v0.7.0,1,1

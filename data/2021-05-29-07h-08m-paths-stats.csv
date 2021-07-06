@@ -1,48 +1,48 @@
 date,path,title,count,uniques
-2021-05-29,/UAL-ODIS/redata-commons,UAL-ODIS/redata-commons: Commons code used by ReDATA codebases,22,3
-2021-05-29,/UAL-ODIS/redata-commons/issues,Issues · UAL-ODIS/redata-commons,10,1
-2021-05-29,/UAL-ODIS/redata-commons/releases,Releases · UAL-ODIS/redata-commons,10,1
-2021-05-29,/UAL-ODIS/redata-commons/tree/main/docs/source,redata-commons/docs/source at main · UAL-ODIS/redata-commons,9,1
-2021-05-29,/UAL-ODIS/redata-commons/stargazers,Stargazers · UAL-ODIS/redata-commons,6,1
-2021-05-29,/UAL-ODIS/redata-commons/releases/tag/v0.4.0,Release v0.4.0 · UAL-ODIS/redata-commons,5,2
-2021-05-29,/UAL-ODIS/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-ODIS/redata-commons,5,1
-2021-05-29,/UAL-ODIS/redata-commons/pull/15,Add issue_requests function to code by astrochun · Pull Request #15 · UAL-ODI...,5,1
-2021-05-29,/UAL-ODIS/redata-commons/pulls,Pull requests · UAL-ODIS/redata-commons,5,1
-2021-05-29,/UAL-ODIS/redata-commons/issues/6,Include GitHub Actions for automated PyPI publishing · Issue #6 · UAL-ODIS/re...,4,1
-2021-05-29,/UAL-ODIS/redata-docs/issues,Issues · UAL-ODIS/redata-docs,9,1
-2021-05-29,/UAL-ODIS/redata-docs,UAL-ODIS/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
-2021-05-29,/UAL-ODIS/redata-docs/pull/2,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-ODIS/r...,4,2
-2021-05-29,/UAL-ODIS/redata-docs/pull/2/files,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-ODIS/r...,3,2
-2021-05-29,/UAL-ODIS/redata-docs/milestones,Milestones - UAL-ODIS/redata-docs,3,1
-2021-05-29,/UAL-ODIS/redata-docs/actions,Actions · UAL-ODIS/redata-docs,2,1
-2021-05-29,/UAL-ODIS/redata-docs/actions/new,Actions · UAL-ODIS/redata-docs,2,1
-2021-05-29,/UAL-ODIS/redata-docs/actions/runs/879368544,Add sphinx-build GitHub Action · UAL-ODIS/redata-docs@929b7e3,2,1
-2021-05-29,/UAL-ODIS/redata-docs/issues/1,Publish a base layer page on RTDs · Issue #1 · UAL-ODIS/redata-docs,2,1
-2021-05-29,/UAL-ODIS/redata-docs/issues/new,New Issue · UAL-ODIS/redata-docs,2,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,6,4
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/stargazers,Stargazers · UAL-ODIS/ReDATA_README_Tool,2,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/blob/main/main.py,ReDATA_README_Tool/main.py at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/blob/main/readme_tool/figshare.py,ReDATA_README_Tool/figshare.py at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/blob/main/readme_tool/intake_form.py,ReDATA_README_Tool/intake_form.py at main · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/commit/61aed9b92ecfdd983fd1d05d01bb95c5b5532286,Merge pull request #14 from UAL-ODIS/feature/09_figshare_curation · UAL-ODIS/...,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/graphs/traffic,Traffic · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/issues,Issues · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
-2021-05-29,/UAL-ODIS/ReDATA_README_Tool/pulls,Pull requests · UAL-ODIS/ReDATA_README_Tool,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM,UAL-ODIS/ReQUIAM: Identity and Access Management backend software for UA Rese...,6,2
-2021-05-29,/UAL-ODIS/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-ODIS/ReQUIAM,2,1
-2021-05-29,/UAL-ODIS/ReQUIAM/commits,Commits · UAL-ODIS/ReQUIAM,2,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv,UAL-ODIS/ReQUIAM_csv: Construct list of research themes and organization mapp...,5,3
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/releases/tag/v0.7.0,Release v0.7.0 · UAL-ODIS/ReQUIAM_csv,2,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/tags,Tags · UAL-ODIS/ReQUIAM_csv,2,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/blob/master/README.md,ReQUIAM_csv/README.md at master · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/blob/master/requirements.txt,ReQUIAM_csv/requirements.txt at master · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/blob/master/setup.py,ReQUIAM_csv/setup.py at master · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/blob/v0.7.0/setup.py,ReQUIAM_csv/setup.py at v0.7.0 · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/branches,Branches · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/branches/stale,Branches · UAL-ODIS/ReQUIAM_csv,1,1
-2021-05-29,/UAL-ODIS/ReQUIAM_csv/projects/1,ReDATA Research Themes Management Software · GitHub,1,1
-2021-05-29,/UAL-ODIS/uptime/actions,Actions · UAL-ODIS/uptime,2,1
-2021-05-29,/UAL-ODIS/uptime/actions/runs/846972022,:bento: Update graphs [skip ci] · UAL-ODIS/uptime@662497c,1,1
-2021-05-29,/UAL-ODIS/uptime/actions/runs/847069357,:bento: Update graphs [skip ci] · UAL-ODIS/uptime@662497c,1,1
-2021-05-29,/UAL-ODIS/uptime/watchers,Watchers · UAL-ODIS/uptime,1,1
+2021-05-29,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,22,3
+2021-05-29,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,10,1
+2021-05-29,/UAL-RE/redata-commons/releases,Releases · UAL-RE/redata-commons,10,1
+2021-05-29,/UAL-RE/redata-commons/tree/main/docs/source,redata-commons/docs/source at main · UAL-RE/redata-commons,9,1
+2021-05-29,/UAL-RE/redata-commons/stargazers,Stargazers · UAL-RE/redata-commons,6,1
+2021-05-29,/UAL-RE/redata-commons/releases/tag/v0.4.0,Release v0.4.0 · UAL-RE/redata-commons,5,2
+2021-05-29,/UAL-RE/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,5,1
+2021-05-29,/UAL-RE/redata-commons/pull/15,Add issue_requests function to code by astrochun · Pull Request #15 · UAL-ODI...,5,1
+2021-05-29,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,5,1
+2021-05-29,/UAL-RE/redata-commons/issues/6,Include GitHub Actions for automated PyPI publishing · Issue #6 · UAL-RE/re...,4,1
+2021-05-29,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,9,1
+2021-05-29,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
+2021-05-29,/UAL-RE/redata-docs/pull/2,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-RE/r...,4,2
+2021-05-29,/UAL-RE/redata-docs/pull/2/files,Publish a base layer page on RTDs by astrochun · Pull Request #2 · UAL-RE/r...,3,2
+2021-05-29,/UAL-RE/redata-docs/milestones,Milestones - UAL-RE/redata-docs,3,1
+2021-05-29,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,2,1
+2021-05-29,/UAL-RE/redata-docs/actions/new,Actions · UAL-RE/redata-docs,2,1
+2021-05-29,/UAL-RE/redata-docs/actions/runs/879368544,Add sphinx-build GitHub Action · UAL-RE/redata-docs@929b7e3,2,1
+2021-05-29,/UAL-RE/redata-docs/issues/1,Publish a base layer page on RTDs · Issue #1 · UAL-RE/redata-docs,2,1
+2021-05-29,/UAL-RE/redata-docs/issues/new,New Issue · UAL-RE/redata-docs,2,1
+2021-05-29,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metad...,6,4
+2021-05-29,/UAL-RE/ReM/stargazers,Stargazers · UAL-RE/ReM,2,1
+2021-05-29,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReM/blob/main/readme_tool/figshare.py,ReM/figshare.py at main · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReM/blob/main/readme_tool/intake_form.py,ReM/intake_form.py at main · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReM/commit/61aed9b92ecfdd983fd1d05d01bb95c5b5532286,Merge pull request #14 from UAL-RE/feature/09_figshare_curation · UAL-RE/...,1,1
+2021-05-29,/UAL-RE/ReM/graphs/traffic,Traffic · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReM/issues,Issues · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReM/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
+2021-05-29,/UAL-RE/ReM/pulls,Pull requests · UAL-RE/ReM,1,1
+2021-05-29,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Rese...,6,2
+2021-05-29,/UAL-RE/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,2,1
+2021-05-29,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM,2,1
+2021-05-29,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,5,3
+2021-05-29,/UAL-RE/ReQUIAM_csv/releases/tag/v0.7.0,Release v0.7.0 · UAL-RE/ReQUIAM_csv,2,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/tags,Tags · UAL-RE/ReQUIAM_csv,2,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/blob/master/README.md,ReQUIAM_csv/README.md at master · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/blob/master/requirements.txt,ReQUIAM_csv/requirements.txt at master · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/blob/master/setup.py,ReQUIAM_csv/setup.py at master · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/blob/v0.7.0/setup.py,ReQUIAM_csv/setup.py at v0.7.0 · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/branches,Branches · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/branches/stale,Branches · UAL-RE/ReQUIAM_csv,1,1
+2021-05-29,/UAL-RE/ReQUIAM_csv/projects/1,ReDATA Research Themes Management Software · GitHub,1,1
+2021-05-29,/UAL-RE/uptime/actions,Actions · UAL-RE/uptime,2,1
+2021-05-29,/UAL-RE/uptime/actions/runs/846972022,:bento: Update graphs [skip ci] · UAL-RE/uptime@662497c,1,1
+2021-05-29,/UAL-RE/uptime/actions/runs/847069357,:bento: Update graphs [skip ci] · UAL-RE/uptime@662497c,1,1
+2021-05-29,/UAL-RE/uptime/watchers,Watchers · UAL-RE/uptime,1,1

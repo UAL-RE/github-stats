@@ -1,25 +1,25 @@
 date,path,title,count,uniques
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/issues,Issues · UAL-ODIS/data-service-landscape-scan,4,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan,UAL-ODIS/data-service-landscape-scan: Scan of data services at academic libra...,2,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/issues/2,Rank services from least common to most common · Issue #2 · UAL-ODIS/data-ser...,1,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/issues/3,Test number of services vs spending · Issue #3 · UAL-ODIS/data-service-landsc...,1,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-ODIS/data-servic...,1,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/issues/new,New Issue · UAL-ODIS/data-service-landscape-scan,1,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/projects,Projects · UAL-ODIS/data-service-landscape-scan,1,1
-2021-06-13,/UAL-ODIS/data-service-landscape-scan/projects/1,Data Landscape Scan Project Board,1,1
-2021-06-13,/UAL-ODIS/data-viz-challenge,UAL-ODIS/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
-2021-06-13,/UAL-ODIS/figstats,UAL-ODIS/figstats: Python software to retrieve statistics for public datasets...,1,1
-2021-06-13,/UAL-ODIS/figstats/commit/a06513d5c379074569d25e98cbb67ef8fae6e9ea,stats.Figshare: Add institution in get_totals #1 · UAL-ODIS/figstats@a06513d ...,1,1
-2021-06-13,/UAL-ODIS/github-stats,UAL-ODIS/github-stats: GitHub stats for UAL-ODIS,9,1
-2021-06-13,/UAL-ODIS/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-ODIS/github-stats,1,1
-2021-06-13,/UAL-ODIS/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-ODIS/github-stats,1,1
-2021-06-13,/UAL-ODIS/LD-Cool-P,UAL-ODIS/LD-Cool-P: Python tool to enable data curation,39,4
-2021-06-13,/UAL-ODIS/LD-Cool-P/releases,Releases · UAL-ODIS/LD-Cool-P,35,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/issues,Issues · UAL-ODIS/LD-Cool-P,28,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/pulls,Pull requests · UAL-ODIS/LD-Cool-P,13,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/pull/215,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/pull/215/files,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/milestones,Milestones - UAL-ODIS/LD-Cool-P,6,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/milestone/6,v1.0.0 Milestone,5,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/pull/221,Bug: Characters in old readme files can cause problems by astrochun · Pull Re...,5,1
-2021-06-13,/UAL-ODIS/LD-Cool-P/pull/190,release/v1.0.0 by astrochun · Pull Request #190 · UAL-ODIS/LD-Cool-P · GitHub,4,2
+2021-06-13,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,4,1
+2021-06-13,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libra...,2,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/issues/2,Rank services from least common to most common · Issue #2 · UAL-RE/data-ser...,1,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/issues/3,Test number of services vs spending · Issue #3 · UAL-RE/data-service-landsc...,1,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-servic...,1,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/issues/new,New Issue · UAL-RE/data-service-landscape-scan,1,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/projects,Projects · UAL-RE/data-service-landscape-scan,1,1
+2021-06-13,/UAL-RE/data-service-landscape-scan/projects/1,Data Landscape Scan Project Board,1,1
+2021-06-13,/UAL-RE/data-viz-challenge,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
+2021-06-13,/UAL-RE/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets...,1,1
+2021-06-13,/UAL-RE/figstats/commit/a06513d5c379074569d25e98cbb67ef8fae6e9ea,stats.Figshare: Add institution in get_totals #1 · UAL-RE/figstats@a06513d ...,1,1
+2021-06-13,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,9,1
+2021-06-13,/UAL-RE/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-RE/github-stats,1,1
+2021-06-13,/UAL-RE/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-RE/github-stats,1,1
+2021-06-13,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,39,4
+2021-06-13,/UAL-RE/LD-Cool-P/releases,Releases · UAL-RE/LD-Cool-P,35,1
+2021-06-13,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,28,1
+2021-06-13,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,13,1
+2021-06-13,/UAL-RE/LD-Cool-P/pull/215,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
+2021-06-13,/UAL-RE/LD-Cool-P/pull/215/files,Refactor figshare module with ldcoolp-figshare by astrochun · Pull Request #2...,7,1
+2021-06-13,/UAL-RE/LD-Cool-P/milestones,Milestones - UAL-RE/LD-Cool-P,6,1
+2021-06-13,/UAL-RE/LD-Cool-P/milestone/6,v1.0.0 Milestone,5,1
+2021-06-13,/UAL-RE/LD-Cool-P/pull/221,Bug: Characters in old readme files can cause problems by astrochun · Pull Re...,5,1
+2021-06-13,/UAL-RE/LD-Cool-P/pull/190,release/v1.0.0 by astrochun · Pull Request #190 · UAL-RE/LD-Cool-P · GitHub,4,2
