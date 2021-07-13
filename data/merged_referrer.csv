@@ -1,6 +1,7 @@
 LD-Cool-P,Google,3,3
 LD-Cool-P,github.com,11,3
 LD-Cool-P,knowledge.figshare.com,1,1
+LD-Cool-P,redata.readthedocs.io,1,1
 ReBACH,github.com,1,1
 ReM,gist.github.com,2,1
 ReM,github.com,5,1
@@ -8,6 +9,7 @@ ReQUIAM,Google,1,1
 ReQUIAM,github.com,10,3
 ReQUIAM_csv,Google,1,1
 ReQUIAM_csv,github.com,21,4
+ReQUIAM_csv,redata.readthedocs.io,1,1
 ReQUIAM_csv,requiam-csv.readthedocs.io,2,2
 UAL-RE,github.com,3,1
 data-service-landscape-scan,github.com,1,1
@@ -20,13 +22,16 @@ ldcoolp-figshare,DuckDuckGo,2,1
 ldcoolp-figshare,github.com,1,1
 ldcoolp-figshare,ldcoolp-figshare.readthedocs.io,1,1
 ldcoolp-figshare,readthedocs.org,1,1
+ldcoolp-figshare,redata.readthedocs.io,3,1
 redata-commons,Google,5,2
 redata-commons,github.com,5,2
 redata-commons,pypi.org,1,1
 redata-commons,pypistats.org,1,1
 redata-commons,redata-commons.readthedocs.io,1,1
+redata-commons,redata.readthedocs.io,2,1
 redata-commons,test.pypi.org,1,1
 redata-docs,github.com,1,1
+redata-docs,redata.readthedocs.io,3,1
 redata-iac,github.com,3,2
 slacking,github.com,1,1
 uptime,Google,1,1
