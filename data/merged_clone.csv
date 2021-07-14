@@ -189,6 +189,7 @@ figstats,2021-07-07,1,1
 figstats,2021-07-08,1,1
 figstats,2021-07-10,1,1
 figstats,2021-07-12,1,1
+figstats,2021-07-13,1,1
 github-stats,2021-04-23,9,8
 github-stats,2021-04-24,7,7
 github-stats,2021-04-25,8,7
@@ -270,6 +271,7 @@ github-stats,2021-07-09,11,8
 github-stats,2021-07-10,5,5
 github-stats,2021-07-11,5,5
 github-stats,2021-07-12,5,5
+github-stats,2021-07-13,6,6
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -336,6 +338,7 @@ redata-commons,2021-07-03,1,1
 redata-commons,2021-07-07,4,4
 redata-commons,2021-07-09,1,1
 redata-commons,2021-07-12,1,1
+redata-commons,2021-07-13,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -347,6 +350,7 @@ redata-docs,2021-07-01,14,9
 redata-docs,2021-07-03,1,1
 redata-docs,2021-07-07,1,1
 redata-docs,2021-07-12,35,12
+redata-docs,2021-07-13,19,9
 redata-iac,2021-06-29,3,3
 redata-iac,2021-07-01,2,2
 slacking,2021-03-13,1,1
@@ -490,3 +494,4 @@ uptime,2021-07-10,19,5
 uptime,2021-07-11,22,5
 uptime,2021-07-12,23,5
 uptime,2021-07-13,18,4
+uptime,2021-07-14,13,3
