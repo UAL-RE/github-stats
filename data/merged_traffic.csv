@@ -39,6 +39,7 @@ LD-Cool-P,2021-07-09,7,1
 LD-Cool-P,2021-07-10,6,1
 LD-Cool-P,2021-07-12,44,1
 LD-Cool-P,2021-07-13,35,2
+LD-Cool-P,2021-07-14,38,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -164,6 +165,7 @@ ReQUIAM,2021-07-07,3,1
 ReQUIAM,2021-07-09,4,1
 ReQUIAM,2021-07-12,17,1
 ReQUIAM,2021-07-13,57,1
+ReQUIAM,2021-07-14,108,2
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -211,6 +213,7 @@ ReQUIAM_csv,2021-07-07,5,1
 ReQUIAM_csv,2021-07-09,3,1
 ReQUIAM_csv,2021-07-12,11,1
 ReQUIAM_csv,2021-07-13,45,1
+ReQUIAM_csv,2021-07-14,4,1
 UAL-RE,2021-04-26,17,2
 UAL-RE,2021-04-27,2,1
 UAL-RE,2021-07-01,11,1
@@ -233,6 +236,7 @@ data-service-landscape-scan,2021-06-29,11,2
 data-service-landscape-scan,2021-07-02,6,1
 data-service-landscape-scan,2021-07-06,17,4
 data-service-landscape-scan,2021-07-12,16,1
+data-service-landscape-scan,2021-07-14,1,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -278,6 +282,7 @@ github-stats,2021-07-05,1,1
 github-stats,2021-07-06,3,1
 github-stats,2021-07-10,2,1
 github-stats,2021-07-12,1,1
+github-stats,2021-07-14,4,1
 ldcoolp-figshare,2021-05-14,73,2
 ldcoolp-figshare,2021-05-17,9,1
 ldcoolp-figshare,2021-05-18,76,1
@@ -302,6 +307,7 @@ ldcoolp-figshare,2021-07-01,35,1
 ldcoolp-figshare,2021-07-07,26,1
 ldcoolp-figshare,2021-07-10,1,1
 ldcoolp-figshare,2021-07-12,6,2
+ldcoolp-figshare,2021-07-14,1,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -354,6 +360,7 @@ redata-commons,2021-07-07,4,1
 redata-commons,2021-07-09,3,1
 redata-commons,2021-07-10,2,1
 redata-commons,2021-07-12,10,2
+redata-commons,2021-07-14,14,2
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
@@ -364,6 +371,7 @@ redata-docs,2021-07-02,1,1
 redata-docs,2021-07-07,2,1
 redata-docs,2021-07-12,58,1
 redata-docs,2021-07-13,14,1
+redata-docs,2021-07-14,9,1
 redata-iac,2021-06-16,3,2
 redata-iac,2021-06-22,12,2
 redata-iac,2021-06-28,3,1
@@ -373,6 +381,7 @@ redata-iac,2021-07-06,3,1
 redata-iac,2021-07-07,4,1
 redata-iac,2021-07-12,2,1
 redata-iac,2021-07-13,2,1
+redata-iac,2021-07-14,14,1
 slacking,2021-06-29,1,1
 slacking,2021-07-06,20,1
 uptime,2021-03-05,2,1
