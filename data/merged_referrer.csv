@@ -33,6 +33,7 @@ redata-commons,test.pypi.org,1,1
 redata-docs,github.com,1,1
 redata-docs,redata.readthedocs.io,3,1
 redata-iac,github.com,3,2
+redata-iac,redata.readthedocs.io,1,1
 slacking,github.com,1,1
 uptime,Google,1,1
 uptime,github.com,2,1

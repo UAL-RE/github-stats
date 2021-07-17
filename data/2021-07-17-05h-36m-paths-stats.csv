@@ -1,0 +1,53 @@
+date,path,title,count,uniques
+2021-07-17,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,11,1
+2021-07-17,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,5,1
+2021-07-17,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,4,1
+2021-07-17,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,3,1
+2021-07-17,/UAL-RE/redata-iac/blob/master/ansible/add_ssh_key_file.yml,redata-iac/add_ssh_key_file.yml at master · UAL-RE/redata-iac,2,1
+2021-07-17,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,2,1
+2021-07-17,/UAL-RE/redata-iac/blob/master/ansible/add_ssh_key_github.yml,redata-iac/add_ssh_key_github.yml at master · UAL-RE/redata-iac,1,1
+2021-07-17,/UAL-RE/redata-iac/blob/master/ansible/bashrc_ldcoolp_alias_setup.yml,redata-iac/bashrc_ldcoolp_alias_setup.yml at master · UAL-RE/redata-iac,1,1
+2021-07-17,/UAL-RE/redata-iac/blob/master/ansible/bashrc_requiam_alias_setup.yml,redata-iac/bashrc_requiam_alias_setup.yml at master · UAL-RE/redata-iac,1,1
+2021-07-17,/UAL-RE/redata-iac/blob/master/scripts/doctl_backup.sh,redata-iac/doctl_backup.sh at master · UAL-RE/redata-iac,1,1
+2021-07-17,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,3,2
+2021-07-17,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,3,2
+2021-07-17,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,1
+2021-07-17,/UAL-RE/ReM/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
+2021-07-17,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,53,3
+2021-07-17,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,34,2
+2021-07-17,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,17,1
+2021-07-17,/UAL-RE/ReQUIAM/tree/master/scripts,ReQUIAM/scripts at master · UAL-RE/ReQUIAM · GitHub,8,2
+2021-07-17,/UAL-RE/ReQUIAM/milestones,Milestones - UAL-RE/ReQUIAM,8,1
+2021-07-17,/UAL-RE/ReQUIAM/milestone/6,v0.17.0 Milestone,7,1
+2021-07-17,/UAL-RE/ReQUIAM/releases,Releases · UAL-RE/ReQUIAM,6,1
+2021-07-17,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM,5,1
+2021-07-17,/UAL-RE/ReQUIAM/blob/master/scripts/script_run,ReQUIAM/script_run at master · UAL-RE/ReQUIAM,5,1
+2021-07-17,/UAL-RE/ReQUIAM/pull/156,Add type hinting throughout codebase by astrochun · Pull Request #156 · UAL-R...,5,1
+2021-07-17,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,21,2
+2021-07-17,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,10,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,7,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv,5,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,5,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv/data,ReQUIAM_csv/requiam_csv/data at master · UAL-RE/ReQUIAM_csv,5,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/create_csv.py,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,4,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/blob/master/README.md,ReQUIAM_csv/README.md at master · UAL-RE/ReQUIAM_csv · GitHub,3,2
+2021-07-17,/UAL-RE/ReQUIAM_csv/actions,Actions · UAL-RE/ReQUIAM_csv,2,1
+2021-07-17,/UAL-RE/ReQUIAM_csv/blob/master/docs/source/index.rst,ReQUIAM_csv/index.rst at master · UAL-RE/ReQUIAM_csv,2,1
+2021-07-17,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,6,1
+2021-07-17,/UAL-RE/slacking/pulls,Pull requests · UAL-RE/slacking,3,1
+2021-07-17,/UAL-RE/slacking/compare/master...astrochun:patch-1,Comparing UAL-RE:master...astrochun:patch-1 · UAL-RE/slacking,2,1
+2021-07-17,/UAL-RE/slacking/blob/master/LICENSE,slacking/LICENSE at master · UAL-RE/slacking,1,1
+2021-07-17,/UAL-RE/slacking/edit/master/LICENSE,Editing slacking/LICENSE at master · UAL-RE/slacking,1,1
+2021-07-17,/UAL-RE/slacking/pull/1,Update LICENSE by astrochun · Pull Request #1 · UAL-RE/slacking,1,1
+2021-07-17,/UAL-RE/slacking/pull/1/files,Update LICENSE by astrochun · Pull Request #1 · UAL-RE/slacking,1,1
+2021-07-17,/UAL-RE/slacking/pull/create,GitHub · Where software is built,1,1
+2021-07-17,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,20,2
+2021-07-17,/UAL-RE/uptime/blob/bc1e8c598ac28e3040a63c1b4a74f13860b789b7/README.md,uptime/README.md at bc1e8c598ac28e3040a63c1b4a74f13860b789b7 · UAL-RE/uptime,4,1
+2021-07-17,/UAL-RE/uptime/actions,Actions · UAL-RE/uptime,3,1
+2021-07-17,/UAL-RE/uptime/blob/master/README.md,uptime/README.md at master · UAL-RE/uptime,3,1
+2021-07-17,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,3,1
+2021-07-17,/UAL-RE/uptime/edit/master/README.md,Editing uptime/README.md at master · UAL-RE/uptime,2,1
+2021-07-17,/UAL-RE/uptime/pull/81,Update .upptimerc.yml by zoidy · Pull Request #81 · UAL-RE/uptime,2,1
+2021-07-17,/UAL-RE/uptime/pulls,Pull requests · UAL-RE/uptime,2,1
+2021-07-17,/UAL-RE/uptime/blob/a663483b382c1ef75186460da49c440c5c9002bc/README.md,uptime/README.md at a663483b382c1ef75186460da49c440c5c9002bc · UAL-RE/uptime,1,1
+2021-07-17,/UAL-RE/uptime/blob/master/graphs/afghan-respository/response-time-day.png,uptime/response-time-day.png at master · UAL-RE/uptime · GitHub,1,1
