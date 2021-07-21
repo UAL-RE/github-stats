@@ -101,6 +101,7 @@ ReQUIAM,2021-07-10,1,1
 ReQUIAM,2021-07-12,1,1
 ReQUIAM,2021-07-15,7,2
 ReQUIAM,2021-07-17,1,1
+ReQUIAM,2021-07-20,96,12
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -160,6 +161,7 @@ data-service-landscape-scan,2021-07-08,1,1
 data-service-landscape-scan,2021-07-12,1,1
 data-service-landscape-scan,2021-07-13,1,1
 data-service-landscape-scan,2021-07-19,1,1
+data-service-landscape-scan,2021-07-20,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -185,6 +187,7 @@ data-viz-evaluations,2021-07-06,3,3
 data-viz-evaluations,2021-07-08,1,1
 data-viz-evaluations,2021-07-12,1,1
 data-viz-evaluations,2021-07-18,2,1
+data-viz-evaluations,2021-07-20,1,1
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -286,6 +289,7 @@ github-stats,2021-07-16,5,5
 github-stats,2021-07-17,4,4
 github-stats,2021-07-18,4,4
 github-stats,2021-07-19,5,5
+github-stats,2021-07-20,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -519,3 +523,4 @@ uptime,2021-07-17,15,5
 uptime,2021-07-18,22,5
 uptime,2021-07-19,21,4
 uptime,2021-07-20,14,6
+uptime,2021-07-21,11,6
