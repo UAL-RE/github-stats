@@ -1,0 +1,44 @@
+date,path,title,count,uniques
+2021-07-24,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,23,2
+2021-07-24,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,15,2
+2021-07-24,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,13,2
+2021-07-24,/UAL-RE/redata-iac/issues/34,Bug: doctl backup script fails when prompt response is Yes · Issue #34 · UAL-...,7,2
+2021-07-24,/UAL-RE/redata-iac/actions,Actions · UAL-RE/redata-iac,7,1
+2021-07-24,/UAL-RE/redata-iac/releases/tag/v0.1.8,Release v0.1.8 · UAL-RE/redata-iac,5,2
+2021-07-24,/UAL-RE/redata-iac/releases,Releases · UAL-RE/redata-iac,5,1
+2021-07-24,/UAL-RE/redata-iac/pull/36,Bug: doctl backup script fails when prompt response is Yes by astrochun · Pul...,4,2
+2021-07-24,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,4,2
+2021-07-24,/UAL-RE/redata-iac/actions/runs/1046678736,Minor update to doctl_backup.sh docs #35 · UAL-RE/redata-iac@d3f0595,4,1
+2021-07-24,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,1
+2021-07-24,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,1
+2021-07-24,/UAL-RE/ReM/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
+2021-07-24,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,97,3
+2021-07-24,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,80,2
+2021-07-24,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,58,1
+2021-07-24,/UAL-RE/ReQUIAM/releases,Releases · UAL-RE/ReQUIAM,32,2
+2021-07-24,/UAL-RE/ReQUIAM/milestones,Milestones - UAL-RE/ReQUIAM,20,1
+2021-07-24,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM,16,1
+2021-07-24,/UAL-RE/ReQUIAM/releases/tag/v1.0.0,Release v1.0.0 · UAL-RE/ReQUIAM,9,2
+2021-07-24,/UAL-RE/ReQUIAM/tags,Tags · UAL-RE/ReQUIAM,9,2
+2021-07-24,/UAL-RE/ReQUIAM/issues/134,Enhancement: Sphinx documentation with RTDs · Issue #134 · UAL-RE/ReQUIAM,9,1
+2021-07-24,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,8,2
+2021-07-24,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,38,2
+2021-07-24,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,28,2
+2021-07-24,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,24,1
+2021-07-24,/UAL-RE/ReQUIAM_csv/issues/80,Move UAL organization into University Libraries portal · Issue #80 · UAL-RE/R...,12,2
+2021-07-24,/UAL-RE/ReQUIAM_csv/pull/81,Add Libraries org codes to libraries main portal by astrochun · Pull Request ...,12,2
+2021-07-24,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,10,1
+2021-07-24,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv,7,1
+2021-07-24,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv/data,ReQUIAM_csv/requiam_csv/data at master · UAL-RE/ReQUIAM_csv,7,1
+2021-07-24,/UAL-RE/ReQUIAM_csv/pull/81/files,Add Libraries org codes to libraries main portal by astrochun · Pull Request ...,6,2
+2021-07-24,/UAL-RE/ReQUIAM_csv/tree/master/docs/source,ReQUIAM_csv/docs/source at master · UAL-RE/ReQUIAM_csv,6,1
+2021-07-24,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,13,2
+2021-07-24,/UAL-RE/uptime/actions,Actions · UAL-RE/uptime,5,2
+2021-07-24,/UAL-RE/uptime/pull/81,Update .upptimerc.yml by zoidy · Pull Request #81 · UAL-RE/uptime,2,1
+2021-07-24,/UAL-RE/uptime/pulls,Pull requests · UAL-RE/uptime,2,1
+2021-07-24,/UAL-RE/uptime/actions/runs/1060591607,:bento: Update graphs [skip ci] · UAL-RE/uptime@d6b895b,1,1
+2021-07-24,/UAL-RE/uptime/actions/workflows/uptime.yml,Actions · UAL-RE/uptime,1,1
+2021-07-24,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2021-07-24,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,1,1
+2021-07-24,/UAL-RE/uptime/pull/81/files,Update .upptimerc.yml by zoidy · Pull Request #81 · UAL-RE/uptime,1,1
+2021-07-24,/UAL-RE/uptime/tree/gh-pages,UAL-RE/uptime at gh-pages,1,1
