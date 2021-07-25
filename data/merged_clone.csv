@@ -26,6 +26,7 @@ LD-Cool-P,2021-07-12,1,1
 LD-Cool-P,2021-07-15,21,4
 LD-Cool-P,2021-07-19,31,10
 LD-Cool-P,2021-07-22,28,3
+LD-Cool-P,2021-07-24,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -107,6 +108,7 @@ ReQUIAM,2021-07-20,96,12
 ReQUIAM,2021-07-21,68,11
 ReQUIAM,2021-07-22,1,1
 ReQUIAM,2021-07-23,1,1
+ReQUIAM,2021-07-24,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -300,6 +302,7 @@ github-stats,2021-07-20,5,5
 github-stats,2021-07-21,5,5
 github-stats,2021-07-22,4,4
 github-stats,2021-07-23,7,5
+github-stats,2021-07-24,4,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -544,3 +547,4 @@ uptime,2021-07-21,11,6
 uptime,2021-07-22,10,5
 uptime,2021-07-23,13,7
 uptime,2021-07-24,16,6
+uptime,2021-07-25,22,5
