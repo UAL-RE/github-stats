@@ -48,6 +48,7 @@ LD-Cool-P,2021-07-21,5,1
 LD-Cool-P,2021-07-22,41,2
 LD-Cool-P,2021-07-23,8,2
 LD-Cool-P,2021-07-24,13,1
+LD-Cool-P,2021-07-26,52,2
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -59,6 +60,7 @@ ReBACH,2021-07-07,1,1
 ReBACH,2021-07-12,2,1
 ReBACH,2021-07-13,3,1
 ReBACH,2021-07-24,6,1
+ReBACH,2021-07-26,7,1
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -122,6 +124,7 @@ ReM,2021-07-07,3,1
 ReM,2021-07-11,2,1
 ReM,2021-07-15,3,2
 ReM,2021-07-24,5,2
+ReM,2021-07-26,21,1
 ReQUIAM,2021-03-18,17,1
 ReQUIAM,2021-03-19,1,1
 ReQUIAM,2021-03-22,11,2
@@ -185,6 +188,7 @@ ReQUIAM,2021-07-21,149,2
 ReQUIAM,2021-07-22,123,3
 ReQUIAM,2021-07-23,32,3
 ReQUIAM,2021-07-24,4,1
+ReQUIAM,2021-07-26,14,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -239,10 +243,12 @@ ReQUIAM_csv,2021-07-19,109,2
 ReQUIAM_csv,2021-07-20,29,1
 ReQUIAM_csv,2021-07-22,14,1
 ReQUIAM_csv,2021-07-24,4,1
+ReQUIAM_csv,2021-07-26,31,1
 UAL-RE,2021-04-26,17,2
 UAL-RE,2021-04-27,2,1
 UAL-RE,2021-07-01,11,1
 UAL-RE,2021-07-24,6,1
+UAL-RE,2021-07-26,5,1
 data-service-landscape-scan,2021-04-01,1,1
 data-service-landscape-scan,2021-04-06,8,1
 data-service-landscape-scan,2021-04-12,2,1
@@ -265,6 +271,7 @@ data-service-landscape-scan,2021-07-12,16,1
 data-service-landscape-scan,2021-07-14,1,1
 data-service-landscape-scan,2021-07-16,16,1
 data-service-landscape-scan,2021-07-24,5,1
+data-service-landscape-scan,2021-07-26,4,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -275,11 +282,13 @@ data-viz-challenge,2021-06-28,20,2
 data-viz-challenge,2021-06-29,9,1
 data-viz-challenge,2021-07-06,4,3
 data-viz-challenge,2021-07-24,4,1
+data-viz-challenge,2021-07-26,5,1
 data-viz-evaluations,2021-04-07,1,1
 data-viz-evaluations,2021-04-08,2,1
 data-viz-evaluations,2021-06-28,7,1
 data-viz-evaluations,2021-07-06,14,2
 data-viz-evaluations,2021-07-24,7,1
+data-viz-evaluations,2021-07-26,4,1
 figstats,2021-03-03,10,1
 figstats,2021-03-09,3,1
 figstats,2021-03-15,6,1
@@ -295,6 +304,7 @@ figstats,2021-06-28,1,1
 figstats,2021-07-06,4,1
 figstats,2021-07-07,1,1
 figstats,2021-07-24,4,1
+figstats,2021-07-26,7,1
 github-stats,2021-04-23,55,1
 github-stats,2021-04-25,5,1
 github-stats,2021-04-26,3,2
@@ -317,6 +327,7 @@ github-stats,2021-07-14,4,1
 github-stats,2021-07-21,1,1
 github-stats,2021-07-23,38,2
 github-stats,2021-07-24,6,1
+github-stats,2021-07-26,8,4
 ldcoolp-figshare,2021-05-14,73,2
 ldcoolp-figshare,2021-05-17,9,1
 ldcoolp-figshare,2021-05-18,76,1
@@ -345,6 +356,7 @@ ldcoolp-figshare,2021-07-14,1,1
 ldcoolp-figshare,2021-07-15,20,2
 ldcoolp-figshare,2021-07-21,15,1
 ldcoolp-figshare,2021-07-22,2,2
+ldcoolp-figshare,2021-07-26,3,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -402,6 +414,7 @@ redata-commons,2021-07-15,7,1
 redata-commons,2021-07-19,1,1
 redata-commons,2021-07-20,12,1
 redata-commons,2021-07-22,2,1
+redata-commons,2021-07-26,19,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
@@ -418,6 +431,7 @@ redata-docs,2021-07-19,3,2
 redata-docs,2021-07-20,15,1
 redata-docs,2021-07-21,70,2
 redata-docs,2021-07-24,4,1
+redata-docs,2021-07-26,4,1
 redata-iac,2021-06-16,3,2
 redata-iac,2021-06-22,12,2
 redata-iac,2021-06-28,3,1
@@ -434,9 +448,11 @@ redata-iac,2021-07-19,74,2
 redata-iac,2021-07-22,24,1
 redata-iac,2021-07-23,1,1
 redata-iac,2021-07-24,4,1
+redata-iac,2021-07-26,4,1
 slacking,2021-06-29,1,1
 slacking,2021-07-06,20,1
 slacking,2021-07-24,11,1
+slacking,2021-07-26,4,1
 uptime,2021-03-05,2,1
 uptime,2021-03-18,6,1
 uptime,2021-03-31,1,1
@@ -459,3 +475,4 @@ uptime,2021-07-10,1,1
 uptime,2021-07-13,15,1
 uptime,2021-07-23,32,2
 uptime,2021-07-24,13,1
+uptime,2021-07-26,1,1
