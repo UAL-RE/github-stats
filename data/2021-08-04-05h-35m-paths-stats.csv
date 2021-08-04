@@ -1,0 +1,89 @@
+date,path,title,count,uniques
+2021-08-04,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,2,1
+2021-08-04,/UAL-RE/data-viz-challenge,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge website,3,1
+2021-08-04,/UAL-RE/data-viz-evaluations,UAL-RE/data-viz-evaluations: Code for processing data visualization submissions,3,1
+2021-08-04,/UAL-RE/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,8,1
+2021-08-04,/UAL-RE/figstats/pull/2,[WIP] Main script and module to generate stats plots by astrochun · Pull Requ...,4,1
+2021-08-04,/UAL-RE/figstats/network/members,Forks · UAL-RE/figstats,1,1
+2021-08-04,/UAL-RE/figstats/pulls,Pull requests · UAL-RE/figstats,1,1
+2021-08-04,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,16,4
+2021-08-04,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,7,2
+2021-08-04,/UAL-RE/github-stats/actions/runs/1058653992,Update data: 2021-07-22 · UAL-RE/github-stats@c4b523f,7,2
+2021-08-04,/UAL-RE/github-stats/blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-RE/github-stats,1,1
+2021-08-04,/UAL-RE/github-stats/commit/2e162da652518d071f22a6df921a2792f2375b1a,Update data: 2021-07-24 · UAL-RE/github-stats@2e162da,1,1
+2021-08-04,/UAL-RE/github-stats/issues,Issues · UAL-RE/github-stats · GitHub,1,1
+2021-08-04,/UAL-RE/github-stats/pulls,Pull requests · UAL-RE/github-stats · GitHub,1,1
+2021-08-04,/UAL-RE/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-RE/github-stats,1,1
+2021-08-04,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,17,3
+2021-08-04,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,13,1
+2021-08-04,/UAL-RE/LD-Cool-P/pull/236,[WIP] Feature: Python script and module to check dataset readiness for data p...,11,1
+2021-08-04,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,9,1
+2021-08-04,/UAL-RE/LD-Cool-P/pull/241,Fix hardcoded paths for writing JSON by astrochun · Pull Request #241 · UAL-R...,5,1
+2021-08-04,/UAL-RE/LD-Cool-P/issues/240,Bug: update_readme fails for 14849762 · Issue #240 · UAL-RE/LD-Cool-P,4,1
+2021-08-04,/UAL-RE/LD-Cool-P/blob/feature/235_preserve_prep/CHANGELOG.md,LD-Cool-P/CHANGELOG.md at feature/235_preserve_prep · UAL-RE/LD-Cool-P,3,1
+2021-08-04,/UAL-RE/LD-Cool-P/commits,Commits · UAL-RE/LD-Cool-P,3,1
+2021-08-04,/UAL-RE/LD-Cool-P/issues/235,Feature: Python script and module to check dataset readiness for data preserv...,3,1
+2021-08-04,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,3,1
+2021-08-04,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,1
+2021-08-04,/UAL-RE/ldcoolp-figshare/edit/main/docs/source/index.rst,Editing ldcoolp-figshare/index.rst at main · UAL-RE/ldcoolp-figshare,1,1
+2021-08-04,/UAL-RE/ldcoolp-figshare/graphs/traffic,Traffic · UAL-RE/ldcoolp-figshare,1,1
+2021-08-04,/UAL-RE/ldcoolp-figshare/pulse,Pulse · UAL-RE/ldcoolp-figshare,1,1
+2021-08-04,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,5,1
+2021-08-04,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,7,1
+2021-08-04,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,5,1
+2021-08-04,/UAL-RE/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,2,1
+2021-08-04,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,2,1
+2021-08-04,/UAL-RE/redata-commons/edit/main/README.md,Editing redata-commons/README.md at main · UAL-RE/redata-commons,1,1
+2021-08-04,/UAL-RE/redata-commons/issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
+2021-08-04,/UAL-RE/redata-commons/pull/17,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,1,1
+2021-08-04,/UAL-RE/redata-commons/tree/tests/16_issue_request,UAL-RE/redata-commons at tests/16_issue_request,1,1
+2021-08-04,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,4,2
+2021-08-04,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,15,2
+2021-08-04,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,6,2
+2021-08-04,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,4,2
+2021-08-04,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,2,2
+2021-08-04,/UAL-RE/redata-iac/issues/34,Bug: doctl backup script fails when prompt response is Yes · Issue #34 · UAL-...,2,1
+2021-08-04,/UAL-RE/redata-iac/network/members,Forks · UAL-RE/redata-iac,2,1
+2021-08-04,/UAL-RE/redata-iac/projects,Projects · UAL-RE/redata-iac,2,1
+2021-08-04,/UAL-RE/redata-iac/pull/40,Other ansible playbooks that were not fully tested by astrochun · Pull Reques...,2,1
+2021-08-04,/UAL-RE/redata-iac/security,Security Overview · UAL-RE/redata-iac,2,1
+2021-08-04,/UAL-RE/redata-iac/wiki,GitHub · Where software is built,2,1
+2021-08-04,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,9,1
+2021-08-04,/UAL-RE/ReM/issues,Issues · UAL-RE/ReM,3,1
+2021-08-04,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,2,2
+2021-08-04,/UAL-RE/ReM/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
+2021-08-04,/UAL-RE/ReM/pull/20,Feature: Containerized for deployment by astrochun · Pull Request #20 · UAL-R...,1,1
+2021-08-04,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,46,4
+2021-08-04,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,37,2
+2021-08-04,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,21,2
+2021-08-04,/UAL-RE/ReQUIAM/issues/116,Migration and testing for Grouper v2.5 · Issue #116 · UAL-RE/ReQUIAM,17,3
+2021-08-04,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,17,2
+2021-08-04,/UAL-RE/ReQUIAM/releases/tag/v1.0.0,Release v1.0.0 · UAL-RE/ReQUIAM,9,2
+2021-08-04,/UAL-RE/ReQUIAM/releases,Releases · UAL-RE/ReQUIAM,8,3
+2021-08-04,/UAL-RE/ReQUIAM/pull/159,Enhancement: Sphinx documentation with RTDs by astrochun · Pull Request #159 ...,8,1
+2021-08-04,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM,7,2
+2021-08-04,/UAL-RE/ReQUIAM/milestones,Milestones - UAL-RE/ReQUIAM,7,1
+2021-08-04,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,10,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,8,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,7,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/pull/39,feature/commit_msg -> develop by astrochun · Pull Request #39 · UAL-RE/ReQUIA...,5,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/issues/75,Hotfix: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/R...,2,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/network/members,Forks · UAL-RE/ReQUIAM_csv,2,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/pull/39/files,feature/commit_msg -> develop by astrochun · Pull Request #39 · UAL-RE/ReQUIA...,2,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/pull/52,feature/pypi by astrochun · Pull Request #52 · UAL-RE/ReQUIAM_csv,2,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/pull/52/commits,feature/pypi by astrochun · Pull Request #52 · UAL-RE/ReQUIAM_csv,2,1
+2021-08-04,/UAL-RE/ReQUIAM_csv/tree/feature/pypi,UAL-RE/ReQUIAM_csv at feature/pypi,2,1
+2021-08-04,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,4,1
+2021-08-04,/UAL-RE/slacking/issues,Issues · UAL-RE/slacking,1,1
+2021-08-04,/UAL-RE/slacking/pulse,Pulse · UAL-RE/slacking,1,1
+2021-08-04,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,1
+2021-08-04,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,14,2
+2021-08-04,/UAL-RE/uptime/actions,Actions · UAL-RE/uptime,6,2
+2021-08-04,/UAL-RE/uptime/issues/83,🛑 UAL Janeway is down · Issue #83 · UAL-RE/uptime,3,1
+2021-08-04,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,2,1
+2021-08-04,/UAL-RE/uptime/issues/84,🛑 UAL Janeway is down · Issue #84 · UAL-RE/uptime,2,1
+2021-08-04,/UAL-RE/uptime/tree/gh-pages,UAL-RE/uptime at gh-pages,2,1
+2021-08-04,/UAL-RE/uptime/actions/runs/1060591607,:bento: Update graphs [skip ci] · UAL-RE/uptime@d6b895b,1,1
+2021-08-04,/UAL-RE/uptime/actions/workflows/uptime.yml,Actions · UAL-RE/uptime,1,1
+2021-08-04,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2021-08-04,/UAL-RE/uptime/commits/gh-pages,Commits · UAL-RE/uptime,1,1
