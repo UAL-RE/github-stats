@@ -1,0 +1,32 @@
+date,path,title,count,uniques
+2021-08-07,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,8,1
+2021-08-07,/UAL-RE/ReM/issues,Issues · UAL-RE/ReM,3,1
+2021-08-07,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,2,2
+2021-08-07,/UAL-RE/ReM/issues/16,"Corresponding author can be filled with ""nan"" when no response recorded for Q...",1,1
+2021-08-07,/UAL-RE/ReM/pull/20,Feature: Containerized for deployment by astrochun · Pull Request #20 · UAL-R...,1,1
+2021-08-07,/UAL-RE/ReQUIAM/issues/116,Migration and testing for Grouper v2.5 · Issue #116 · UAL-RE/ReQUIAM · GitHub,26,7
+2021-08-07,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,26,6
+2021-08-07,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM · GitHub,20,3
+2021-08-07,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,20,2
+2021-08-07,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,14,2
+2021-08-07,/UAL-RE/ReQUIAM/branches,Branches · UAL-RE/ReQUIAM,4,2
+2021-08-07,/UAL-RE/ReQUIAM/tree/master/requiam,ReQUIAM/requiam at master · UAL-RE/ReQUIAM,4,2
+2021-08-07,/UAL-RE/ReQUIAM/pull/161/files,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,4,1
+2021-08-07,/UAL-RE/ReQUIAM/tree/develop/requiam,ReQUIAM/requiam at develop · UAL-RE/ReQUIAM,3,2
+2021-08-07,/UAL-RE/ReQUIAM/commit/8c9a943746886d0ac295915a2926d3cfb686b7b7,Merge branch 'master' into develop · UAL-RE/ReQUIAM@8c9a943,3,1
+2021-08-07,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,8,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,7,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/pull/39,feature/commit_msg -> develop by astrochun · Pull Request #39 · UAL-RE/ReQUIA...,5,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,3,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/network/members,Forks · UAL-RE/ReQUIAM_csv,2,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/pull/39/files,feature/commit_msg -> develop by astrochun · Pull Request #39 · UAL-RE/ReQUIA...,2,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/pull/52,feature/pypi by astrochun · Pull Request #52 · UAL-RE/ReQUIAM_csv,2,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/pull/52/commits,feature/pypi by astrochun · Pull Request #52 · UAL-RE/ReQUIAM_csv,2,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/tree/feature/pypi,UAL-RE/ReQUIAM_csv at feature/pypi,2,1
+2021-08-07,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739 · GitHub,1,1
+2021-08-07,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,2,1
+2021-08-07,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,1
+2021-08-07,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,2,1
+2021-08-07,/UAL-RE/uptime/issues/83,🛑 UAL Janeway is down · Issue #83 · UAL-RE/uptime,2,1
+2021-08-07,/UAL-RE/uptime/issues/84,🛑 UAL Janeway is down · Issue #84 · UAL-RE/uptime,2,1
+2021-08-07,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,1,1
