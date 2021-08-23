@@ -355,6 +355,7 @@ github-stats,2021-08-18,9,6
 github-stats,2021-08-19,5,5
 github-stats,2021-08-20,3,3
 github-stats,2021-08-21,4,4
+github-stats,2021-08-22,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -453,6 +454,7 @@ redata-iac,2021-07-22,1,1
 redata-iac,2021-07-28,6,6
 redata-iac,2021-08-06,1,1
 redata-iac,2021-08-10,1,1
+redata-iac,2021-08-22,1,1
 slacking,2021-03-13,1,1
 slacking,2021-06-03,1,1
 slacking,2021-07-06,2,2
@@ -635,3 +637,4 @@ uptime,2021-08-19,4,1
 uptime,2021-08-20,5,2
 uptime,2021-08-21,11,4
 uptime,2021-08-22,20,3
+uptime,2021-08-23,24,4
