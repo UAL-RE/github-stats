@@ -90,6 +90,7 @@ ReM,2021-08-21,1,1
 ReM,2021-08-23,1,1
 ReM,2021-08-24,1,1
 ReM,2021-08-25,2,1
+ReM,2021-08-26,1,1
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -369,6 +370,7 @@ github-stats,2021-08-22,5,5
 github-stats,2021-08-23,4,4
 github-stats,2021-08-24,4,4
 github-stats,2021-08-25,5,5
+github-stats,2021-08-26,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -447,6 +449,7 @@ redata-commons,2021-08-13,1,1
 redata-commons,2021-08-23,1,1
 redata-commons,2021-08-24,1,1
 redata-commons,2021-08-25,2,1
+redata-commons,2021-08-26,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -661,3 +664,4 @@ uptime,2021-08-23,24,4
 uptime,2021-08-24,6,3
 uptime,2021-08-25,4,1
 uptime,2021-08-26,6,3
+uptime,2021-08-27,5,2
