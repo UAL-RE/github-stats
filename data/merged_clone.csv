@@ -41,6 +41,7 @@ ReBACH,2021-07-01,4,4
 ReBACH,2021-07-03,1,1
 ReBACH,2021-07-07,1,1
 ReBACH,2021-08-21,1,1
+ReBACH,2021-09-03,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -210,6 +211,7 @@ data-service-landscape-scan,2021-08-21,1,1
 data-service-landscape-scan,2021-08-27,1,1
 data-service-landscape-scan,2021-08-28,1,1
 data-service-landscape-scan,2021-09-02,3,3
+data-service-landscape-scan,2021-09-03,3,3
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -386,6 +388,7 @@ github-stats,2021-08-30,4,4
 github-stats,2021-08-31,5,5
 github-stats,2021-09-01,5,5
 github-stats,2021-09-02,3,3
+github-stats,2021-09-03,3,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -691,3 +694,4 @@ uptime,2021-08-31,9,3
 uptime,2021-09-01,4,2
 uptime,2021-09-02,4,1
 uptime,2021-09-03,7,2
+uptime,2021-09-04,8,3
