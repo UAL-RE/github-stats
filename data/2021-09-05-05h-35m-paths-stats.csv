@@ -1,0 +1,34 @@
+date,path,title,count,uniques
+2021-09-05,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,4,1
+2021-09-05,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,3,2
+2021-09-05,/UAL-RE/data-service-landscape-scan/issues/8,Calculate frequencies of delivery modalities · Issue #8 · UAL-RE/data-service...,2,1
+2021-09-05,/UAL-RE/data-service-landscape-scan/blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+2021-09-05,/UAL-RE/data-service-landscape-scan/blob/main/analysis-pairwise-services.R,data-service-landscape-scan/analysis-pairwise-services.R at main · UAL-RE/dat...,1,1
+2021-09-05,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final.csv,data-service-landscape-scan/services-final.csv at main · UAL-RE/data-service-...,1,1
+2021-09-05,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
+2021-09-05,/UAL-RE/figstats/commit/c91a618229958e564bce940c30ee38c7e523e66d,Add API code #1 · UAL-RE/figstats@c91a618 · GitHub,1,1
+2021-09-05,/UAL-RE/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-RE/figsta...,1,1
+2021-09-05,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2021-09-05,/UAL-RE/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-RE/github-stats,1,1
+2021-09-05,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,5,4
+2021-09-05,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default.ini,LD-Cool-P/default.ini at master · UAL-RE/LD-Cool-P · GitHub,3,3
+2021-09-05,/ual-re/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2021-09-05,/UAL-RE/LD-Cool-P/blob/a76ed1da5f5ab980965b971bca4d8c708b644d73/ldcoolp/curation/inspection/readme/__init__.py,LD-Cool-P/__init__.py at a76ed1da5f5ab980965b971bca4d8c708b644d73 · UAL-RE/LD...,1,1
+2021-09-05,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2021-09-05,/UAL-RE/LD-Cool-P/search,Search · datetime,1,1
+2021-09-05,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,3
+2021-09-05,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+2021-09-05,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,7,5
+2021-09-05,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,4,4
+2021-09-05,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,3,3
+2021-09-05,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/templates/404.html,ReM/404.html at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,1
+2021-09-05,/UAL-RE/ReM/blame/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/templates/404.html,ReM/templates/404.html at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,1,1
+2021-09-05,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,1,1
+2021-09-05,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286,UAL-RE/ReM at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286,1,1
+2021-09-05,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/templates,ReM/templates at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,1,1
+2021-09-05,/UAL-RE/ReQUIAM,GitHub - UAL-RE/ReQUIAM: Identity and Access Management backend software for ...,1,1
+2021-09-05,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,1,1
+2021-09-05,/UAL-RE/ReQUIAM/issues/116,Migration and testing for Grouper v2.5 · Issue #116 · UAL-RE/ReQUIAM,1,1
+2021-09-05,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv · GitHub,3,3
+2021-09-05,/UAL-RE/uptime,GitHub - UAL-RE/uptime: Uptime monitoring with @upptime,3,1
+2021-09-05,/UAL-RE/uptime/blob/master/LICENSE,uptime/LICENSE at master · UAL-RE/uptime · GitHub,1,1
