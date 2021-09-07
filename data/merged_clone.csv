@@ -216,6 +216,8 @@ data-service-landscape-scan,2021-08-28,1,1
 data-service-landscape-scan,2021-09-02,3,3
 data-service-landscape-scan,2021-09-03,3,3
 data-service-landscape-scan,2021-09-05,1,1
+data-service-landscape-scan,2021-09-06,1,1
+data-service-landscape-scan,2021-09-07,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -396,6 +398,7 @@ github-stats,2021-09-02,3,3
 github-stats,2021-09-03,3,3
 github-stats,2021-09-04,4,4
 github-stats,2021-09-05,5,4
+github-stats,2021-09-06,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -704,3 +707,4 @@ uptime,2021-09-03,7,2
 uptime,2021-09-04,8,3
 uptime,2021-09-05,22,4
 uptime,2021-09-06,18,2
+uptime,2021-09-07,13,4
