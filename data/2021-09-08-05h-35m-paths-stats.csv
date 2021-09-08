@@ -1,0 +1,44 @@
+date,path,title,count,uniques
+2021-09-08,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,6,2
+2021-09-08,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,4,1
+2021-09-08,/UAL-RE/data-service-landscape-scan/issues/8,Calculate frequencies of delivery modalities · Issue #8 · UAL-RE/data-service...,2,1
+2021-09-08,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,2,1
+2021-09-08,/UAL-RE/data-service-landscape-scan/blob/main/analysis-pairwise-services.R,data-service-landscape-scan/analysis-pairwise-services.R at main · UAL-RE/dat...,1,1
+2021-09-08,/UAL-RE/data-service-landscape-scan/blob/main/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at main · UAL-RE/data-ser...,1,1
+2021-09-08,/UAL-RE/data-service-landscape-scan/blob/main/ual-report.Rmd,data-service-landscape-scan/ual-report.Rmd at main · UAL-RE/data-service-land...,1,1
+2021-09-08,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2021-09-08,/UAL-RE/github-stats/tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-RE/github-stats,1,1
+2021-09-08,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,18,7
+2021-09-08,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default.ini,LD-Cool-P/default.ini at master · UAL-RE/LD-Cool-P · GitHub,8,4
+2021-09-08,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P · GitHub,7,1
+2021-09-08,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P · GitHub,6,1
+2021-09-08,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/config,LD-Cool-P/ldcoolp/config at master · UAL-RE/LD-Cool-P · GitHub,6,1
+2021-09-08,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/retrieve.py,LD-Cool-P/retrieve.py at master · UAL-RE/LD-Cool-P · GitHub,5,1
+2021-09-08,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/admin,LD-Cool-P/ldcoolp/admin at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2021-09-08,/UAL-RE/LD-Cool-P/search,Search · ismember,2,2
+2021-09-08,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/admin/permissions.py,LD-Cool-P/permissions.py at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2021-09-08,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/__init__.py,LD-Cool-P/__init__.py at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2021-09-08,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,3
+2021-09-08,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,4,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/tree/main/docs,ldcoolp-figshare/docs at main · UAL-RE/ldcoolp-figshare,2,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/tree/main/docs/source,ldcoolp-figshare/docs/source at main · UAL-RE/ldcoolp-figshare,2,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/blob/main/docs/source/conf.py,ldcoolp-figshare/conf.py at main · UAL-RE/ldcoolp-figshare,1,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/__init__.py,ldcoolp-figshare/__init__.py at main · UAL-RE/ldcoolp-figshare,1,1
+2021-09-08,/UAL-RE/ldcoolp-figshare/tree/main/.github/workflows,ldcoolp-figshare/.github/workflows at main · UAL-RE/ldcoolp-figshare,1,1
+2021-09-08,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+2021-09-08,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,5,4
+2021-09-08,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,2
+2021-09-08,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,2
+2021-09-08,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,20,5
+2021-09-08,/UAL-RE/ReQUIAM/search,Search · ismemberof,11,1
+2021-09-08,/UAL-RE/ReQUIAM/blob/master/requiam/ldap_query.py,ReQUIAM/ldap_query.py at master · UAL-RE/ReQUIAM,8,4
+2021-09-08,/UAL-RE/ReQUIAM/tree/d3d655a17b18cefa5e61cfd7026a27d84fb6689e,UAL-RE/ReQUIAM at d3d655a17b18cefa5e61cfd7026a27d84fb6689e,8,1
+2021-09-08,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,7,2
+2021-09-08,/UAL-RE/ReQUIAM/tree/master/scripts,ReQUIAM/scripts at master · UAL-RE/ReQUIAM,6,2
+2021-09-08,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,5,2
+2021-09-08,/UAL-RE/ReQUIAM/tree/master/requiam,ReQUIAM/requiam at master · UAL-RE/ReQUIAM,5,1
+2021-09-08,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,4,1
+2021-09-08,/UAL-RE/ReQUIAM/blob/master/scripts/add_grouper_groups,ReQUIAM/add_grouper_groups at master · UAL-RE/ReQUIAM,3,2
+2021-09-08,/UAL-RE/uptime,GitHub - UAL-RE/uptime: Uptime monitoring with @upptime,3,1
+2021-09-08,/UAL-RE/uptime/blob/master/LICENSE,uptime/LICENSE at master · UAL-RE/uptime · GitHub,1,1
