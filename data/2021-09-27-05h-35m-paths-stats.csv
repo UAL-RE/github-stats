@@ -1,0 +1,46 @@
+date,path,title,count,uniques
+2021-09-27,/UAL-RE/data-viz-challenge,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,3,3
+2021-09-27,/UAL-RE/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-RE/figsta...,1,1
+2021-09-27,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,16,9
+2021-09-27,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,5,3
+2021-09-27,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P,4,3
+2021-09-27,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/metadata.py,LD-Cool-P/metadata.py at master · UAL-RE/LD-Cool-P,2,2
+2021-09-27,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/retrieve.py,LD-Cool-P/retrieve.py at master · UAL-RE/LD-Cool-P,2,2
+2021-09-27,/UAL-RE/LD-Cool-P/stargazers,Stargazers · UAL-RE/LD-Cool-P,2,1
+2021-09-27,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default.ini,LD-Cool-P/default.ini at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2021-09-27,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/scripts/update_readme,LD-Cool-P/update_readme at master · UAL-RE/LD-Cool-P,1,1
+2021-09-27,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P · GitHub,1,1
+2021-09-27,/UAL-RE/LD-Cool-P/issues/160,Enhancement: Dump JSON metadata from Qualtrics API · Issue #160 · UAL-RE/LD-C...,1,1
+2021-09-27,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,8,2
+2021-09-27,/UAL-RE/ldcoolp-figshare/tree/main/docs,ldcoolp-figshare/docs at main · UAL-RE/ldcoolp-figshare,3,1
+2021-09-27,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,3,1
+2021-09-27,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare · GitHub,2,1
+2021-09-27,/UAL-RE/ldcoolp-figshare/tree/main/docs/source,ldcoolp-figshare/docs/source at main · UAL-RE/ldcoolp-figshare,2,1
+2021-09-27,/UAL-RE/ldcoolp-figshare/commits,Commits · UAL-RE/ldcoolp-figshare · GitHub,1,1
+2021-09-27,/UAL-RE/ldcoolp-figshare/tree/main/.github/workflows,ldcoolp-figshare/.github/workflows at main · UAL-RE/ldcoolp-figshare,1,1
+2021-09-27,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,4,4
+2021-09-27,/UAL-RE/redata-docs/blob/main/source/repos.rst,redata-docs/repos.rst at main · UAL-RE/redata-docs,1,1
+2021-09-27,/UAL-RE/redata-docs/commit/676d44d13a45c3bfd1d7a00386a60059bc11df89,"added ""CHANGELOG"" to Requiam removed ""README"" · UAL-RE/redata-docs@676d44d",1,1
+2021-09-27,/UAL-RE/redata-docs/commit/d0a6869f24dec785b488d7f3fc4d33626bc35de3,bump version 0.3.2 · UAL-RE/redata-docs@d0a6869,1,1
+2021-09-27,/UAL-RE/redata-docs/commit/d5896ffd2e11fb3085343c69aafed6db2fa8c68f,Merge branch '14_changelog_link' into main · UAL-RE/redata-docs@d5896ff,1,1
+2021-09-27,/UAL-RE/redata-docs/commits/main,Commits · UAL-RE/redata-docs,1,1
+2021-09-27,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,13,11
+2021-09-27,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,6,5
+2021-09-27,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/requirements.txt,ReM/requirements.txt at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM...,3,1
+2021-09-27,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,2
+2021-09-27,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286,GitHub - UAL-RE/ReM at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286,2,1
+2021-09-27,/UAL-RE/ReM/blob/main/readme_tool/figshare.py,ReM/figshare.py at main · UAL-RE/ReM · GitHub,1,1
+2021-09-27,/UAL-RE/ReM/blob/main/readme_tool/intake_form.py,ReM/intake_form.py at main · UAL-RE/ReM · GitHub,1,1
+2021-09-27,/UAL-RE/ReM/tree/main/readme_tool,ReM/readme_tool at main · UAL-RE/ReM · GitHub,1,1
+2021-09-27,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,7,2
+2021-09-27,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,6,3
+2021-09-27,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,5,1
+2021-09-27,/UAL-RE/ReQUIAM/tags,Tags · UAL-RE/ReQUIAM,3,2
+2021-09-27,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM,3,1
+2021-09-27,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM · GitHub,2,2
+2021-09-27,/UAL-RE/ReQUIAM/blob/master/config/figshare.ini,ReQUIAM/figshare.ini at master · UAL-RE/ReQUIAM,2,1
+2021-09-27,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7,2,1
+2021-09-27,/UAL-RE/ReQUIAM/pull/161/commits,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,2,1
+2021-09-27,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,2,1
+2021-09-27,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv,1,1
+2021-09-27,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
