@@ -113,6 +113,7 @@ ReM,2021-09-10,1,1
 ReM,2021-09-13,1,1
 ReM,2021-09-18,1,1
 ReM,2021-09-24,1,1
+ReM,2021-09-30,1,1
 ReQUIAM,2021-03-20,1,1
 ReQUIAM,2021-03-25,9,1
 ReQUIAM,2021-04-02,52,6
@@ -242,6 +243,7 @@ data-service-landscape-scan,2021-09-07,1,1
 data-service-landscape-scan,2021-09-15,1,1
 data-service-landscape-scan,2021-09-17,1,1
 data-service-landscape-scan,2021-09-29,1,1
+data-service-landscape-scan,2021-09-30,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -452,6 +454,7 @@ github-stats,2021-09-26,4,4
 github-stats,2021-09-27,4,4
 github-stats,2021-09-28,4,4
 github-stats,2021-09-29,4,4
+github-stats,2021-09-30,5,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -790,3 +793,4 @@ uptime,2021-09-26,24,5
 uptime,2021-09-27,22,4
 uptime,2021-09-28,9,4
 uptime,2021-09-29,113,4
+uptime,2021-09-30,113,5
