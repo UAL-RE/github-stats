@@ -1,0 +1,18 @@
+date,path,title,count,uniques
+2021-10-02,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2021-10-02,/UAL-RE/redata-iac/blob/4929ae72961cd2b7b240ac1f97348255b0ad1baf/ansible/add_swap_space.yml,redata-iac/add_swap_space.yml at 4929ae72961cd2b7b240ac1f97348255b0ad1baf · U...,1,1
+2021-10-02,/UAL-RE/redata-iac/blob/master/ansible/git-pull_requiam.yml,redata-iac/git-pull_requiam.yml at master · UAL-RE/redata-iac,1,1
+2021-10-02,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,8,7
+2021-10-02,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,5,5
+2021-10-02,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,1,1
+2021-10-02,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,11,6
+2021-10-02,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,5,2
+2021-10-02,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,5,1
+2021-10-02,/UAL-RE/ReQUIAM/tree/0.2.0,GitHub - UAL-RE/ReQUIAM at 0.2.0,3,2
+2021-10-02,/UAL-RE/ReQUIAM/tree/v1.0.1,GitHub - UAL-RE/ReQUIAM at v1.0.1,3,2
+2021-10-02,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM,3,1
+2021-10-02,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM · GitHub,2,2
+2021-10-02,/UAL-RE/ReQUIAM/branches,Branches · UAL-RE/ReQUIAM · GitHub,2,2
+2021-10-02,/UAL-RE/ReQUIAM/tree/0.1.0,GitHub - UAL-RE/ReQUIAM at 0.1.0,2,2
+2021-10-02,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7,2,1
+2021-10-02,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv,1,1
