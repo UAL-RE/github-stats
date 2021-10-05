@@ -1,0 +1,48 @@
+date,path,title,count,uniques
+2021-10-05,/ual-re/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
+2021-10-05,/ual-re/figstats/tree/feature/api,UAL-RE/figstats at feature/api,1,1
+2021-10-05,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,6,5
+2021-10-05,/UAL-RE/LD-Cool-P/blob/b7e60fab4909a1e59392c5fc1ad84884890ecfde/ldcoolp/curation/inspection/checksum.py,LD-Cool-P/checksum.py at b7e60fab4909a1e59392c5fc1ad84884890ecfde · UAL-RE/LD...,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/blob/b7e60fab4909a1e59392c5fc1ad84884890ecfde/ldcoolp/curation/inspection/readme/__init__.py,LD-Cool-P/__init__.py at b7e60fab4909a1e59392c5fc1ad84884890ecfde · UAL-RE/LD...,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/bug_report.md,LD-Cool-P/bug_report.md at master · UAL-RE/LD-Cool-P,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/issues/20,Primary function for data curation workflow · Issue #20 · UAL-RE/LD-Cool-P · ...,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/pull/239,Feature: Ensure graceful exit when deposit to be curated gets deleted by astr...,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/search,Search · md5,1,1
+2021-10-05,/UAL-RE/LD-Cool-P/tree/b7e60fab4909a1e59392c5fc1ad84884890ecfde/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at b7e60fab4909a1e59392c5fc1ad84884890ecfde · UAL-...,1,1
+2021-10-05,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,3
+2021-10-05,/UAL-RE/ldcoolp-figshare/blob/main/docs/source/index.rst,ldcoolp-figshare/index.rst at main · UAL-RE/ldcoolp-figshare · GitHub,1,1
+2021-10-05,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,1,1
+2021-10-05,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,1,1
+2021-10-05,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2021-10-05,/UAL-RE/redata-docs/blob/main/source/repos.rst,redata-docs/repos.rst at main · UAL-RE/redata-docs,1,1
+2021-10-05,/UAL-RE/redata-docs/commit/676d44d13a45c3bfd1d7a00386a60059bc11df89,"added ""CHANGELOG"" to Requiam removed ""README"" · UAL-RE/redata-docs@676d44d",1,1
+2021-10-05,/UAL-RE/redata-docs/commit/d0a6869f24dec785b488d7f3fc4d33626bc35de3,bump version 0.3.2 · UAL-RE/redata-docs@d0a6869,1,1
+2021-10-05,/UAL-RE/redata-docs/commit/d5896ffd2e11fb3085343c69aafed6db2fa8c68f,Merge branch '14_changelog_link' into main · UAL-RE/redata-docs@d5896ff,1,1
+2021-10-05,/UAL-RE/redata-docs/commits/main,Commits · UAL-RE/redata-docs,1,1
+2021-10-05,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2021-10-05,/UAL-RE/redata-iac/blob/4929ae72961cd2b7b240ac1f97348255b0ad1baf/ansible/add_swap_space.yml,redata-iac/add_swap_space.yml at 4929ae72961cd2b7b240ac1f97348255b0ad1baf · U...,1,1
+2021-10-05,/UAL-RE/redata-iac/blob/master/ansible/git-pull_requiam.yml,redata-iac/git-pull_requiam.yml at master · UAL-RE/redata-iac,1,1
+2021-10-05,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,6,6
+2021-10-05,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,6,5
+2021-10-05,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,1,1
+2021-10-05,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,11,5
+2021-10-05,/UAL-RE/ReQUIAM/pull/161,Merge develop into master - Include Grouper 2.5 migration by astrochun · Pull...,5,2
+2021-10-05,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,5,1
+2021-10-05,/UAL-RE/ReQUIAM/tree/0.2.0,GitHub - UAL-RE/ReQUIAM at 0.2.0,3,2
+2021-10-05,/UAL-RE/ReQUIAM/tree/v1.0.1,GitHub - UAL-RE/ReQUIAM at v1.0.1,3,2
+2021-10-05,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM,3,1
+2021-10-05,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM · GitHub,2,2
+2021-10-05,/UAL-RE/ReQUIAM/branches,Branches · UAL-RE/ReQUIAM · GitHub,2,2
+2021-10-05,/UAL-RE/ReQUIAM/tree/0.1.0,GitHub - UAL-RE/ReQUIAM at 0.1.0,2,2
+2021-10-05,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7,2,1
+2021-10-05,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv · GitHub,3,3
+2021-10-05,/UAL-RE/ReQUIAM_csv/find/master,File Finder,1,1
+2021-10-05,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,4,1
+2021-10-05,/UAL-RE/uptime/commits/HEAD/history/ua-institutional-repository.yml,History for history/ua-institutional-repository.yml - UAL-RE/uptime,2,1
+2021-10-05,/UAL-RE/uptime/blob/master/history/ua-institutional-repository.yml,uptime/ua-institutional-repository.yml at master · UAL-RE/uptime,1,1
+2021-10-05,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2021-10-05,/UAL-RE/uptime/commit/ede8736944b63c72633b1c3f3ca0d7f8ecda532e,🟥 UA Institutional Repository is down (503 in 281 ms) [skip ci] [uppt… · UAL...,1,1
+2021-10-05,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,1,1
+2021-10-05,/UAL-RE/uptime/tree/master/history,uptime/history at master · UAL-RE/uptime,1,1
