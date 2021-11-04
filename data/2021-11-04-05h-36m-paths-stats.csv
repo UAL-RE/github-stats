@@ -1,0 +1,43 @@
+date,path,title,count,uniques
+2021-11-04,/UAL-RE/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,4,1
+2021-11-04,/UAL-RE/figstats/network/members,Forks · UAL-RE/figstats,2,1
+2021-11-04,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,5,2
+2021-11-04,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,4,2
+2021-11-04,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P · GitHub,4,1
+2021-11-04,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,4,1
+2021-11-04,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P,4,1
+2021-11-04,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/email/urls.py,LD-Cool-P/urls.py at master · UAL-RE/LD-Cool-P,3,1
+2021-11-04,/UAL-RE/LD-Cool-P/labels/enhancement,Issues · UAL-RE/LD-Cool-P,3,1
+2021-11-04,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation/email,LD-Cool-P/ldcoolp/curation/email at master · UAL-RE/LD-Cool-P,3,1
+2021-11-04,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/scripts,LD-Cool-P/ldcoolp/scripts at master · UAL-RE/LD-Cool-P,3,1
+2021-11-04,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P · GitHub,2,1
+2021-11-04,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,2
+2021-11-04,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,1
+2021-11-04,/UAL-RE/redata-iac/network/members,Forks · UAL-RE/redata-iac,2,1
+2021-11-04,/UAL-RE/redata-iac/issues/33,Unable to run add_ssh_key_file ansible playbook · Issue #33 · UAL-RE/redata-i...,1,1
+2021-11-04,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,5,4
+2021-11-04,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,3,3
+2021-11-04,/UAL-RE/ReM/tree/main/.github/workflows,ReM/.github/workflows at main · UAL-RE/ReM,3,1
+2021-11-04,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
+2021-11-04,/UAL-RE/ReM/blob/main/pytest.ini,ReM/pytest.ini at main · UAL-RE/ReM,2,1
+2021-11-04,/UAL-RE/ReM/blob/main/conftest.py,ReM/conftest.py at main · UAL-RE/ReM,1,1
+2021-11-04,/UAL-RE/ReM/blob/main/.github/workflows/python-package.yml,ReM/python-package.yml at main · UAL-RE/ReM,1,1
+2021-11-04,/UAL-RE/ReM/blob/main/tests/test_figshare.py,ReM/test_figshare.py at main · UAL-RE/ReM,1,1
+2021-11-04,/UAL-RE/ReM/tree/main/tests,ReM/tests at main · UAL-RE/ReM,1,1
+2021-11-04,/UAL-RE/ReQUIAM,GitHub - UAL-RE/ReQUIAM: Identity and Access Management backend software for ...,7,1
+2021-11-04,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM · GitHub,3,1
+2021-11-04,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM · GitHub,2,1
+2021-11-04,/UAL-RE/ReQUIAM/projects,Projects · UAL-RE/ReQUIAM · GitHub,2,1
+2021-11-04,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2021-11-04,/UAL-RE/ReQUIAM/issues/31,manual_override script to handle individual fixes · Issue #31 · UAL-RE/ReQUIA...,1,1
+2021-11-04,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM · GitHub,1,1
+2021-11-04,/UAL-RE/ReQUIAM_csv,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,15,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv · GitHub,9,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/compare,Compare · UAL-RE/ReQUIAM_csv · GitHub,7,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,6,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/compare/master...develop,Comparing master...develop · UAL-RE/ReQUIAM_csv · GitHub,3,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/security,Security Overview · UAL-RE/ReQUIAM_csv,3,1
+2021-11-04,/UAL-RE/ReQUIAM_csv/compare/develop...master,Comparing develop...master · UAL-RE/ReQUIAM_csv · GitHub,2,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/compare/master...feature/commit_msg,Comparing master...feature/commit_msg · UAL-RE/ReQUIAM_csv · GitHub,2,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/compare/master...release/v0.12.0,Comparing master...release/v0.12.0 · UAL-RE/ReQUIAM_csv · GitHub,2,2
+2021-11-04,/UAL-RE/ReQUIAM_csv/issues/37,CSV updates · Issue #37 · UAL-RE/ReQUIAM_csv,2,2
