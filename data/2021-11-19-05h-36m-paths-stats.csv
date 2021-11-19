@@ -1,0 +1,62 @@
+date,path,title,count,uniques
+2021-11-19,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,2,1
+2021-11-19,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,1,1
+2021-11-19,/UAL-RE/data-service-landscape-scan/projects,Projects · UAL-RE/data-service-landscape-scan,1,1
+2021-11-19,/UAL-RE/data-service-landscape-scan/projects/1,Data Landscape Scan Project Board,1,1
+2021-11-19,/UAL-RE/data-viz-evaluations,GitHub - UAL-RE/data-viz-evaluations: Code for processing data visualization ...,2,2
+2021-11-19,/UAL-RE/figstats,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
+2021-11-19,/UAL-RE/github-stats/issues,Issues · UAL-RE/github-stats · GitHub,1,1
+2021-11-19,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,15,4
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P · GitHub,10,2
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/tests,LD-Cool-P/tests at master · UAL-RE/LD-Cool-P,8,1
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/.github/workflows,LD-Cool-P/.github/workflows at master · UAL-RE/LD-Cool-P · GitHub,7,2
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/config,LD-Cool-P/ldcoolp/config at master · UAL-RE/LD-Cool-P,7,1
+2021-11-19,/UAL-RE/LD-Cool-P/blob/master/.github/workflows/create-release.yml,LD-Cool-P/create-release.yml at master · UAL-RE/LD-Cool-P · GitHub,5,2
+2021-11-19,/UAL-RE/LD-Cool-P/blob/master/tests/__init__.py,LD-Cool-P/__init__.py at master · UAL-RE/LD-Cool-P,5,1
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/admin,LD-Cool-P/ldcoolp/admin at master · UAL-RE/LD-Cool-P,5,1
+2021-11-19,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default.ini,LD-Cool-P/default.ini at master · UAL-RE/LD-Cool-P,4,1
+2021-11-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,4,1
+2021-11-19,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,23,3
+2021-11-19,/UAL-RE/ldcoolp-figshare/tree/main/.github/workflows,ldcoolp-figshare/.github/workflows at main · UAL-RE/ldcoolp-figshare,11,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,6,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/blob/main/.github/workflows/create-release.yml,ldcoolp-figshare/create-release.yml at main · UAL-RE/ldcoolp-figshare,5,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/tree/main/docs,ldcoolp-figshare/docs at main · UAL-RE/ldcoolp-figshare,5,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/tree/main/.github,ldcoolp-figshare/.github at main · UAL-RE/ldcoolp-figshare,5,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/blob/main/.github/workflows/pypi-publish.yml,ldcoolp-figshare/pypi-publish.yml at main · UAL-RE/ldcoolp-figshare,4,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,4,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/blob/main/docs/make.bat,ldcoolp-figshare/make.bat at main · UAL-RE/ldcoolp-figshare,2,1
+2021-11-19,/UAL-RE/ldcoolp-figshare/blob/main/.gitignore,ldcoolp-figshare/.gitignore at main · UAL-RE/ldcoolp-figshare,2,1
+2021-11-19,/UAL-RE/redata-iac/pull/41,add scripts to configure RDP droplet by zoidy · Pull Request #41 · UAL-RE/red...,3,3
+2021-11-19,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,3,2
+2021-11-19,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,2,1
+2021-11-19,/UAL-RE/redata-iac/commit/be5167734eb3374e00e308de82945e8cc08cf82c,Update ansible/bashrc_ldcoolp_alias_setup.yml · UAL-RE/redata-iac@be51677 · G...,1,1
+2021-11-19,/UAL-RE/redata-iac/commits/master,Commits · UAL-RE/redata-iac · GitHub,1,1
+2021-11-19,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,1,1
+2021-11-19,/UAL-RE/redata-iac/issues/37,Add ansible playbook to add helpme for redata-iac · Issue #37 · UAL-RE/redata...,1,1
+2021-11-19,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,5,4
+2021-11-19,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,4,4
+2021-11-19,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,3,3
+2021-11-19,/UAL-RE/ReM/tree/main/readme_tool,ReM/readme_tool at main · UAL-RE/ReM · GitHub,2,2
+2021-11-19,/ual-re/rem,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,1,1
+2021-11-19,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,1,1
+2021-11-19,/UAL-RE/ReM/blob/main/readme_tool/figshare.py,ReM/figshare.py at main · UAL-RE/ReM,1,1
+2021-11-19,/UAL-RE/ReM/blob/main/readme_tool/intake_form.py,ReM/intake_form.py at main · UAL-RE/ReM,1,1
+2021-11-19,/UAL-RE/ReM/blob/main/requirements.txt,ReM/requirements.txt at main · UAL-RE/ReM · GitHub,1,1
+2021-11-19,/UAL-RE/ReM/blob/main/setup.py,ReM/setup.py at main · UAL-RE/ReM,1,1
+2021-11-19,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,16,1
+2021-11-19,/UAL-RE/ReQUIAM/issues/71,Script to check Grouper-EDS sync · Issue #71 · UAL-RE/ReQUIAM · GitHub,3,3
+2021-11-19,/UAL-RE/ReQUIAM/issues/116,Migration and testing for Grouper v2.5 · Issue #116 · UAL-RE/ReQUIAM · GitHub,2,2
+2021-11-19,/UAL-RE/ReQUIAM/issues/47,Failed error with manual_override from script_run · Issue #47 · UAL-RE/ReQUIA...,2,2
+2021-11-19,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,2,1
+2021-11-19,/UAL-RE/ReQUIAM/issues/18,script_run: --test flag for quick Grouper synchronization · Issue #18 · UAL-R...,2,1
+2021-11-19,/UAL-RE/ReQUIAM/pull/61,release/v0.12.0 by astrochun · Pull Request #61 · UAL-RE/ReQUIAM,1,1
+2021-11-19,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,5,3
+2021-11-19,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,4,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/compare/develop,Comparing master...develop · UAL-RE/ReQUIAM_csv,3,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/pull/82,Develop to merge to master by yhan818 · Pull Request #82 · UAL-RE/ReQUIAM_csv,2,2
+2021-11-19,/UAL-RE/ReQUIAM_csv/pull/82/commits/fbbc3dc375bd8e82cd96318f8aa580555a17c7e4,Develop to merge to master by yhan818 · Pull Request #82 · UAL-RE/ReQUIAM_csv,2,2
+2021-11-19,/UAL-RE/ReQUIAM_csv/blob/develop/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at develop · UAL-RE/ReQUIAM_csv,1,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/data/research_themes.csv,ReQUIAM_csv/research_themes.csv at master · UAL-RE/ReQUIAM_csv,1,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739 · GitHub,1,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/commit/fbbc3dc375bd8e82cd96318f8aa580555a17c7e4,add 'Ctr for Philosophy of Freedom' · UAL-RE/ReQUIAM_csv@fbbc3dc,1,1
+2021-11-19,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,1,1

@@ -111,6 +111,7 @@ LD-Cool-P,2021-11-08,3,1
 LD-Cool-P,2021-11-14,1,1
 LD-Cool-P,2021-11-15,1,1
 LD-Cool-P,2021-11-16,4,1
+LD-Cool-P,2021-11-18,2,2
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -465,6 +466,7 @@ data-service-landscape-scan,2021-09-08,14,2
 data-service-landscape-scan,2021-10-13,5,1
 data-service-landscape-scan,2021-10-20,1,1
 data-service-landscape-scan,2021-11-10,1,1
+data-service-landscape-scan,2021-11-18,4,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -728,6 +730,7 @@ redata-iac,2021-11-06,3,2
 redata-iac,2021-11-08,4,1
 redata-iac,2021-11-09,1,1
 redata-iac,2021-11-14,1,1
+redata-iac,2021-11-18,3,1
 redata-meta-redirect,2021-11-04,2,1
 slacking,2021-06-29,1,1
 slacking,2021-07-06,20,1
