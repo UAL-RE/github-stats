@@ -53,6 +53,7 @@ LD-Cool-P,2021-10-22,1,1
 LD-Cool-P,2021-10-27,2,1
 LD-Cool-P,2021-11-13,1,1
 LD-Cool-P,2021-11-21,1,1
+LD-Cool-P,2021-11-24,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -182,6 +183,7 @@ ReQUIAM,2021-10-24,1,1
 ReQUIAM,2021-10-28,2,1
 ReQUIAM,2021-11-20,1,1
 ReQUIAM,2021-11-21,1,1
+ReQUIAM,2021-11-23,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -304,6 +306,7 @@ data-service-landscape-scan,2021-10-15,1,1
 data-service-landscape-scan,2021-10-21,1,1
 data-service-landscape-scan,2021-10-28,2,1
 data-service-landscape-scan,2021-11-13,1,1
+data-service-landscape-scan,2021-11-23,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -578,6 +581,7 @@ github-stats,2021-11-19,6,4
 github-stats,2021-11-20,8,5
 github-stats,2021-11-21,6,4
 github-stats,2021-11-22,6,4
+github-stats,2021-11-23,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1002,3 +1006,4 @@ uptime,2021-11-20,25,4
 uptime,2021-11-21,23,5
 uptime,2021-11-22,24,4
 uptime,2021-11-23,23,4
+uptime,2021-11-24,23,4
