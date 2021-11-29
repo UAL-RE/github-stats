@@ -55,6 +55,7 @@ LD-Cool-P,2021-11-13,1,1
 LD-Cool-P,2021-11-21,1,1
 LD-Cool-P,2021-11-24,1,1
 LD-Cool-P,2021-11-26,1,1
+LD-Cool-P,2021-11-28,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -244,6 +245,7 @@ ReQUIAM_csv,2021-11-16,1,1
 ReQUIAM_csv,2021-11-21,1,1
 ReQUIAM_csv,2021-11-25,1,1
 ReQUIAM_csv,2021-11-26,1,1
+ReQUIAM_csv,2021-11-28,1,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -593,6 +595,7 @@ github-stats,2021-11-24,6,4
 github-stats,2021-11-25,6,4
 github-stats,2021-11-26,1,1
 github-stats,2021-11-27,6,4
+github-stats,2021-11-28,4,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -632,6 +635,7 @@ ldcoolp-figshare,2021-11-08,1,1
 ldcoolp-figshare,2021-11-21,1,1
 ldcoolp-figshare,2021-11-24,1,1
 ldcoolp-figshare,2021-11-26,2,2
+ldcoolp-figshare,2021-11-28,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -751,6 +755,7 @@ slacking,2021-10-29,1,1
 slacking,2021-11-02,1,1
 slacking,2021-11-05,1,1
 slacking,2021-11-21,1,1
+slacking,2021-11-28,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -1025,3 +1030,4 @@ uptime,2021-11-25,22,4
 uptime,2021-11-26,22,3
 uptime,2021-11-27,24,5
 uptime,2021-11-28,20,3
+uptime,2021-11-29,20,3
