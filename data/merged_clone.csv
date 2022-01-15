@@ -266,6 +266,7 @@ ReQUIAM_csv,2021-12-10,1,1
 ReQUIAM_csv,2022-01-02,2,1
 ReQUIAM_csv,2022-01-06,2,1
 ReQUIAM_csv,2022-01-07,1,1
+ReQUIAM_csv,2022-01-15,1,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -670,6 +671,7 @@ github-stats,2022-01-10,5,3
 github-stats,2022-01-11,5,3
 github-stats,2022-01-12,5,3
 github-stats,2022-01-13,5,3
+github-stats,2022-01-14,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -717,6 +719,7 @@ ldcoolp-figshare,2021-12-12,1,1
 ldcoolp-figshare,2021-12-16,1,1
 ldcoolp-figshare,2021-12-24,1,1
 ldcoolp-figshare,2022-01-01,1,1
+ldcoolp-figshare,2022-01-15,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1172,3 +1175,4 @@ uptime,2022-01-11,17,4
 uptime,2022-01-12,17,4
 uptime,2022-01-13,16,3
 uptime,2022-01-14,16,3
+uptime,2022-01-15,19,5
