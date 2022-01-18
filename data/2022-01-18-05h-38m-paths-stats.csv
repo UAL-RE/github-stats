@@ -1,0 +1,38 @@
+date,path,title,count,uniques
+2022-01-18,/UAL-RE/data-viz-challenge,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
+2022-01-18,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,3,1
+2022-01-18,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2022-01-18,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2022-01-18,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2022-01-18,/UAL-RE/LD-Cool-P/pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-18,/UAL-RE/LD-Cool-P/pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-18,/UAL-RE/LD-Cool-P/pull/132/files,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-18,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,1
+2022-01-18,/UAL-RE/redata-iac,GitHub - UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-01-18,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac · GitHub,1,1
+2022-01-18,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,15,8
+2022-01-18,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,9,8
+2022-01-18,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,5,1
+2022-01-18,/UAL-RE/ReM/tree/main/readme_tool,ReM/readme_tool at main · UAL-RE/ReM,5,1
+2022-01-18,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,4,1
+2022-01-18,/UAL-RE/ReM/tree/main/templates,ReM/templates at main · UAL-RE/ReM,3,1
+2022-01-18,/ual-re/rem,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,1,1
+2022-01-18,/UAL-RE/ReM/blob/main/readme_tool/figshare.py,ReM/figshare.py at main · UAL-RE/ReM,1,1
+2022-01-18,/UAL-RE/ReM/blob/main/readme_tool/intake_form.py,ReM/intake_form.py at main · UAL-RE/ReM,1,1
+2022-01-18,/UAL-RE/ReM/blob/main/requirements.txt,ReM/requirements.txt at main · UAL-RE/ReM,1,1
+2022-01-18,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,4,2
+2022-01-18,/UAL-RE/ReQUIAM/graphs/contributors,Contributors to UAL-RE/ReQUIAM · GitHub,4,1
+2022-01-18,/UAL-RE/ReQUIAM/pulse,Pulse · UAL-RE/ReQUIAM · GitHub,4,1
+2022-01-18,/UAL-RE/ReQUIAM/pulse/monthly,Pulse · UAL-RE/ReQUIAM · GitHub,2,1
+2022-01-18,/UAL-RE/ReQUIAM/commits,Commits · UAL-RE/ReQUIAM · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM/projects/1,ReDATA Patron Management Software,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,3,2
+2022-01-18,/ual-re/requiam_csv,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/commons.py,ReQUIAM_csv/commons.py at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/create_csv.py,ReQUIAM_csv/create_csv.py at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/default.ini at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/__init__.py,ReQUIAM_csv/__init__.py at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/script_run,ReQUIAM_csv/script_run at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/pull/82,Develop to merge to master by yhan818 · Pull Request #82 · UAL-RE/ReQUIAM_csv...,1,1
+2022-01-18,/UAL-RE/ReQUIAM_csv/pulse,Pulse · UAL-RE/ReQUIAM_csv · GitHub,1,1
