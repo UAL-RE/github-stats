@@ -290,6 +290,7 @@ UAL-RE,2021-11-05,1,1
 UAL-RE,2021-11-08,1,1
 UAL-RE,2022-01-07,1,1
 UAL-RE,2022-01-14,2,1
+UAL-RE,2022-01-19,2,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -688,6 +689,7 @@ github-stats,2022-01-15,7,4
 github-stats,2022-01-16,5,3
 github-stats,2022-01-17,6,4
 github-stats,2022-01-18,6,4
+github-stats,2022-01-19,8,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -857,6 +859,7 @@ redata-iac,2021-11-09,1,1
 redata-iac,2021-11-12,1,1
 redata-iac,2021-11-14,1,1
 redata-iac,2022-01-07,1,1
+redata-iac,2022-01-19,2,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -1202,3 +1205,4 @@ uptime,2022-01-16,20,4
 uptime,2022-01-17,17,4
 uptime,2022-01-18,24,6
 uptime,2022-01-19,25,4
+uptime,2022-01-20,28,5
