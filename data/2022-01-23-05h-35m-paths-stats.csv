@@ -1,0 +1,45 @@
+date,path,title,count,uniques
+2022-01-23,/UAL-RE/data-service-landscape-scan/blob/8e68dab9666cb20880767f998e07e23b637f866e/data/services-qc/services-present-jo.csv,data-service-landscape-scan/services-present-jo.csv at 8e68dab9666cb20880767f...,1,1
+2022-01-23,/UAL-RE/figstats,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
+2022-01-23,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,3,1
+2022-01-23,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2022-01-23,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2022-01-23,/UAL-RE/LD-Cool-P/pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-23,/UAL-RE/LD-Cool-P/pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-23,/UAL-RE/LD-Cool-P/pull/132/files,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2022-01-23,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,1
+2022-01-23,/UAL-RE/redata-iac,GitHub - UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-01-23,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac · GitHub,1,1
+2022-01-23,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,14,7
+2022-01-23,/UAL-RE/ReM,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,11,1
+2022-01-23,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,8,7
+2022-01-23,/UAL-RE/ReM/tree/main/readme_tool,ReM/readme_tool at main · UAL-RE/ReM,6,1
+2022-01-23,/UAL-RE/ReM/blob/main/main.py,ReM/main.py at main · UAL-RE/ReM,5,1
+2022-01-23,/UAL-RE/ReM/tree/main/tests,ReM/tests at main · UAL-RE/ReM,4,1
+2022-01-23,/UAL-RE/ReM/actions,Actions · UAL-RE/ReM,3,1
+2022-01-23,/UAL-RE/ReM/tree/main/templates,ReM/templates at main · UAL-RE/ReM,3,1
+2022-01-23,/UAL-RE/ReM/blob/main/.coveragerc,ReM/.coveragerc at main · UAL-RE/ReM,2,1
+2022-01-23,/ual-re/rem,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,1,1
+2022-01-23,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,8,3
+2022-01-23,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM · GitHub,5,2
+2022-01-23,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,5,1
+2022-01-23,/UAL-RE/ReQUIAM/graphs/contributors,Contributors to UAL-RE/ReQUIAM · GitHub,4,1
+2022-01-23,/UAL-RE/ReQUIAM/pulse,Pulse · UAL-RE/ReQUIAM · GitHub,4,1
+2022-01-23,/UAL-RE/ReQUIAM/issues/135,Chore: Add docs checkmark to PR templates · Issue #135 · UAL-RE/ReQUIAM · Git...,3,2
+2022-01-23,/UAL-RE/ReQUIAM/issues/66,Grouper checks in script_run for existence of group · Issue #66 · UAL-RE/ReQU...,3,2
+2022-01-23,/UAL-RE/ReQUIAM/blob/master/CHANGELOG.md,ReQUIAM/CHANGELOG.md at master · UAL-RE/ReQUIAM,3,1
+2022-01-23,/UAL-RE/ReQUIAM/edit/master/README.md,Editing ReQUIAM/README.md at master · UAL-RE/ReQUIAM,2,1
+2022-01-23,/UAL-RE/ReQUIAM/pulse/monthly,Pulse · UAL-RE/ReQUIAM · GitHub,2,1
+2022-01-23,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,5,3
+2022-01-23,/UAL-RE/ReQUIAM_csv/commit/fb42334758ea4860b1249b05c469c235059a6f73,Add issue and pull request GitHub templates · UAL-RE/ReQUIAM_csv@fb42334,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/issues/31,Comparing Org Code spreadsheets · Issue #31 · UAL-RE/ReQUIAM_csv,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/issues/37,CSV updates · Issue #37 · UAL-RE/ReQUIAM_csv,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/pull/82,Develop to merge to master by yhan818 · Pull Request #82 · UAL-RE/ReQUIAM_csv...,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/pulse,Pulse · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/tree/master/.github,ReQUIAM_csv/.github at master · UAL-RE/ReQUIAM_csv,1,1
+2022-01-23,/UAL-RE/ReQUIAM_csv/tree/master/.github/PULL_REQUEST_TEMPLATE,ReQUIAM_csv/.github/PULL_REQUEST_TEMPLATE at master · UAL-RE/ReQUIAM_csv,1,1
+2022-01-23,/UAL-RE/uptime,GitHub - UAL-RE/uptime: Uptime monitoring with @upptime,2,2
+2022-01-23,/UAL-RE/uptime/issues/126,🛑 UA Institutional Repository is down · Issue #126 · UAL-RE/uptime · GitHub,1,1
+2022-01-23,/UAL-RE/uptime/issues/152,🛑 Campus Repository is down · Issue #152 · UAL-RE/uptime · GitHub,1,1

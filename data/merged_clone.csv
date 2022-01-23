@@ -421,6 +421,7 @@ figstats,2021-11-15,1,1
 figstats,2022-01-02,2,1
 figstats,2022-01-07,1,1
 figstats,2022-01-18,2,1
+figstats,2022-01-22,1,1
 github-stats,2021-04-23,9,8
 github-stats,2021-04-24,7,7
 github-stats,2021-04-25,8,7
@@ -695,6 +696,7 @@ github-stats,2022-01-18,6,4
 github-stats,2022-01-19,8,5
 github-stats,2022-01-20,8,6
 github-stats,2022-01-21,4,3
+github-stats,2022-01-22,4,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1213,3 +1215,4 @@ uptime,2022-01-19,25,4
 uptime,2022-01-20,28,5
 uptime,2022-01-21,21,4
 uptime,2022-01-22,18,3
+uptime,2022-01-23,26,6
