@@ -412,6 +412,7 @@ data-viz-evaluations,2021-11-12,1,1
 data-viz-evaluations,2022-01-12,2,1
 data-viz-evaluations,2022-01-18,2,1
 data-viz-evaluations,2022-01-25,2,1
+data-viz-evaluations,2022-02-04,1,1
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -727,6 +728,7 @@ github-stats,2022-01-31,5,4
 github-stats,2022-02-01,6,4
 github-stats,2022-02-02,6,4
 github-stats,2022-02-03,8,5
+github-stats,2022-02-04,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1267,3 +1269,4 @@ uptime,2022-02-01,22,3
 uptime,2022-02-02,21,3
 uptime,2022-02-03,24,5
 uptime,2022-02-04,30,6
+uptime,2022-02-05,28,4
