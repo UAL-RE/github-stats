@@ -224,6 +224,7 @@ ReQUIAM,2022-01-25,5,4
 ReQUIAM,2022-01-26,4,3
 ReQUIAM,2022-01-29,2,1
 ReQUIAM,2022-01-30,1,1
+ReQUIAM,2022-02-06,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -729,6 +730,7 @@ github-stats,2022-02-01,6,4
 github-stats,2022-02-02,6,4
 github-stats,2022-02-03,8,5
 github-stats,2022-02-04,6,4
+github-stats,2022-02-05,8,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1270,3 +1272,4 @@ uptime,2022-02-02,21,3
 uptime,2022-02-03,24,5
 uptime,2022-02-04,30,6
 uptime,2022-02-05,28,4
+uptime,2022-02-06,27,5
