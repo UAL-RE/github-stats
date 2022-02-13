@@ -1,0 +1,44 @@
+date,path,title,count,uniques
+2022-02-13,/UAL-RE/figstats,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
+2022-02-13,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,11,4
+2022-02-13,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,3,2
+2022-02-13,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,2,2
+2022-02-13,/UAL-RE/LD-Cool-P/issues/243,Switch to using JSON for configuration settings · Issue #243 · UAL-RE/LD-Cool-P,2,1
+2022-02-13,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,1
+2022-02-13,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,2,1
+2022-02-13,/UAL-RE/LD-Cool-P/wiki,GitHub · Where software is built,2,1
+2022-02-13,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2022-02-13,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2022-02-13,/UAL-RE/LD-Cool-P/issues/91,Update README.md for change in Overview · Issue #91 · UAL-RE/LD-Cool-P,1,1
+2022-02-13,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2022-02-13,/UAL-RE/ldcoolp-figshare/blob/main/requirements.txt,ldcoolp-figshare/requirements.txt at main · UAL-RE/ldcoolp-figshare,1,1
+2022-02-13,/UAL-RE/redata-commons,GitHub - UAL-RE/redata-commons: Commons code used by ReDATA codebases,5,1
+2022-02-13,/UAL-RE/redata-commons/tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons · GitHub,2,1
+2022-02-13,/UAL-RE/redata-commons/blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/redata-commons/blob/main/setup.py,redata-commons/setup.py at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/redata-commons/blob/main/tests/test_git_info.py,redata-commons/test_git_info.py at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/redata-commons/blob/main/tests/test_logger.py,redata-commons/test_logger.py at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/redata-commons/tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/redata-commons/tree/main/tests,redata-commons/tests at main · UAL-RE/redata-commons · GitHub,1,1
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/main.py,ReM/main.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · GitHub,15,8
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/figshare.py,ReM/figshare.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM · Gi...,8,4
+2022-02-13,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool,ReM/readme_tool at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,6,1
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/__init__.py,ReM/__init__.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,2,1
+2022-02-13,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286,UAL-RE/ReM at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286,2,1
+2022-02-13,/UAL-RE/ReM,GitHub - UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to c...,1,1
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/readme_tool/intake_form.py,ReM/intake_form.py at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,1,1
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/requirements.txt,ReM/requirements.txt at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,1,1
+2022-02-13,/UAL-RE/ReM/blob/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/settings_templates.json,ReM/settings_templates.json at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL...,1,1
+2022-02-13,/UAL-RE/ReM/tree/61aed9b92ecfdd983fd1d05d01bb95c5b5532286/templates,ReM/templates at 61aed9b92ecfdd983fd1d05d01bb95c5b5532286 · UAL-RE/ReM,1,1
+2022-02-13,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,6,3
+2022-02-13,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,4,3
+2022-02-13,/UAL-RE/ReQUIAM/issues/135,Chore: Add docs checkmark to PR templates · Issue #135 · UAL-RE/ReQUIAM,3,3
+2022-02-13,/UAL-RE/ReQUIAM/tree/master/.github,ReQUIAM/.github at master · UAL-RE/ReQUIAM,2,1
+2022-02-13,/UAL-RE/ReQUIAM/tree/master/.github/PULL_REQUEST_TEMPLATE,ReQUIAM/.github/PULL_REQUEST_TEMPLATE at master · UAL-RE/ReQUIAM,2,1
+2022-02-13,/UAL-RE/ReQUIAM/blob/master/.github/PULL_REQUEST_TEMPLATE/bug-pull-request.md,ReQUIAM/bug-pull-request.md at master · UAL-RE/ReQUIAM,1,1
+2022-02-13,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM · GitHub,1,1
+2022-02-13,/UAL-RE/ReQUIAM/issues/66,Grouper checks in script_run for existence of group · Issue #66 · UAL-RE/ReQU...,1,1
+2022-02-13,/UAL-RE/ReQUIAM/pull/163,Update README.md by yhan818 · Pull Request #163 · UAL-RE/ReQUIAM,1,1
+2022-02-13,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,4,2
+2022-02-13,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv · ...,3,2
+2022-02-13,/UAL-RE/ReQUIAM_csv,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
