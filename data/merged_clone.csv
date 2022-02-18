@@ -229,6 +229,7 @@ ReQUIAM,2022-01-29,2,1
 ReQUIAM,2022-01-30,1,1
 ReQUIAM,2022-02-06,1,1
 ReQUIAM,2022-02-15,3,3
+ReQUIAM,2022-02-17,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -314,6 +315,7 @@ UAL-RE,2022-01-07,1,1
 UAL-RE,2022-01-14,2,1
 UAL-RE,2022-01-19,2,1
 UAL-RE,2022-01-25,2,1
+UAL-RE,2022-02-18,1,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -748,6 +750,7 @@ github-stats,2022-02-13,6,4
 github-stats,2022-02-14,4,3
 github-stats,2022-02-15,9,4
 github-stats,2022-02-16,1,1
+github-stats,2022-02-17,8,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1302,3 +1305,4 @@ uptime,2022-02-14,18,4
 uptime,2022-02-15,23,5
 uptime,2022-02-16,20,3
 uptime,2022-02-17,26,6
+uptime,2022-02-18,26,6
