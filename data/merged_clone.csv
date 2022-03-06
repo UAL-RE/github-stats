@@ -321,6 +321,7 @@ UAL-RE,2022-01-14,2,1
 UAL-RE,2022-01-19,2,1
 UAL-RE,2022-01-25,2,1
 UAL-RE,2022-02-18,1,1
+UAL-RE,2022-03-04,1,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -1350,3 +1351,4 @@ uptime,2022-03-02,18,2
 uptime,2022-03-03,17,2
 uptime,2022-03-04,16,2
 uptime,2022-03-05,114,3
+uptime,2022-03-06,21,4
