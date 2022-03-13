@@ -783,6 +783,7 @@ github-stats,2022-03-08,1,1
 github-stats,2022-03-09,5,3
 github-stats,2022-03-10,6,4
 github-stats,2022-03-11,7,5
+github-stats,2022-03-12,7,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -943,6 +944,7 @@ redata-docs,2022-01-18,2,1
 redata-docs,2022-01-25,2,1
 redata-docs,2022-01-26,1,1
 redata-docs,2022-02-12,1,1
+redata-docs,2022-03-12,1,1
 redata-iac,2021-06-29,3,3
 redata-iac,2021-07-01,2,2
 redata-iac,2021-07-19,6,5
@@ -1367,3 +1369,4 @@ uptime,2022-03-09,52,4
 uptime,2022-03-10,19,4
 uptime,2022-03-11,21,3
 uptime,2022-03-12,22,4
+uptime,2022-03-13,24,6
