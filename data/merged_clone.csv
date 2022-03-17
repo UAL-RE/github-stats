@@ -71,6 +71,7 @@ LD-Cool-P,2022-03-03,1,1
 LD-Cool-P,2022-03-04,1,1
 LD-Cool-P,2022-03-07,2,1
 LD-Cool-P,2022-03-14,2,1
+LD-Cool-P,2022-03-16,4,2
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -307,6 +308,7 @@ ReQUIAM_csv,2022-01-29,2,1
 ReQUIAM_csv,2022-02-14,1,1
 ReQUIAM_csv,2022-02-15,1,1
 ReQUIAM_csv,2022-03-04,2,2
+ReQUIAM_csv,2022-03-16,4,2
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -915,6 +917,7 @@ redata-commons,2022-01-18,3,2
 redata-commons,2022-01-25,3,1
 redata-commons,2022-03-04,1,1
 redata-commons,2022-03-11,1,1
+redata-commons,2022-03-16,2,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -977,6 +980,7 @@ redata-iac,2022-01-26,1,1
 redata-iac,2022-01-29,1,1
 redata-iac,2022-03-03,1,1
 redata-iac,2022-03-04,1,1
+redata-iac,2022-03-16,2,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -1380,3 +1384,4 @@ uptime,2022-03-13,24,6
 uptime,2022-03-14,21,6
 uptime,2022-03-15,23,6
 uptime,2022-03-16,22,6
+uptime,2022-03-17,26,5
