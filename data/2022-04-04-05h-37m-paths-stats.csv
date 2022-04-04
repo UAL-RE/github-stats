@@ -1,0 +1,19 @@
+date,path,title,count,uniques
+2022-04-04,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+2022-04-04,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,4,2
+2022-04-04,/UAL-RE/redata-docs/tree/main/source,redata-docs/source at main · UAL-RE/redata-docs,2,1
+2022-04-04,/UAL-RE/redata-docs/blob/main/source/index.rst,redata-docs/index.rst at main · UAL-RE/redata-docs,1,1
+2022-04-04,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-04-04,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,5,2
+2022-04-04,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2022-04-04,/UAL-RE/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,1,1
+2022-04-04,/UAL-RE/ReQUIAM/blob/master/scripts/script_run,ReQUIAM/script_run at master · UAL-RE/ReQUIAM,1,1
+2022-04-04,/UAL-RE/ReQUIAM/issues/120,Enhancement: PR template · Issue #120 · UAL-RE/ReQUIAM,1,1
+2022-04-04,/UAL-RE/ReQUIAM/issues/71,Script to check Grouper-EDS sync · Issue #71 · UAL-RE/ReQUIAM,1,1
+2022-04-04,/UAL-RE/ReQUIAM/tree/master/requiam,ReQUIAM/requiam at master · UAL-RE/ReQUIAM,1,1
+2022-04-04,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/create_csv.py,ReQUIAM_csv/create_csv.py at master · UAL-RE/ReQUIAM_csv,2,1
+2022-04-04,/ual-re/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-04-04,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/default.ini at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-04,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/__init__.py,ReQUIAM_csv/__init__.py at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-04,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
+2022-04-04,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,1,1
