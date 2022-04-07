@@ -165,6 +165,7 @@ LD-Cool-P,2022-03-31,420,3
 LD-Cool-P,2022-04-02,5,1
 LD-Cool-P,2022-04-04,3,1
 LD-Cool-P,2022-04-05,4,2
+LD-Cool-P,2022-04-06,2,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -510,6 +511,7 @@ ReQUIAM,2022-03-26,1,1
 ReQUIAM,2022-03-29,1,1
 ReQUIAM,2022-03-30,7,1
 ReQUIAM,2022-04-01,3,1
+ReQUIAM,2022-04-06,1,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -957,6 +959,7 @@ redata-iac,2022-04-03,1,1
 redata-iac,2022-04-05,36,1
 redata-landing-page,2022-03-18,62,1
 redata-landing-page,2022-03-19,11,1
+redata-landing-page,2022-04-06,1,1
 redata-meta-redirect,2021-11-04,2,1
 slacking,2021-06-29,1,1
 slacking,2021-07-06,20,1
