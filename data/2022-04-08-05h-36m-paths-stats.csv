@@ -1,0 +1,21 @@
+date,path,title,count,uniques
+2022-04-08,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-04-08,/UAL-RE/data-viz-challenge,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge website,1,1
+2022-04-08,/UAL-RE/data-viz-evaluations,UAL-RE/data-viz-evaluations: Code for processing data visualization submissions,2,2
+2022-04-08,/UAL-RE/github-stats/actions/workflows/gh-pages-deploy.yml,Actions · UAL-RE/github-stats,3,1
+2022-04-08,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,2,1
+2022-04-08,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,2,1
+2022-04-08,/UAL-RE/github-stats/actions/runs/2069127295,Deploy GitHub pages with traffic stats · UAL-RE/github-stats@1ea80f8,2,1
+2022-04-08,/UAL-RE/github-stats/actions/runs/2069132252,pages build and deployment · UAL-RE/github-stats@3b455be,2,1
+2022-04-08,/UAL-RE/github-stats/actions/workflows/pages/pages-build-deployment,Actions · UAL-RE/github-stats,2,1
+2022-04-08,/UAL-RE/github-stats/actions/runs/2069127295/workflow,Update data: 2022-03-30 · UAL-RE/github-stats@1ea80f8,1,1
+2022-04-08,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,79,5
+2022-04-08,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,44,3
+2022-04-08,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,20,1
+2022-04-08,/UAL-RE/LD-Cool-P/commits/master,Commits · UAL-RE/LD-Cool-P,14,2
+2022-04-08,/UAL-RE/LD-Cool-P/releases/tag/v1.1.7,Release v1.1.7 · UAL-RE/LD-Cool-P,14,2
+2022-04-08,/UAL-RE/LD-Cool-P/pull/249,Bump version: v1.1.6 -> v1.1.7 by jonathannoah · Pull Request #249 · UAL-RE/L...,13,2
+2022-04-08,/UAL-RE/LD-Cool-P/releases,Releases · UAL-RE/LD-Cool-P,13,2
+2022-04-08,/UAL-RE/LD-Cool-P/commit/8d080f791015e662aadb124539da733ebe077fad,Bump version: v1.1.5 -> v1.1.6 · UAL-RE/LD-Cool-P@8d080f7,11,2
+2022-04-08,/UAL-RE/LD-Cool-P/pull/248,Chore: Update README template headers by jonathannoah · Pull Request #248 · U...,10,3
+2022-04-08,/UAL-RE/LD-Cool-P/pull/250,Bump numpy from 1.20.0 to 1.21.0 by dependabot[bot] · Pull Request #250 · UAL...,8,2
