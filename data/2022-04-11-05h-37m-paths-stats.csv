@@ -1,0 +1,37 @@
+date,path,title,count,uniques
+2022-04-11,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,16,3
+2022-04-11,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,8,2
+2022-04-11,/UAL-RE/ReBACH/pull/4,"add preservation schema, include top level folder, GH Action for linting by z...",6,3
+2022-04-11,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,4,3
+2022-04-11,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/ualrdm-directory-schema.json,ReBACH/ualrdm-directory-schema.json at main · UAL-RE/ReBACH,3,3
+2022-04-11,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/curation-directory-validate.py,ReBACH/curation-directory-validate.py at main · UAL-RE/ReBACH,3,2
+2022-04-11,/UAL-RE/ReBACH/commits/develop,Commits · UAL-RE/ReBACH,3,1
+2022-04-11,/UAL-RE/ReBACH/pull/5,Create lint.yml by zoidy · Pull Request #5 · UAL-RE/ReBACH,3,1
+2022-04-11,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,2,2
+2022-04-11,/UAL-RE/ReBACH/tree/develop,UAL-RE/ReBACH at develop,2,1
+2022-04-11,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,3,2
+2022-04-11,/UAL-RE/redata-docs/blob/main/source/index.rst,redata-docs/index.rst at main · UAL-RE/redata-docs,1,1
+2022-04-11,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,6,1
+2022-04-11,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,5,3
+2022-04-11,/UAL-RE/redata-iac/blob/master/ansible/git-pull_ldcoolp.yml,redata-iac/git-pull_ldcoolp.yml at master · UAL-RE/redata-iac,4,1
+2022-04-11,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,2,1
+2022-04-11,/UAL-RE/redata-iac/tree/master/ansible/rdp,redata-iac/ansible/rdp at master · UAL-RE/redata-iac,2,1
+2022-04-11,/UAL-RE/redata-iac/tree/master/ansible/roles,redata-iac/ansible/roles at master · UAL-RE/redata-iac,2,1
+2022-04-11,/UAL-RE/redata-iac/tree/master/.github/workflows,redata-iac/.github/workflows at master · UAL-RE/redata-iac,2,1
+2022-04-11,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,2,1
+2022-04-11,/UAL-RE/redata-iac/blob/master/ansible/account_create.yml,redata-iac/account_create.yml at master · UAL-RE/redata-iac,1,1
+2022-04-11,/UAL-RE/redata-iac/blob/master/ansible/git-pull_requiam.yml,redata-iac/git-pull_requiam.yml at master · UAL-RE/redata-iac,1,1
+2022-04-11,/UAL-RE/redata-landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+2022-04-11,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,9,6
+2022-04-11,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2022-04-11,/UAL-RE/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,1,1
+2022-04-11,/UAL-RE/ReQUIAM/blob/master/scripts/script_run,ReQUIAM/script_run at master · UAL-RE/ReQUIAM,1,1
+2022-04-11,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7 · GitHub,1,1
+2022-04-11,/UAL-RE/ReQUIAM/issues/71,Script to check Grouper-EDS sync · Issue #71 · UAL-RE/ReQUIAM,1,1
+2022-04-11,/UAL-RE/ReQUIAM/tree/master/requiam,ReQUIAM/requiam at master · UAL-RE/ReQUIAM,1,1
+2022-04-11,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/create_csv.py,ReQUIAM_csv/create_csv.py at master · UAL-RE/ReQUIAM_csv,2,1
+2022-04-11,/ual-re/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-04-11,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/default.ini at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-11,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/__init__.py,ReQUIAM_csv/__init__.py at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-11,/UAL-RE/ReQUIAM_csv/issues/50,GitHub Actions for release gating · Issue #50 · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-04-11,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,1,1
