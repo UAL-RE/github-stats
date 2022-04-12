@@ -1,0 +1,61 @@
+date,path,title,count,uniques
+2022-04-12,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-04-12,/UAL-RE/data-viz-challenge,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge website,1,1
+2022-04-12,/UAL-RE/data-viz-evaluations,UAL-RE/data-viz-evaluations: Code for processing data visualization submissions,2,2
+2022-04-12,/UAL-RE/github-stats/actions/workflows/gh-pages-deploy.yml,Actions · UAL-RE/github-stats,3,1
+2022-04-12,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,2,1
+2022-04-12,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,2,1
+2022-04-12,/UAL-RE/github-stats/actions/runs/2069127295,Deploy GitHub pages with traffic stats · UAL-RE/github-stats@1ea80f8,2,1
+2022-04-12,/UAL-RE/github-stats/actions/runs/2069132252,pages build and deployment · UAL-RE/github-stats@3b455be,2,1
+2022-04-12,/UAL-RE/github-stats/actions/workflows/pages/pages-build-deployment,Actions · UAL-RE/github-stats,2,1
+2022-04-12,/UAL-RE/github-stats/actions/runs/2069127295/workflow,Update data: 2022-03-30 · UAL-RE/github-stats@1ea80f8,1,1
+2022-04-12,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,78,4
+2022-04-12,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,43,2
+2022-04-12,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,23,2
+2022-04-12,/UAL-RE/LD-Cool-P/commits/master,Commits · UAL-RE/LD-Cool-P,15,2
+2022-04-12,/UAL-RE/LD-Cool-P/releases/tag/v1.1.7,Release v1.1.7 · UAL-RE/LD-Cool-P,14,2
+2022-04-12,/UAL-RE/LD-Cool-P/pull/249,Bump version: v1.1.6 -> v1.1.7 by jonathannoah · Pull Request #249 · UAL-RE/L...,13,2
+2022-04-12,/UAL-RE/LD-Cool-P/releases,Releases · UAL-RE/LD-Cool-P,13,2
+2022-04-12,/UAL-RE/LD-Cool-P/commit/8d080f791015e662aadb124539da733ebe077fad,Bump version: v1.1.5 -> v1.1.6 · UAL-RE/LD-Cool-P@8d080f7,11,2
+2022-04-12,/UAL-RE/LD-Cool-P/pull/248,Chore: Update README template headers by jonathannoah · Pull Request #248 · U...,10,3
+2022-04-12,/UAL-RE/LD-Cool-P/pull/250,Bump numpy from 1.20.0 to 1.21.0 by dependabot[bot] · Pull Request #250 · UAL...,8,2
+2022-04-12,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,15,4
+2022-04-12,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,9,3
+2022-04-12,/UAL-RE/ReBACH/pull/4,"add preservation schema, include top level folder, GH Action for linting by z...",5,3
+2022-04-12,/UAL-RE/ReBACH/pull/5,Create lint.yml by zoidy · Pull Request #5 · UAL-RE/ReBACH,3,1
+2022-04-12,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/ualrdm-directory-schema.json,ReBACH/ualrdm-directory-schema.json at main · UAL-RE/ReBACH,2,2
+2022-04-12,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,2,2
+2022-04-12,/UAL-RE/ReBACH/pull/3,Add validation for preservation directory struct. by zoidy · Pull Request #3 ...,2,2
+2022-04-12,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,2,2
+2022-04-12,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/curation-directory-validate.py,ReBACH/curation-directory-validate.py at main · UAL-RE/ReBACH,2,1
+2022-04-12,/UAL-RE/ReBACH/tree/develop-test,UAL-RE/ReBACH at develop-test,2,1
+2022-04-12,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,3,2
+2022-04-12,/UAL-RE/redata-docs/blob/main/source/index.rst,redata-docs/index.rst at main · UAL-RE/redata-docs,1,1
+2022-04-12,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,6,1
+2022-04-12,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,5,3
+2022-04-12,/UAL-RE/redata-iac/blob/master/ansible/git-pull_ldcoolp.yml,redata-iac/git-pull_ldcoolp.yml at master · UAL-RE/redata-iac,4,1
+2022-04-12,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,2,1
+2022-04-12,/UAL-RE/redata-iac/tree/master/ansible/rdp,redata-iac/ansible/rdp at master · UAL-RE/redata-iac,2,1
+2022-04-12,/UAL-RE/redata-iac/tree/master/ansible/roles,redata-iac/ansible/roles at master · UAL-RE/redata-iac,2,1
+2022-04-12,/UAL-RE/redata-iac/tree/master/.github/workflows,redata-iac/.github/workflows at master · UAL-RE/redata-iac,2,1
+2022-04-12,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,2,1
+2022-04-12,/UAL-RE/redata-iac/blob/master/ansible/account_create.yml,redata-iac/account_create.yml at master · UAL-RE/redata-iac,1,1
+2022-04-12,/UAL-RE/redata-iac/blob/master/ansible/git-pull_requiam.yml,redata-iac/git-pull_requiam.yml at master · UAL-RE/redata-iac,1,1
+2022-04-12,/UAL-RE/redata-landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+2022-04-12,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,15,8
+2022-04-12,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2022-04-12,/UAL-RE/ReQUIAM/edit/master/README.md,Editing ReQUIAM/README.md at master · UAL-RE/ReQUIAM,2,1
+2022-04-12,/UAL-RE/ReQUIAM/blob/master/config/figshare.ini,ReQUIAM/figshare.ini at master · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM/blob/master/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM/blob/master/scripts/script_run,ReQUIAM/script_run at master · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7 · GitHub,1,1
+2022-04-12,/UAL-RE/ReQUIAM/compare/master...yhan818-patch-2,Comparing master...yhan818-patch-2 · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM/issues/71,Script to check Grouper-EDS sync · Issue #71 · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM/pull/164,Update README.md by yhan818 · Pull Request #164 · UAL-RE/ReQUIAM,1,1
+2022-04-12,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/create_csv.py,ReQUIAM_csv/create_csv.py at master · UAL-RE/ReQUIAM_csv,2,1
+2022-04-12,/ual-re/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-04-12,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/default.ini at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-12,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/__init__.py,ReQUIAM_csv/__init__.py at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-12,/UAL-RE/ReQUIAM_csv/issues/50,GitHub Actions for release gating · Issue #50 · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-04-12,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,1,1
+2022-04-12,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
