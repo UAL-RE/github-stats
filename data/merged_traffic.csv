@@ -170,6 +170,8 @@ LD-Cool-P,2022-04-11,14,1
 LD-Cool-P,2022-04-12,5,4
 LD-Cool-P,2022-04-13,2,1
 LD-Cool-P,2022-04-14,3,2
+LD-Cool-P,2022-04-15,15,2
+LD-Cool-P,2022-04-16,2,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -524,6 +526,7 @@ ReQUIAM,2022-04-09,3,1
 ReQUIAM,2022-04-11,13,4
 ReQUIAM,2022-04-13,4,1
 ReQUIAM,2022-04-14,3,1
+ReQUIAM,2022-04-15,8,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -828,6 +831,7 @@ ldcoolp-figshare,2022-02-22,1,1
 ldcoolp-figshare,2022-03-07,2,1
 ldcoolp-figshare,2022-03-25,1,1
 ldcoolp-figshare,2022-03-28,8,1
+ldcoolp-figshare,2022-04-15,2,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -904,6 +908,7 @@ redata-commons,2022-02-17,4,1
 redata-commons,2022-02-18,4,1
 redata-commons,2022-02-21,4,1
 redata-commons,2022-03-25,1,1
+redata-commons,2022-04-15,2,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
