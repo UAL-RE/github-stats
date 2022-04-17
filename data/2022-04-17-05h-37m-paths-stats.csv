@@ -1,0 +1,24 @@
+date,path,title,count,uniques
+2022-04-17,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,7,1
+2022-04-17,/UAL-RE/redata-iac/blob/master/ansible/git-pull_ldcoolp.yml,redata-iac/git-pull_ldcoolp.yml at master · UAL-RE/redata-iac,6,1
+2022-04-17,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,5,2
+2022-04-17,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,2,1
+2022-04-17,/UAL-RE/redata-iac/issues/1,Ansible script to update LD-Cool-P deployment via git · Issue #1 · UAL-RE/red...,2,1
+2022-04-17,/UAL-RE/redata-iac/tree/master/ansible/rdp,redata-iac/ansible/rdp at master · UAL-RE/redata-iac,2,1
+2022-04-17,/UAL-RE/redata-iac/tree/master/ansible/roles,redata-iac/ansible/roles at master · UAL-RE/redata-iac,2,1
+2022-04-17,/UAL-RE/redata-iac/tree/master/.github/workflows,redata-iac/.github/workflows at master · UAL-RE/redata-iac,2,1
+2022-04-17,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,2,1
+2022-04-17,/UAL-RE/redata-iac/blob/master/ansible/account_create.yml,redata-iac/account_create.yml at master · UAL-RE/redata-iac,1,1
+2022-04-17,/UAL-RE/redata-landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+2022-04-17,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,16,7
+2022-04-17,/UAL-RE/ReQUIAM/pull/164,Update README.md by yhan818 · Pull Request #164 · UAL-RE/ReQUIAM,4,2
+2022-04-17,/UAL-RE/ReQUIAM/edit/master/README.md,Editing ReQUIAM/README.md at master · UAL-RE/ReQUIAM,2,1
+2022-04-17,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,2,1
+2022-04-17,/UAL-RE/ReQUIAM/projects,Projects · UAL-RE/ReQUIAM,2,1
+2022-04-17,/UAL-RE/ReQUIAM/blob/master/config/figshare.ini,ReQUIAM/figshare.ini at master · UAL-RE/ReQUIAM,1,1
+2022-04-17,/UAL-RE/ReQUIAM/commit/1e95af715195653e0e88d56b733de19b65b53e0f,grouper2.5 update · UAL-RE/ReQUIAM@1e95af7 · GitHub,1,1
+2022-04-17,/UAL-RE/ReQUIAM/compare/master...yhan818-patch-2,Comparing master...yhan818-patch-2 · UAL-RE/ReQUIAM,1,1
+2022-04-17,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2022-04-17,/UAL-RE/ReQUIAM/issues/46,Comment field in manual override CSV files · Issue #46 · UAL-RE/ReQUIAM,1,1
+2022-04-17,/UAL-RE/ReQUIAM_csv/issues/50,GitHub Actions for release gating · Issue #50 · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2022-04-17,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
