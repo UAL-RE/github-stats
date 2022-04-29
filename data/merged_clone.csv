@@ -78,6 +78,7 @@ LD-Cool-P,2022-04-04,1,1
 LD-Cool-P,2022-04-21,1,1
 LD-Cool-P,2022-04-22,4,2
 LD-Cool-P,2022-04-24,2,1
+LD-Cool-P,2022-04-29,4,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -347,6 +348,7 @@ ReQUIAM_csv,2022-04-23,2,1
 ReQUIAM_csv,2022-04-24,2,1
 ReQUIAM_csv,2022-04-25,2,1
 ReQUIAM_csv,2022-04-27,2,1
+ReQUIAM_csv,2022-04-29,4,2
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -486,6 +488,7 @@ data-viz-evaluations,2022-04-05,4,3
 data-viz-evaluations,2022-04-08,1,1
 data-viz-evaluations,2022-04-25,2,1
 data-viz-evaluations,2022-04-27,2,1
+data-viz-evaluations,2022-04-28,3,2
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -1550,3 +1553,4 @@ uptime,2022-04-25,16,4
 uptime,2022-04-26,17,6
 uptime,2022-04-27,11,3
 uptime,2022-04-28,13,4
+uptime,2022-04-29,15,4
