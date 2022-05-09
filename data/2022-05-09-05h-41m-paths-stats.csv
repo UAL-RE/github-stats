@@ -1,0 +1,60 @@
+date,path,title,count,uniques
+2022-05-09,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-05-09,/UAL-RE/data-service-landscape-scan/blob/main/ual-report.Rmd,data-service-landscape-scan/ual-report.Rmd at main · UAL-RE/data-service-land...,1,1
+2022-05-09,/UAL-RE/data-viz-evaluations,UAL-RE/data-viz-evaluations: Code for processing data visualization submissions,1,1
+2022-05-09,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-05-09,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,1,1
+2022-05-09,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,33,5
+2022-05-09,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,17,3
+2022-05-09,/UAL-RE/LD-Cool-P/commit/d667e1a9e80d70a063ea6ef723db8a3e6aeb01a2,Bump version: v1.1.6 -> v1.1.7 · UAL-RE/LD-Cool-P@d667e1a,15,2
+2022-05-09,/UAL-RE/LD-Cool-P/pull/251,Issue #242. add .idea/ PyCharm to let git ignore PyCharm setting by yhan818 ·...,12,2
+2022-05-09,/UAL-RE/LD-Cool-P/issues/242,Add .idea to .gitignore · Issue #242 · UAL-RE/LD-Cool-P,11,3
+2022-05-09,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,11,2
+2022-05-09,/UAL-RE/LD-Cool-P/branches,Branches · UAL-RE/LD-Cool-P,10,1
+2022-05-09,/UAL-RE/LD-Cool-P/releases/tag/v1.1.8,Release v1.1.8 · UAL-RE/LD-Cool-P · GitHub,8,3
+2022-05-09,/UAL-RE/LD-Cool-P/blob/master/CHANGELOG.md,LD-Cool-P/CHANGELOG.md at master · UAL-RE/LD-Cool-P,7,2
+2022-05-09,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,5,2
+2022-05-09,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2022-05-09,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-05-09,/UAL-RE/ldcoolp-figshare/issues/29,Feature: Incorporate figshare.Figshare into ldcoolp-figshare · Issue #29 · UA...,1,1
+2022-05-09,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,4,3
+2022-05-09,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,2,1
+2022-05-09,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,26,2
+2022-05-09,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,25,3
+2022-05-09,/UAL-RE/redata-docs/issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,15,2
+2022-05-09,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,13,3
+2022-05-09,/UAL-RE/redata-docs/pull/17,Add info on PR merging by zoidy · Pull Request #17 · UAL-RE/redata-docs,10,3
+2022-05-09,/UAL-RE/redata-docs/blob/main/source/repos.rst,redata-docs/repos.rst at main · UAL-RE/redata-docs,7,1
+2022-05-09,/UAL-RE/redata-docs/tree/main/source,redata-docs/source at main · UAL-RE/redata-docs,6,2
+2022-05-09,/UAL-RE/redata-docs/blob/main/source/project-management.rst,redata-docs/project-management.rst at main · UAL-RE/redata-docs,5,2
+2022-05-09,/UAL-RE/redata-docs/pull/19,close Issue #16 by yhan818 · Pull Request #19 · UAL-RE/redata-docs,5,2
+2022-05-09,/UAL-RE/redata-docs/wiki,GitHub · Where software is built,5,1
+2022-05-09,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,16,3
+2022-05-09,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,10,2
+2022-05-09,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,8,2
+2022-05-09,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,3,2
+2022-05-09,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,3,2
+2022-05-09,/UAL-RE/redata-iac/blob/master/scripts/doctl_backup.sh,redata-iac/doctl_backup.sh at master · UAL-RE/redata-iac,3,1
+2022-05-09,/UAL-RE/redata-iac/tree/master/ansible/roles,redata-iac/ansible/roles at master · UAL-RE/redata-iac,3,1
+2022-05-09,/UAL-RE/redata-iac/tree/master/ansible/roles/do-ubuntu-swapspace,redata-iac/ansible/roles/do-ubuntu-swapspace at master · UAL-RE/redata-iac,3,1
+2022-05-09,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,2,2
+2022-05-09,/UAL-RE/redata-iac/issues/new,New Issue · UAL-RE/redata-iac,2,1
+2022-05-09,/UAL-RE/redata-landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+2022-05-09,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,27,3
+2022-05-09,/UAL-RE/ReQUIAM/pull/165,Update README.md by yhan818 · Pull Request #165 · UAL-RE/ReQUIAM,14,3
+2022-05-09,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,8,3
+2022-05-09,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,7,3
+2022-05-09,/UAL-RE/ReQUIAM/pull/165/files,Update README.md by yhan818 · Pull Request #165 · UAL-RE/ReQUIAM,5,3
+2022-05-09,/UAL-RE/ReQUIAM/pull/164,Update README.md by yhan818 · Pull Request #164 · UAL-RE/ReQUIAM,4,3
+2022-05-09,/UAL-RE/ReQUIAM/issues/160,Update README.md for RTDs information · Issue #160 · UAL-RE/ReQUIAM,4,1
+2022-05-09,/UAL-RE/ReQUIAM/commits/master,Commits · UAL-RE/ReQUIAM,3,2
+2022-05-09,/UAL-RE/ReQUIAM/edit/yhan818-patch-3/README.md,Editing ReQUIAM/README.md at yhan818-patch-3 · UAL-RE/ReQUIAM,3,1
+2022-05-09,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,2,2
+2022-05-09,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,3,1
+2022-05-09,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv,2,1
+2022-05-09,/UAL-RE/ReQUIAM_csv/compare/develop,Comparing master...develop · UAL-RE/ReQUIAM_csv,1,1
+2022-05-09,/UAL-RE/ReQUIAM_csv/issues/80,Move UAL departments into University Libraries portal · Issue #80 · UAL-RE/Re...,1,1
+2022-05-09,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
+2022-05-09,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,2
+2022-05-09,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,3,1
+2022-05-09,/UAL-RE/uptime/blob/master/README.md,uptime/README.md at master · UAL-RE/uptime,1,1
