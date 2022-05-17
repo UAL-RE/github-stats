@@ -84,6 +84,7 @@ LD-Cool-P,2022-05-05,2,1
 LD-Cool-P,2022-05-06,13,4
 LD-Cool-P,2022-05-09,3,3
 LD-Cool-P,2022-05-11,2,1
+LD-Cool-P,2022-05-16,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -923,6 +924,7 @@ github-stats,2022-05-12,6,4
 github-stats,2022-05-13,6,4
 github-stats,2022-05-14,5,3
 github-stats,2022-05-15,8,5
+github-stats,2022-05-16,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -986,6 +988,7 @@ ldcoolp-figshare,2022-04-23,1,1
 ldcoolp-figshare,2022-04-26,2,1
 ldcoolp-figshare,2022-04-29,2,1
 ldcoolp-figshare,2022-05-09,3,3
+ldcoolp-figshare,2022-05-16,2,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1617,3 +1620,4 @@ uptime,2022-05-13,13,4
 uptime,2022-05-14,14,4
 uptime,2022-05-15,15,4
 uptime,2022-05-16,18,5
+uptime,2022-05-17,16,4
