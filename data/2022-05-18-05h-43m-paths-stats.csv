@@ -1,0 +1,55 @@
+date,path,title,count,uniques
+2022-05-18,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-05-18,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,1,1
+2022-05-18,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,21,4
+2022-05-18,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,10,2
+2022-05-18,/UAL-RE/LD-Cool-P/commit/d667e1a9e80d70a063ea6ef723db8a3e6aeb01a2,Bump version: v1.1.6 -> v1.1.7 · UAL-RE/LD-Cool-P@d667e1a,8,2
+2022-05-18,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P,8,2
+2022-05-18,/UAL-RE/LD-Cool-P/pull/252,Update CHANGELOG.md by yhan818 · Pull Request #252 · UAL-RE/LD-Cool-P,7,2
+2022-05-18,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,4,4
+2022-05-18,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,4
+2022-05-18,/UAL-RE/LD-Cool-P/blob/master/CHANGELOG.md,LD-Cool-P/CHANGELOG.md at master · UAL-RE/LD-Cool-P,4,2
+2022-05-18,/UAL-RE/LD-Cool-P/commit/40145e2d6ce8cb741b28373b68fb2627736c2a85,Merge pull request #251 from UAL-RE/chore/242_ignore · UAL-RE/LD-Cool-P@40145e2,4,2
+2022-05-18,/UAL-RE/LD-Cool-P/commit/c1f6bc8efed7d4bceb3cf792ddaaee4d44214a34,Correct date in CHANGELOG.md · UAL-RE/LD-Cool-P@c1f6bc8,4,2
+2022-05-18,/UAL-RE/ldcoolp-figshare/blob/main/CHANGELOG.md,ldcoolp-figshare/CHANGELOG.md at main · UAL-RE/ldcoolp-figshare,1,1
+2022-05-18,/UAL-RE/ReBACH/blob/main/README.md,ReBACH/README.md at main · UAL-RE/ReBACH,5,3
+2022-05-18,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2022-05-18,/UAL-RE/ReBACH/pull/4,"add preservation schema, include top level folder, GH Action for linting by z...",1,1
+2022-05-18,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,1,1
+2022-05-18,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,4,4
+2022-05-18,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,4,1
+2022-05-18,/UAL-RE/redata-commons/blob/main/CHANGELOG.md,redata-commons/CHANGELOG.md at main · UAL-RE/redata-commons,2,2
+2022-05-18,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,1,1
+2022-05-18,/UAL-RE/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,1,1
+2022-05-18,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,43,4
+2022-05-18,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,35,3
+2022-05-18,/UAL-RE/redata-docs/issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,29,3
+2022-05-18,/UAL-RE/redata-docs/pull/19,close Issue #16 by yhan818 · Pull Request #19 · UAL-RE/redata-docs,16,3
+2022-05-18,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,14,3
+2022-05-18,/UAL-RE/redata-docs/blob/main/source/repos.rst,redata-docs/repos.rst at main · UAL-RE/redata-docs,13,2
+2022-05-18,/UAL-RE/redata-docs/tree/main/source,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,10,2
+2022-05-18,/UAL-RE/redata-docs/pull/18,Update conf.py by yhan818 · Pull Request #18 · UAL-RE/redata-docs,6,3
+2022-05-18,/UAL-RE/redata-docs/issues/21,Updating RTD project-management file · Issue #21 · UAL-RE/redata-docs,6,2
+2022-05-18,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,5,2
+2022-05-18,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,3
+2022-05-18,/UAL-RE/redata-iac/blob/master/scripts/doctl_backup.sh,redata-iac/doctl_backup.sh at master · UAL-RE/redata-iac,2,1
+2022-05-18,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
+2022-05-18,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+2022-05-18,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,1,1
+2022-05-18,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,14,5
+2022-05-18,/UAL-RE/ReQUIAM/blob/master/CHANGELOG.md,ReQUIAM/CHANGELOG.md at master · UAL-RE/ReQUIAM · GitHub,5,4
+2022-05-18,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,3,2
+2022-05-18,/UAL-RE/ReQUIAM/tree/master/docs/source,ReQUIAM/docs/source at master · UAL-RE/ReQUIAM,3,2
+2022-05-18,/UAL-RE/ReQUIAM/tree/master/docs,ReQUIAM/docs at master · UAL-RE/ReQUIAM,2,2
+2022-05-18,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,2,1
+2022-05-18,/UAL-RE/ReQUIAM/blob/master/config/figshare.ini,ReQUIAM/figshare.ini at master · UAL-RE/ReQUIAM,1,1
+2022-05-18,/UAL-RE/ReQUIAM/blob/master/docs/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,1,1
+2022-05-18,/UAL-RE/ReQUIAM/blob/master/docs/source/index.rst,ReQUIAM/index.rst at master · UAL-RE/ReQUIAM,1,1
+2022-05-18,/UAL-RE/ReQUIAM/commit/6ec6cba89c7bca48b07697a99c5ed416647eda08,Merge pull request #164 from UAL-RE/yhan818-patch-2 · UAL-RE/ReQUIAM@6ec6cba,1,1
+2022-05-18,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,4,3
+2022-05-18,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv,3,1
+2022-05-18,/UAL-RE/ReQUIAM_csv/compare/develop,Comparing master...develop · UAL-RE/ReQUIAM_csv,1,1
+2022-05-18,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,1,1
+2022-05-18,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv/data,ReQUIAM_csv/requiam_csv/data at master · UAL-RE/ReQUIAM_csv,1,1
+2022-05-18,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,1,1
+2022-05-18,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,3,1
