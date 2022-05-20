@@ -1,0 +1,60 @@
+date,path,title,count,uniques
+2022-05-20,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-05-20,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,1,1
+2022-05-20,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,10,3
+2022-05-20,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,6,4
+2022-05-20,/UAL-RE/LD-Cool-P/pull/252,Update CHANGELOG.md by yhan818 · Pull Request #252 · UAL-RE/LD-Cool-P,5,2
+2022-05-20,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,4,4
+2022-05-20,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,4,2
+2022-05-20,/UAL-RE/LD-Cool-P/issues/253,Bug: DOI not added to readme citation when DOI is created via get_data · Issu...,2,2
+2022-05-20,/UAL-RE/LD-Cool-P/releases/tag/v1.1.8,Release v1.1.8 · UAL-RE/LD-Cool-P,2,2
+2022-05-20,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P,2,1
+2022-05-20,/UAL-RE/LD-Cool-P/pull/252/commits/d475f1154d892b3b9665577690284f344d2a9877,Update CHANGELOG.md by yhan818 · Pull Request #252 · UAL-RE/LD-Cool-P,2,1
+2022-05-20,/ual-re/ld-cool-p,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2022-05-20,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,5,3
+2022-05-20,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,3,1
+2022-05-20,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
+2022-05-20,/UAL-RE/ldcoolp-figshare/blob/a57a13762e723d66f5763d4ad0348e10ca43d909/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at a57a13762e723d66f5763d4ad0348e10ca43d909 · UAL-RE...,1,1
+2022-05-20,/UAL-RE/ldcoolp-figshare/blob/main/CHANGELOG.md,ldcoolp-figshare/CHANGELOG.md at main · UAL-RE/ldcoolp-figshare,1,1
+2022-05-20,/UAL-RE/ldcoolp-figshare/blob/main/requirements.txt,ldcoolp-figshare/requirements.txt at main · UAL-RE/ldcoolp-figshare,1,1
+2022-05-20,/UAL-RE/ReBACH/blob/main/README.md,ReBACH/README.md at main · UAL-RE/ReBACH,5,3
+2022-05-20,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2022-05-20,/UAL-RE/ReBACH/pull/4,"add preservation schema, include top level folder, GH Action for linting by z...",1,1
+2022-05-20,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,1,1
+2022-05-20,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,4,1
+2022-05-20,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
+2022-05-20,/UAL-RE/redata-commons/blob/main/CHANGELOG.md,redata-commons/CHANGELOG.md at main · UAL-RE/redata-commons,2,2
+2022-05-20,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,2,1
+2022-05-20,/UAL-RE/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,1,1
+2022-05-20,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,45,4
+2022-05-20,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,32,2
+2022-05-20,/UAL-RE/redata-docs/issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,19,2
+2022-05-20,/UAL-RE/redata-docs/pull/19,close Issue #16 by yhan818 · Pull Request #19 · UAL-RE/redata-docs,12,2
+2022-05-20,/UAL-RE/redata-docs/pull/22,Update README.md by yhan818 · Pull Request #22 · UAL-RE/redata-docs,10,3
+2022-05-20,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,10,3
+2022-05-20,/UAL-RE/redata-docs/issues/21,Updating RTD project-management file · Issue #21 · UAL-RE/redata-docs,10,2
+2022-05-20,/UAL-RE/redata-docs/tree/main/source,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,8,2
+2022-05-20,/UAL-RE/redata-docs/blob/main/source/repos.rst,redata-docs/repos.rst at main · UAL-RE/redata-docs,6,2
+2022-05-20,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,5,2
+2022-05-20,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,3,2
+2022-05-20,/UAL-RE/redata-iac/blob/master/scripts/doctl_backup.sh,redata-iac/doctl_backup.sh at master · UAL-RE/redata-iac,2,1
+2022-05-20,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
+2022-05-20,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+2022-05-20,/UAL-RE/redata-iac/tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,1,1
+2022-05-20,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,7,4
+2022-05-20,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,6,2
+2022-05-20,/UAL-RE/ReQUIAM/blob/master/CHANGELOG.md,ReQUIAM/CHANGELOG.md at master · UAL-RE/ReQUIAM · GitHub,4,3
+2022-05-20,/UAL-RE/ReQUIAM/issues/160,Update README.md for RTDs information · Issue #160 · UAL-RE/ReQUIAM,3,2
+2022-05-20,/UAL-RE/ReQUIAM/pull/165,Update README.md by yhan818 · Pull Request #165 · UAL-RE/ReQUIAM,2,2
+2022-05-20,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,2,1
+2022-05-20,/UAL-RE/ReQUIAM/blob/master/docs/requirements.txt,ReQUIAM/requirements.txt at master · UAL-RE/ReQUIAM,1,1
+2022-05-20,/UAL-RE/ReQUIAM/issues/119,Enhancement: Can we re-factor script_run further? · Issue #119 · UAL-RE/ReQUIAM,1,1
+2022-05-20,/UAL-RE/ReQUIAM/issues/46,Comment field in manual override CSV files · Issue #46 · UAL-RE/ReQUIAM,1,1
+2022-05-20,/UAL-RE/ReQUIAM/tree/master/docs,ReQUIAM/docs at master · UAL-RE/ReQUIAM,1,1
+2022-05-20,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,4,3
+2022-05-20,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv,3,1
+2022-05-20,/UAL-RE/ReQUIAM_csv/compare/develop,Comparing master...develop · UAL-RE/ReQUIAM_csv,1,1
+2022-05-20,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,1,1
+2022-05-20,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv/data,ReQUIAM_csv/requiam_csv/data at master · UAL-RE/ReQUIAM_csv,1,1
+2022-05-20,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,1,1
+2022-05-20,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,3,1
