@@ -6,6 +6,7 @@ LD-Cool-P,figshare.com,1,1
 LD-Cool-P,github.com,11,3
 LD-Cool-P,knowledge.figshare.com,1,1
 LD-Cool-P,ldcoolp-figshare.readthedocs.io,4,1
+LD-Cool-P,redata-docs.readthedocs.io,3,1
 LD-Cool-P,redata.readthedocs.io,1,1
 LD-Cool-P,test-docs1.readthedocs.io,1,1
 ReBACH,Google,1,1
@@ -56,12 +57,14 @@ redata-commons,pypi.org,1,1
 redata-commons,pypistats.org,1,1
 redata-commons,readthedocs.org,1,1
 redata-commons,redata-commons.readthedocs.io,1,1
+redata-commons,redata-docs.readthedocs.io,2,1
 redata-commons,redata.readthedocs.io,2,1
 redata-commons,test-docs1.readthedocs.io,1,1
 redata-commons,test.pypi.org,1,1
 redata-docs,com.google.android.gm,1,1
 redata-docs,github.com,1,1
 redata-docs,readthedocs.org,1,1
+redata-docs,redata-docs.readthedocs.io,1,1
 redata-docs,redata.readthedocs.io,3,1
 redata-iac,github.com,3,2
 redata-iac,redata.readthedocs.io,1,1
