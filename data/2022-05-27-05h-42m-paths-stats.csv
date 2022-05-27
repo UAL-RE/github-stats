@@ -1,0 +1,61 @@
+date,path,title,count,uniques
+2022-05-27,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-05-27,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,11,5
+2022-05-27,/UAL-RE/LD-Cool-P/issues/242,Add .idea to .gitignore · Issue #242 · UAL-RE/LD-Cool-P,9,2
+2022-05-27,/UAL-RE/LD-Cool-P/commit/d667e1a9e80d70a063ea6ef723db8a3e6aeb01a2,Bump version: v1.1.6 -> v1.1.7 · UAL-RE/LD-Cool-P@d667e1a,7,1
+2022-05-27,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,5,2
+2022-05-27,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,4,2
+2022-05-27,/UAL-RE/LD-Cool-P/commit/b13fd8616d3da1d85b51ac941a90928a69ef5237,Issue #242. add .idea/ PyCharm to let git ignore PyCharm setting · UAL-RE/LD-...,3,2
+2022-05-27,/UAL-RE/LD-Cool-P/issues/229,Bug: urlretrieve is returning HTTPS 400 error · Issue #229 · UAL-RE/LD-Cool-P,3,1
+2022-05-27,/UAL-RE/LD-Cool-P/pull/249,Bump version: v1.1.6 -> v1.1.7 by jonathannoah · Pull Request #249 · UAL-RE/L...,3,1
+2022-05-27,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2022-05-27,/ual-re/ld-cool-p,UAL-RE/LD-Cool-P: Python tool to enable data curation,2,1
+2022-05-27,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,8,5
+2022-05-27,/UAL-RE/ldcoolp-figshare/branches,Branches · UAL-RE/ldcoolp-figshare,3,1
+2022-05-27,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,3,1
+2022-05-27,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
+2022-05-27,/UAL-RE/ldcoolp-figshare/blob/a57a13762e723d66f5763d4ad0348e10ca43d909/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at a57a13762e723d66f5763d4ad0348e10ca43d909 · UAL-RE...,1,1
+2022-05-27,/UAL-RE/ldcoolp-figshare/blob/main/requirements.txt,ldcoolp-figshare/requirements.txt at main · UAL-RE/ldcoolp-figshare,1,1
+2022-05-27,/UAL-RE/ldcoolp-figshare/tree/org_rename,UAL-RE/ldcoolp-figshare at org_rename,1,1
+2022-05-27,/UAL-RE/ReBACH/pull/4,"add preservation schema, include top level folder, GH Action for linting by z...",1,1
+2022-05-27,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,7,3
+2022-05-27,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,3,1
+2022-05-27,/UAL-RE/redata-commons/pull/8,Add sphinx documentation and publish to ReadTheDocs by astrochun · Pull Reque...,1,1
+2022-05-27,/UAL-RE/redata-commons/releases/tag/v0.4.2,Release v0.4.2 · UAL-RE/redata-commons,1,1
+2022-05-27,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,36,3
+2022-05-27,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,21,2
+2022-05-27,/UAL-RE/redata-docs/branches,Branches · UAL-RE/redata-docs,14,2
+2022-05-27,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,14,2
+2022-05-27,/UAL-RE/redata-docs/issues/21,Updating RTD project-management file · Issue #21 · UAL-RE/redata-docs,14,1
+2022-05-27,/UAL-RE/redata-docs/pull/22,Update README.md by yhan818 · Pull Request #22 · UAL-RE/redata-docs,11,3
+2022-05-27,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs,8,3
+2022-05-27,/UAL-RE/redata-docs/pull/25,updated project management.rst file by yhan818 · Pull Request #25 · UAL-RE/re...,6,1
+2022-05-27,/UAL-RE/redata-docs/pull/25/files,updated project management.rst file by yhan818 · Pull Request #25 · UAL-RE/re...,6,1
+2022-05-27,/UAL-RE/redata-docs/tree/documentation/21_project_management.rst,UAL-RE/redata-docs at documentation/21_project_management.rst,5,1
+2022-05-27,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,4,1
+2022-05-27,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/11,Ansible script for RDP Droplet · Issue #11 · UAL-RE/redata-iac,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/37,Add ansible playbook to add helpme for redata-iac · Issue #37 · UAL-RE/redata...,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
+2022-05-27,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+2022-05-27,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,15,6
+2022-05-27,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,10,2
+2022-05-27,/UAL-RE/ReQUIAM/issues/160,Update README.md for RTDs information · Issue #160 · UAL-RE/ReQUIAM,4,2
+2022-05-27,/UAL-RE/ReQUIAM/pull/165,Update README.md by yhan818 · Pull Request #165 · UAL-RE/ReQUIAM,2,2
+2022-05-27,/UAL-RE/ReQUIAM/issues/46,Comment field in manual override CSV files · Issue #46 · UAL-RE/ReQUIAM,2,1
+2022-05-27,/UAL-RE/ReQUIAM/blob/master/README.md,ReQUIAM/README.md at master · UAL-RE/ReQUIAM,1,1
+2022-05-27,/UAL-RE/ReQUIAM/issues/119,Enhancement: Can we re-factor script_run further? · Issue #119 · UAL-RE/ReQUIAM,1,1
+2022-05-27,/UAL-RE/ReQUIAM/issues/135,Chore: Add docs checkmark to PR templates · Issue #135 · UAL-RE/ReQUIAM,1,1
+2022-05-27,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2022-05-27,/UAL-RE/ReQUIAM/issues/66,Grouper checks in script_run for existence of group · Issue #66 · UAL-RE/ReQU...,1,1
+2022-05-27,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,2
+2022-05-27,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,8,2
+2022-05-27,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,6,2
+2022-05-27,/UAL-RE/uptime/commit/6b8867f663d63f8842037255cc28996ddd564144,🟥 ReDATA (stage) is down (504 in 10624 ms) [skip ci] [upptime] · UAL-RE/upti...,2,1
+2022-05-27,/UAL-RE/uptime/commits/HEAD/history/re-data-stage.yml,History for history/re-data-stage.yml - UAL-RE/uptime,2,1
+2022-05-27,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2022-05-27,/UAL-RE/uptime/commits,Commits · UAL-RE/uptime,1,1
+2022-05-27,/UAL-RE/uptime/issues/215,🛑 UA Institutional Repository is down · Issue #215 · UAL-RE/uptime,1,1
+2022-05-27,/UAL-RE/uptime/issues/216,🛑 ReDATA (stage) is down · Issue #216 · UAL-RE/uptime,1,1
