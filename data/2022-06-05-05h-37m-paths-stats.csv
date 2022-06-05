@@ -1,0 +1,69 @@
+date,path,title,count,uniques
+2022-06-05,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,2,2
+2022-06-05,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,14,2
+2022-06-05,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,9,6
+2022-06-05,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,3,3
+2022-06-05,/UAL-RE/LD-Cool-P/commit/6b312a794876785a9490fa8d929e6e360c528d0a,Merge pull request #252 from UAL-RE/yhan818-patch-1 · UAL-RE/LD-Cool-P@6b312a7,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/24,Use Qualtrics API to retrieve deposit agreement information · Issue #24 · UAL...,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/242,Add .idea to .gitignore · Issue #242 · UAL-RE/LD-Cool-P,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/created_by/@me,Issues · UAL-RE/LD-Cool-P,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/new,New Issue · UAL-RE/LD-Cool-P,1,1
+2022-06-05,/UAL-RE/LD-Cool-P/issues/new/choose,New Issue · UAL-RE/LD-Cool-P,1,1
+2022-06-05,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+2022-06-05,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,2,1
+2022-06-05,/UAL-RE/ldcoolp-figshare/issues/29,Feature: Incorporate figshare.Figshare into ldcoolp-figshare · Issue #29 · UA...,1,1
+2022-06-05,/UAL-RE/ldcoolp-figshare/pulls,Pull requests · UAL-RE/ldcoolp-figshare,1,1
+2022-06-05,/UAL-RE/ldcoolp-figshare/stargazers,Stargazers · UAL-RE/ldcoolp-figshare,1,1
+2022-06-05,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2022-06-05,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,29,3
+2022-06-05,/UAL-RE/redata-commons/branches,Branches · UAL-RE/redata-commons,11,1
+2022-06-05,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,10,1
+2022-06-05,/UAL-RE/redata-commons/graphs/contributors,Contributors to UAL-RE/redata-commons,4,1
+2022-06-05,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,4,1
+2022-06-05,/UAL-RE/redata-commons/tree/documentation_update_conf,UAL-RE/redata-commons at documentation_update_conf,4,1
+2022-06-05,/UAL-RE/redata-commons/pull/22,updated conf.py and related rst files by yhan818 · Pull Request #22 · UAL-RE/...,2,2
+2022-06-05,/UAL-RE/redata-commons/releases,Releases · UAL-RE/redata-commons,2,2
+2022-06-05,/UAL-RE/redata-commons/blob/main/README.md,redata-commons/README.md at main · UAL-RE/redata-commons,2,1
+2022-06-05,/UAL-RE/redata-commons/branches/stale,Branches · UAL-RE/redata-commons,2,1
+2022-06-05,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,37,1
+2022-06-05,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,33,2
+2022-06-05,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,18,1
+2022-06-05,/UAL-RE/redata-docs/issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,14,2
+2022-06-05,/UAL-RE/redata-docs/pull/25,updated project management.rst file by yhan818 · Pull Request #25 · UAL-RE/re...,14,1
+2022-06-05,/UAL-RE/redata-docs/branches,Branches · UAL-RE/redata-docs,12,1
+2022-06-05,/UAL-RE/redata-docs/issues/21,Updating RTD project-management file · Issue #21 · UAL-RE/redata-docs,8,1
+2022-06-05,/UAL-RE/redata-docs/projects,Projects · redata-docs,7,1
+2022-06-05,/UAL-RE/redata-docs/pull/25/files,updated project management.rst file by yhan818 · Pull Request #25 · UAL-RE/re...,7,1
+2022-06-05,/UAL-RE/redata-docs/pull/25/commits,updated project management.rst file by yhan818 · Pull Request #25 · UAL-RE/re...,4,1
+2022-06-05,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,5,1
+2022-06-05,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,2,1
+2022-06-05,/UAL-RE/redata-iac/issues/11,Ansible script for RDP Droplet · Issue #11 · UAL-RE/redata-iac,1,1
+2022-06-05,/UAL-RE/redata-iac/issues/33,Unable to run add_ssh_key_file ansible playbook · Issue #33 · UAL-RE/redata-iac,1,1
+2022-06-05,/UAL-RE/redata-iac/issues/37,Add ansible playbook to add helpme for redata-iac · Issue #37 · UAL-RE/redata...,1,1
+2022-06-05,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2022-06-05,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,1,1
+2022-06-05,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,1,1
+2022-06-05,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,11,4
+2022-06-05,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,9,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/157,Docs: Add CHANGELOG.md · Issue #157 · UAL-RE/ReQUIAM,2,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,2,1
+2022-06-05,/UAL-RE/ReQUIAM/blob/master/docs/source/getting_started.rst,ReQUIAM/getting_started.rst at master · UAL-RE/ReQUIAM,1,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/135,Chore: Add docs checkmark to PR templates · Issue #135 · UAL-RE/ReQUIAM,1,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/160,Update README.md for RTDs information · Issue #160 · UAL-RE/ReQUIAM,1,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/46,Comment field in manual override CSV files · Issue #46 · UAL-RE/ReQUIAM,1,1
+2022-06-05,/UAL-RE/ReQUIAM/issues/66,Grouper checks in script_run for existence of group · Issue #66 · UAL-RE/ReQU...,1,1
+2022-06-05,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,2,1
+2022-06-05,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-06-05,/UAL-RE/ReQUIAM_csv/issues/31,Comparing Org Code spreadsheets · Issue #31 · UAL-RE/ReQUIAM_csv,1,1
+2022-06-05,/UAL-RE/ReQUIAM_csv/issues/36,Generate git commit command for updates to CSV · Issue #36 · UAL-RE/ReQUIAM_csv,1,1
+2022-06-05,/UAL-RE/ReQUIAM_csv/issues/37,CSV updates · Issue #37 · UAL-RE/ReQUIAM_csv,1,1
+2022-06-05,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
+2022-06-05,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,1,1
+2022-06-05,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,6,1
+2022-06-05,/UAL-RE/uptime/commit/6b8867f663d63f8842037255cc28996ddd564144,🟥 ReDATA (stage) is down (504 in 10624 ms) [skip ci] [upptime] · UAL-RE/upti...,2,1
+2022-06-05,/UAL-RE/uptime/commits/HEAD/history/re-data-stage.yml,History for history/re-data-stage.yml - UAL-RE/uptime,2,1
+2022-06-05,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2022-06-05,/UAL-RE/uptime/commits,Commits · UAL-RE/uptime,1,1
+2022-06-05,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,1,1
+2022-06-05,/UAL-RE/uptime/issues/216,🛑 ReDATA (stage) is down · Issue #216 · UAL-RE/uptime,1,1
