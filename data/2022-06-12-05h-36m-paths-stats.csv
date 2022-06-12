@@ -1,0 +1,43 @@
+date,path,title,count,uniques
+2022-06-12,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,13,1
+2022-06-12,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,3,2
+2022-06-12,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/bug_report.md,LD-Cool-P/bug_report.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-12,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2022-06-12,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues/242,Add .idea to .gitignore · Issue #242 · UAL-RE/LD-Cool-P,1,1
+2022-06-12,/UAL-RE/LD-Cool-P/issues/created_by/@me,Issues · UAL-RE/LD-Cool-P,1,1
+2022-06-12,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,2,1
+2022-06-12,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2022-06-12,/UAL-RE/ldcoolp-figshare/issues/29,Feature: Incorporate figshare.Figshare into ldcoolp-figshare · Issue #29 · UA...,1,1
+2022-06-12,/UAL-RE/ldcoolp-figshare/pulls,Pull requests · UAL-RE/ldcoolp-figshare,1,1
+2022-06-12,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,2,1
+2022-06-12,/UAL-RE/ReBACH/actions,Actions · UAL-RE/ReBACH,1,1
+2022-06-12,/UAL-RE/ReBACH/actions/runs/2065771010,"add preservation schema, include top level folder, GH Action for linting · UA...",1,1
+2022-06-12,/UAL-RE/ReBACH/actions/runs/2065771010/workflow,Add GH action for linting using flake8 · UAL-RE/ReBACH@01b1282,1,1
+2022-06-12,/UAL-RE/ReBACH/blob/main/.flake8,ReBACH/.flake8 at main · UAL-RE/ReBACH,1,1
+2022-06-12,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2022-06-12,/UAL-RE/ReBACH/tree/main/.github/workflows,ReBACH/.github/workflows at main · UAL-RE/ReBACH,1,1
+2022-06-12,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,26,2
+2022-06-12,/UAL-RE/redata-commons/branches,Branches · UAL-RE/redata-commons,11,1
+2022-06-12,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,8,1
+2022-06-12,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,5,2
+2022-06-12,/UAL-RE/redata-commons/graphs/contributors,Contributors to UAL-RE/redata-commons,4,1
+2022-06-12,/UAL-RE/redata-commons/tree/documentation_update_conf,UAL-RE/redata-commons at documentation_update_conf,4,1
+2022-06-12,/UAL-RE/redata-commons/pull/22,updated conf.py and related rst files by yhan818 · Pull Request #22 · UAL-RE/...,2,2
+2022-06-12,/UAL-RE/redata-commons/releases,Releases · UAL-RE/redata-commons,2,2
+2022-06-12,/UAL-RE/redata-commons/blob/main/README.md,redata-commons/README.md at main · UAL-RE/redata-commons,2,1
+2022-06-12,/UAL-RE/redata-commons/branches/stale,Branches · UAL-RE/redata-commons,2,1
+2022-06-12,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,26,1
+2022-06-12,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,25,2
+2022-06-12,/UAL-RE/redata-docs/issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,13,2
+2022-06-12,/UAL-RE/redata-docs/branches,Branches · UAL-RE/redata-docs,7,1
+2022-06-12,/UAL-RE/redata-docs/projects,Projects · redata-docs,7,1
+2022-06-12,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,7,1
+2022-06-12,/UAL-RE/redata-docs/pull/26,fixing issue 13 bug for issues' badges by yhan818 · Pull Request #26 · UAL-RE...,3,2
+2022-06-12,/UAL-RE/redata-docs/issues/14,Update Repository details section with CHANGELOG for ReQUIAM · Issue #14 · UA...,3,1
+2022-06-12,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,2,1
+2022-06-12,/UAL-RE/redata-docs/issues/9,Add page for data curation overview · Issue #9 · UAL-RE/redata-docs,2,1
