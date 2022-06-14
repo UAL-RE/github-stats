@@ -1,0 +1,48 @@
+date,path,title,count,uniques
+2022-06-14,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-06-14,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,3,2
+2022-06-14,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/bug_report.md,LD-Cool-P/bug_report.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-14,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-14,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2022-06-14,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,2,1
+2022-06-14,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2022-06-14,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2022-06-14,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2022-06-14,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2022-06-14,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-06-14,/UAL-RE/ldcoolp-figshare/pulls,Pull requests · UAL-RE/ldcoolp-figshare,1,1
+2022-06-14,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,2,1
+2022-06-14,/UAL-RE/ReBACH/actions,Actions · UAL-RE/ReBACH,1,1
+2022-06-14,/UAL-RE/ReBACH/actions/runs/2065771010,"add preservation schema, include top level folder, GH Action for linting · UA...",1,1
+2022-06-14,/UAL-RE/ReBACH/actions/runs/2065771010/workflow,Add GH action for linting using flake8 · UAL-RE/ReBACH@01b1282,1,1
+2022-06-14,/UAL-RE/ReBACH/blob/main/.flake8,ReBACH/.flake8 at main · UAL-RE/ReBACH,1,1
+2022-06-14,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2022-06-14,/UAL-RE/ReBACH/tree/main/.github/workflows,ReBACH/.github/workflows at main · UAL-RE/ReBACH,1,1
+2022-06-14,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,15,2
+2022-06-14,/UAL-RE/redata-commons/branches,Branches · UAL-RE/redata-commons,8,1
+2022-06-14,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,5,2
+2022-06-14,/UAL-RE/redata-commons/tree/documentation_update_conf,UAL-RE/redata-commons at documentation_update_conf,4,1
+2022-06-14,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,3,1
+2022-06-14,/UAL-RE/redata-commons/pull/22,updated conf.py and related rst files by yhan818 · Pull Request #22 · UAL-RE/...,2,2
+2022-06-14,/UAL-RE/redata-commons/releases,Releases · UAL-RE/redata-commons,2,2
+2022-06-14,/UAL-RE/redata-commons/branches/stale,Branches · UAL-RE/redata-commons,2,1
+2022-06-14,/UAL-RE/redata-commons/commit/274fb0cfd2455295a84bc4a18a38bff71eb1e772,updated conf.py and related rst files · UAL-RE/redata-commons@274fb0c,2,1
+2022-06-14,/UAL-RE/redata-commons/graphs/contributors,Contributors to UAL-RE/redata-commons,2,1
+2022-06-14,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,17,2
+2022-06-14,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,8,1
+2022-06-14,/UAL-RE/redata-docs/projects,Projects · redata-docs,7,1
+2022-06-14,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,6,1
+2022-06-14,/UAL-RE/redata-docs/issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,5,2
+2022-06-14,/UAL-RE/redata-docs/branches,Branches · UAL-RE/redata-docs,5,1
+2022-06-14,/UAL-RE/redata-docs/pull/26,fixing issue 13 bug for issues' badges by yhan818 · Pull Request #26 · UAL-RE...,3,2
+2022-06-14,/UAL-RE/redata-docs/actions,Actions · UAL-RE/redata-docs,2,1
+2022-06-14,/UAL-RE/redata-docs/pulse,Pulse · UAL-RE/redata-docs,2,1
+2022-06-14,/UAL-RE/redata-docs/tree/bug/13_fix_issues_badges,UAL-RE/redata-docs at bug/13_fix_issues_badges,2,1
+2022-06-14,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,5,3
+2022-06-14,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2022-06-14,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2022-06-14,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,1,1
+2022-06-14,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,3,3
+2022-06-14,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,2,1
+2022-06-14,/UAL-RE/uptime/issues/126,🛑 UA Institutional Repository is down · Issue #126 · UAL-RE/uptime · GitHub,1,1
+2022-06-14,/UAL-RE/uptime/issues/216,🛑 ReDATA (stage) is down · Issue #216 · UAL-RE/uptime,1,1
