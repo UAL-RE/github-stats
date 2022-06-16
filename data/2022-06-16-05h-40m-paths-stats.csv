@@ -1,0 +1,44 @@
+date,path,title,count,uniques
+2022-06-16,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+2022-06-16,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/bug_report.md,LD-Cool-P/bug_report.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-16,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P · GitHub,3,1
+2022-06-16,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2022-06-16,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2022-06-16,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2022-06-16,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2022-06-16,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2022-06-16,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,2,1
+2022-06-16,/UAL-RE/ReBACH/actions,Actions · UAL-RE/ReBACH,1,1
+2022-06-16,/UAL-RE/ReBACH/actions/runs/2065771010,"add preservation schema, include top level folder, GH Action for linting · UA...",1,1
+2022-06-16,/UAL-RE/ReBACH/actions/runs/2065771010/workflow,Add GH action for linting using flake8 · UAL-RE/ReBACH@01b1282,1,1
+2022-06-16,/UAL-RE/ReBACH/blob/main/.flake8,ReBACH/.flake8 at main · UAL-RE/ReBACH,1,1
+2022-06-16,/UAL-RE/ReBACH/tree/main/.github/workflows,ReBACH/.github/workflows at main · UAL-RE/ReBACH,1,1
+2022-06-16,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,1
+2022-06-16,/UAL-RE/redata-commons/pull/17/files,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,2,1
+2022-06-16,/UAL-RE/redata-commons/branches,Branches · UAL-RE/redata-commons,1,1
+2022-06-16,/UAL-RE/redata-commons/commit/1f53f82370b51bc6e3ef8bbb42f20d40e2ae758d,Merge pull request #22 from UAL-RE/documentation_update_conf · UAL-RE/redata-...,1,1
+2022-06-16,/UAL-RE/redata-commons/pull/17,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,1,1
+2022-06-16,/UAL-RE/redata-commons/pull/17/commits,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,1,1
+2022-06-16,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,1,1
+2022-06-16,/UAL-RE/redata-commons/releases,Releases · UAL-RE/redata-commons,1,1
+2022-06-16,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,14,2
+2022-06-16,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,12,2
+2022-06-16,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,5,1
+2022-06-16,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs,3,2
+2022-06-16,/UAL-RE/redata-docs/issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,2,1
+2022-06-16,/UAL-RE/redata-docs/pull/27,updating tagging section for project-management.rst by yhan818 · Pull Request...,2,1
+2022-06-16,/UAL-RE/redata-docs/commit/789c122ecea7fd943908c917500c575069b0bef7,Merge pull request #26 from UAL-RE/bug/13_fix_issues_badges · UAL-RE/redata-d...,1,1
+2022-06-16,/UAL-RE/redata-docs/commit/d0a6869f24dec785b488d7f3fc4d33626bc35de3,bump version 0.3.2 · UAL-RE/redata-docs@d0a6869,1,1
+2022-06-16,/UAL-RE/redata-docs/compare/tagging-project-management,Comparing main...tagging-project-management · UAL-RE/redata-docs,1,1
+2022-06-16,/UAL-RE/redata-docs/issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,1,1
+2022-06-16,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,2,2
+2022-06-16,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,7,3
+2022-06-16,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,3,2
+2022-06-16,/UAL-RE/uptime/blob/master/.github/workflows/site.yml,uptime/site.yml at master · UAL-RE/uptime,2,1
+2022-06-16,/UAL-RE/uptime/graphs/contributors,Contributors to UAL-RE/uptime,2,1
+2022-06-16,/UAL-RE/uptime/blob/master/.github/workflows/summary.yml,uptime/summary.yml at master · UAL-RE/uptime,1,1
+2022-06-16,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,1,1
+2022-06-16,/UAL-RE/uptime/branches,Branches · UAL-RE/uptime,1,1
+2022-06-16,/UAL-RE/uptime/issues/126,🛑 UA Institutional Repository is down · Issue #126 · UAL-RE/uptime · GitHub,1,1
+2022-06-16,/UAL-RE/uptime/issues/216,🛑 ReDATA (stage) is down · Issue #216 · UAL-RE/uptime,1,1
+2022-06-16,/UAL-RE/uptime/tree/master/.github/workflows,uptime/.github/workflows at master · UAL-RE/uptime,1,1
