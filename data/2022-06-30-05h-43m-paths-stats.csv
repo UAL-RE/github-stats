@@ -1,0 +1,60 @@
+date,path,title,count,uniques
+2022-06-30,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,16,3
+2022-06-30,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,15,1
+2022-06-30,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs · GitHub,3,2
+2022-06-30,/UAL-RE/redata-docs/issues/9,Add page for data curation overview · Issue #9 · UAL-RE/redata-docs,2,1
+2022-06-30,/UAL-RE/redata-docs/pulls,Pull requests · UAL-RE/redata-docs,2,1
+2022-06-30,/UAL-RE/redata-docs/blob/main/.gitignore,redata-docs/.gitignore at main · UAL-RE/redata-docs,1,1
+2022-06-30,/UAL-RE/redata-docs/commit/4ac0e0d895d19d52df6ee5d096288d10338c8da1,Merge pull request #27 from UAL-RE/tagging-project-management · UAL-RE/redata...,1,1
+2022-06-30,/UAL-RE/redata-docs/graphs/contributors,Contributors to UAL-RE/redata-docs,1,1
+2022-06-30,/UAL-RE/redata-docs/pull/27,updating tagging section for project-management.rst by yhan818 · Pull Request...,1,1
+2022-06-30,/UAL-RE/redata-docs/pulse,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2022-06-30,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-06-30,/UAL-RE/redata-iac/blob/4929ae72961cd2b7b240ac1f97348255b0ad1baf/ansible/bashrc_requiam_alias_setup.yml,redata-iac/bashrc_requiam_alias_setup.yml at 4929ae72961cd2b7b240ac1f97348255...,1,1
+2022-06-30,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,1,1
+2022-06-30,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,1,1
+2022-06-30,/UAL-RE/redata-landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+2022-06-30,/UAL-RE/redata-landing-page/blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,1,1
+2022-06-30,/UAL-RE/redata-landing-page/blob/landing-page/README.md,redata-landing-page/README.md at landing-page · UAL-RE/redata-landing-page,1,1
+2022-06-30,/UAL-RE/redata-landing-page/branches,Branches · UAL-RE/redata-landing-page,1,1
+2022-06-30,/UAL-RE/redata-landing-page/tree/landing-page/assets,redata-landing-page/assets at landing-page · UAL-RE/redata-landing-page,1,1
+2022-06-30,/UAL-RE/redata-landing-page/tree/landing-page/assets/vendor,redata-landing-page/assets/vendor at landing-page · UAL-RE/redata-landing-page,1,1
+2022-06-30,/UAL-RE/ReQUIAM/issues,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,72,2
+2022-06-30,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,69,3
+2022-06-30,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,48,2
+2022-06-30,/UAL-RE/ReQUIAM/actions,issue 170. update to python 3.9 · UAL-RE/ReQUIAM@25c788f,30,2
+2022-06-30,/UAL-RE/ReQUIAM/pull/171,issue 170. update to python 3.9 by yhan818 · Pull Request #171 · UAL-RE/ReQUIAM,30,2
+2022-06-30,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,23,1
+2022-06-30,/UAL-RE/ReQUIAM/commits/master/.github/workflows/python-package.yml,History for .github/workflows/python-package.yml - UAL-RE/ReQUIAM,17,1
+2022-06-30,/UAL-RE/ReQUIAM/tree/master/.github/PULL_REQUEST_TEMPLATE,ReQUIAM/.github/PULL_REQUEST_TEMPLATE at master · UAL-RE/ReQUIAM,12,1
+2022-06-30,/UAL-RE/ReQUIAM/issues/160,Update README.md for RTDs information · Issue #160 · UAL-RE/ReQUIAM,11,1
+2022-06-30,/UAL-RE/ReQUIAM/tree/master/.github,ReQUIAM/.github at master · UAL-RE/ReQUIAM,10,2
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,32,1
+2022-06-30,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,25,2
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,12,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/83,Enhancement: Update RTD to reflect Python 3.9 updates · Issue #83 · UAL-RE/Re...,10,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/36,Generate git commit command for updates to CSV · Issue #36 · UAL-RE/ReQUIAM_csv,8,2
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,8,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/66,Sphinx documentation with RTDs · Issue #66 · UAL-RE/ReQUIAM_csv,5,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/community,Community Standards,4,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/graphs/contributors,Contributors to UAL-RE/ReQUIAM_csv,4,1
+2022-06-30,/UAL-RE/ReQUIAM_csv/issues/new,New Issue · UAL-RE/ReQUIAM_csv,4,1
+2022-06-30,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,5,1
+2022-06-30,/UAL-RE/slacking/actions,Actions · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/blob/master/README.md,slacking/README.md at master · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/branches,Branches · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/graphs/contributors,Contributors to UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/issues,Issues · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/pulls,Pull requests · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/slacking/pulse,Pulse · UAL-RE/slacking,1,1
+2022-06-30,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,1
+2022-06-30,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,9,2
+2022-06-30,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,7,2
+2022-06-30,/UAL-RE/uptime/issues/226,🛑 Afghan Respository is down · Issue #226 · UAL-RE/uptime,7,2
+2022-06-30,/UAL-RE/uptime/pull/227,Update .upptimerc.yml by yhan818 · Pull Request #227 · UAL-RE/uptime,5,2
+2022-06-30,/UAL-RE/uptime/blob/master/.upptimerc.yml,uptime/.upptimerc.yml at master · UAL-RE/uptime,3,2
+2022-06-30,/UAL-RE/uptime/pulls,Pull requests · UAL-RE/uptime,3,2
+2022-06-30,/UAL-RE/uptime/compare/master...yhan818:patch-1,Comparing UAL-RE:master...yhan818:patch-1 · UAL-RE/uptime,3,1
+2022-06-30,/UAL-RE/uptime/tree/gh-pages,UAL-RE/uptime at gh-pages,3,1
+2022-06-30,/UAL-RE/uptime/branches,Branches · UAL-RE/uptime,2,1
+2022-06-30,/UAL-RE/uptime/commits/master,Commits · UAL-RE/uptime,2,1
