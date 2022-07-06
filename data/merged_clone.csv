@@ -301,6 +301,7 @@ ReQUIAM,2022-06-29,24,6
 ReQUIAM,2022-06-30,2,2
 ReQUIAM,2022-07-01,2,2
 ReQUIAM,2022-07-02,6,4
+ReQUIAM,2022-07-05,10,4
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -1011,6 +1012,7 @@ github-stats,2022-07-01,5,3
 github-stats,2022-07-02,5,3
 github-stats,2022-07-03,6,4
 github-stats,2022-07-04,6,4
+github-stats,2022-07-05,7,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1177,6 +1179,7 @@ redata-commons,2022-06-29,10,5
 redata-commons,2022-06-30,5,3
 redata-commons,2022-07-01,9,1
 redata-commons,2022-07-04,1,1
+redata-commons,2022-07-05,26,9
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -1797,3 +1800,4 @@ uptime,2022-07-02,15,5
 uptime,2022-07-03,17,6
 uptime,2022-07-04,13,5
 uptime,2022-07-05,14,4
+uptime,2022-07-06,16,6
