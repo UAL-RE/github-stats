@@ -222,6 +222,7 @@ LD-Cool-P,2022-06-30,1,1
 LD-Cool-P,2022-07-02,3,1
 LD-Cool-P,2022-07-04,4,1
 LD-Cool-P,2022-07-06,18,3
+LD-Cool-P,2022-07-07,6,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -262,6 +263,7 @@ ReBACH,2022-06-10,7,1
 ReBACH,2022-06-17,1,1
 ReBACH,2022-06-24,1,1
 ReBACH,2022-06-25,5,1
+ReBACH,2022-07-08,3,1
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -985,6 +987,7 @@ ldcoolp-figshare,2022-06-24,1,1
 ldcoolp-figshare,2022-06-28,2,1
 ldcoolp-figshare,2022-06-30,9,1
 ldcoolp-figshare,2022-07-01,1,1
+ldcoolp-figshare,2022-07-07,5,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -1095,6 +1098,7 @@ redata-commons,2022-06-30,16,1
 redata-commons,2022-07-01,1,1
 redata-commons,2022-07-05,64,1
 redata-commons,2022-07-06,138,1
+redata-commons,2022-07-07,87,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
@@ -1167,6 +1171,7 @@ redata-docs,2022-07-01,3,1
 redata-docs,2022-07-02,1,1
 redata-docs,2022-07-05,4,2
 redata-docs,2022-07-06,1,1
+redata-docs,2022-07-07,1,1
 redata-iac,2021-06-16,3,2
 redata-iac,2021-06-22,12,2
 redata-iac,2021-06-28,3,1
