@@ -92,6 +92,7 @@ LD-Cool-P,2022-06-22,8,3
 LD-Cool-P,2022-06-26,1,1
 LD-Cool-P,2022-06-30,1,1
 LD-Cool-P,2022-07-07,2,1
+LD-Cool-P,2022-07-09,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -125,6 +126,7 @@ ReBACH,2022-06-14,1,1
 ReBACH,2022-06-15,2,1
 ReBACH,2022-06-26,1,1
 ReBACH,2022-07-07,2,1
+ReBACH,2022-07-08,2,2
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -305,6 +307,7 @@ ReQUIAM,2022-07-01,2,2
 ReQUIAM,2022-07-02,6,4
 ReQUIAM,2022-07-05,10,4
 ReQUIAM,2022-07-06,18,5
+ReQUIAM,2022-07-08,35,8
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -1019,6 +1022,7 @@ github-stats,2022-07-04,6,4
 github-stats,2022-07-05,7,4
 github-stats,2022-07-06,5,3
 github-stats,2022-07-07,5,3
+github-stats,2022-07-08,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1188,6 +1192,7 @@ redata-commons,2022-07-04,1,1
 redata-commons,2022-07-05,26,9
 redata-commons,2022-07-06,44,10
 redata-commons,2022-07-07,55,12
+redata-commons,2022-07-08,23,8
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -1811,3 +1816,4 @@ uptime,2022-07-05,14,4
 uptime,2022-07-06,16,6
 uptime,2022-07-07,11,3
 uptime,2022-07-08,16,6
+uptime,2022-07-09,19,7
