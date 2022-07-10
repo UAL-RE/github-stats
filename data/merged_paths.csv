@@ -21411,3 +21411,56 @@
 2022-07-09,/UAL-RE/redata-docs/pulls,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
 2022-07-09,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs · GitHub,3,1
 2022-07-09,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-07-10,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,16,6
+2022-07-10,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,2,2
+2022-07-10,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/inspection/checksum.py,LD-Cool-P/checksum.py at master · UAL-RE/LD-Cool-P · GitHub,2,1
+2022-07-10,/UAL-RE/LD-Cool-P/issues,UAL-RE/LD-Cool-P: Python tool to enable data curation,13,1
+2022-07-10,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,6,3
+2022-07-10,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,2,1
+2022-07-10,/UAL-RE/LD-Cool-P/pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,3,2
+2022-07-10,/UAL-RE/LD-Cool-P/tree/master/.github,UAL-RE/LD-Cool-P: Python tool to enable data curation,3,3
+2022-07-10,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P · GitHub,3,3
+2022-07-10,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/scripts,LD-Cool-P/ldcoolp/scripts at master · UAL-RE/LD-Cool-P · GitHub,3,2
+2022-07-10,/UAL-RE/ReBACH,GitHub - UAL-RE/ReBACH: Python-based tool to enable data preservation to a cl...,1,1
+2022-07-10,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/ualrdm-preservationdirectory-schema.json,ReBACH/ualrdm-preservationdirectory-schema.json at main · UAL-RE/ReBACH · Git...,1,1
+2022-07-10,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH · GitHub,1,1
+2022-07-10,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,67,3
+2022-07-10,/UAL-RE/ReQUIAM/actions,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,33,2
+2022-07-10,/UAL-RE/ReQUIAM/commits/master/.github/workflows/python-package.yml,History for .github/workflows/python-package.yml - UAL-RE/ReQUIAM,17,1
+2022-07-10,/UAL-RE/ReQUIAM/issues,Update PR templates · UAL-RE/ReQUIAM@c7ac1a8,113,1
+2022-07-10,/UAL-RE/ReQUIAM/issues/170,Issues · UAL-RE/ReQUIAM,43,2
+2022-07-10,/UAL-RE/ReQUIAM/issues/177,Issues · UAL-RE/ReQUIAM,17,2
+2022-07-10,/UAL-RE/ReQUIAM/pull/171,issue 170. update to python 3.9 by yhan818 · Pull Request #171 · UAL-RE/ReQUIAM,32,2
+2022-07-10,/UAL-RE/ReQUIAM/pull/178,Pull requests · UAL-RE/ReQUIAM,19,2
+2022-07-10,/UAL-RE/ReQUIAM/pulls,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,81,2
+2022-07-10,/UAL-RE/ReQUIAM/tree/master/.github/PULL_REQUEST_TEMPLATE,ReQUIAM/.github/PULL_REQUEST_TEMPLATE at master · UAL-RE/ReQUIAM,16,2
+2022-07-10,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,5,1
+2022-07-10,/UAL-RE/ReQUIAM_csv/issues,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,14,1
+2022-07-10,/UAL-RE/ReQUIAM_csv/issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,7,1
+2022-07-10,/UAL-RE/ReQUIAM_csv/issues/83,Enhancement: Update RTD to reflect Python 3.9 updates · Issue #83 · UAL-RE/Re...,8,1
+2022-07-10,/UAL-RE/ReQUIAM_csv/pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1
+2022-07-10,/UAL-RE/ReQUIAM_csv/pull/84,closing issue 75. Updated README.md to avoid duplication by yhan818 · Pull Re...,3,1
+2022-07-10,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-07-10,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,9,4
+2022-07-10,/UAL-RE/ldcoolp-figshare/blob/2b5109ac97566bd8853fe63aca3524147316ab35/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at 2b5109ac97566bd8853fe63aca3524147316ab35 · UAL-RE...,2,1
+2022-07-10,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare · GitHub,1,1
+2022-07-10,/UAL-RE/ldcoolp-figshare/branches,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2022-07-10,/UAL-RE/ldcoolp-figshare/issues,Branches · UAL-RE/ldcoolp-figshare,1,1
+2022-07-10,/UAL-RE/ldcoolp-figshare/issues/29,Issues · UAL-RE/ldcoolp-figshare,3,1
+2022-07-10,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare · GitHub,1,1
+2022-07-10,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,85,3
+2022-07-10,/UAL-RE/redata-commons/issues,UAL-RE/redata-commons: Commons code used by ReDATA codebases,133,2
+2022-07-10,/UAL-RE/redata-commons/issues/23,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,28,1
+2022-07-10,/UAL-RE/redata-commons/issues/32,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,17,1
+2022-07-10,/UAL-RE/redata-commons/issues/new,New Issue · UAL-RE/redata-commons,20,1
+2022-07-10,/UAL-RE/redata-commons/issues/new/choose,New Issue · UAL-RE/redata-commons,18,1
+2022-07-10,/UAL-RE/redata-commons/pull/29,Pull requests · UAL-RE/redata-commons,44,1
+2022-07-10,/UAL-RE/redata-commons/pull/29/commits,Enhancement/27 release by yhan818 · Pull Request #29 · UAL-RE/redata-commons,16,1
+2022-07-10,/UAL-RE/redata-commons/pull/31,Pull requests · UAL-RE/redata-commons,32,1
+2022-07-10,/UAL-RE/redata-commons/pulls,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,138,1
+2022-07-10,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,6,3
+2022-07-10,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,21,1
+2022-07-10,/UAL-RE/redata-docs/pull/27,Pull requests · UAL-RE/redata-docs,1,1
+2022-07-10,/UAL-RE/redata-docs/pulls,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
+2022-07-10,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs · GitHub,3,1
+2022-07-10,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
