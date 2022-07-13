@@ -93,6 +93,7 @@ LD-Cool-P,2022-06-26,1,1
 LD-Cool-P,2022-06-30,1,1
 LD-Cool-P,2022-07-07,2,1
 LD-Cool-P,2022-07-09,1,1
+LD-Cool-P,2022-07-12,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -127,6 +128,7 @@ ReBACH,2022-06-15,2,1
 ReBACH,2022-06-26,1,1
 ReBACH,2022-07-07,2,1
 ReBACH,2022-07-08,2,2
+ReBACH,2022-07-12,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -309,6 +311,7 @@ ReQUIAM,2022-07-05,10,4
 ReQUIAM,2022-07-06,18,5
 ReQUIAM,2022-07-08,35,8
 ReQUIAM,2022-07-11,1,1
+ReQUIAM,2022-07-12,54,18
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -402,6 +405,8 @@ ReQUIAM_csv,2022-06-21,2,2
 ReQUIAM_csv,2022-06-27,8,6
 ReQUIAM_csv,2022-06-28,2,2
 ReQUIAM_csv,2022-07-07,1,1
+ReQUIAM_csv,2022-07-12,2,2
+ReQUIAM_csv,2022-07-13,2,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -1027,6 +1032,7 @@ github-stats,2022-07-08,5,3
 github-stats,2022-07-09,5,3
 github-stats,2022-07-10,5,3
 github-stats,2022-07-11,6,4
+github-stats,2022-07-12,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,1,1
@@ -1099,6 +1105,7 @@ ldcoolp-figshare,2022-06-23,6,4
 ldcoolp-figshare,2022-06-24,2,2
 ldcoolp-figshare,2022-07-04,1,1
 ldcoolp-figshare,2022-07-11,1,1
+ldcoolp-figshare,2022-07-12,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1264,6 +1271,7 @@ redata-docs,2022-06-06,1,1
 redata-docs,2022-06-14,5,3
 redata-docs,2022-06-15,12,4
 redata-docs,2022-06-21,1,1
+redata-docs,2022-07-12,1,1
 redata-iac,2021-06-29,3,3
 redata-iac,2021-07-01,2,2
 redata-iac,2021-07-19,6,5
@@ -1826,3 +1834,4 @@ uptime,2022-07-09,19,7
 uptime,2022-07-10,13,3
 uptime,2022-07-11,15,5
 uptime,2022-07-12,14,5
+uptime,2022-07-13,15,5
