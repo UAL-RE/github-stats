@@ -1,0 +1,22 @@
+date,path,title,count,uniques
+2022-07-16,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-07-16,/UAL-RE/ReQUIAM/issues,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,110,1
+2022-07-16,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,71,2
+2022-07-16,/UAL-RE/ReQUIAM/pulls,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,47,1
+2022-07-16,/UAL-RE/ReQUIAM/issues/170,Issues · UAL-RE/ReQUIAM,44,2
+2022-07-16,/UAL-RE/ReQUIAM/pull/179,Pull requests · UAL-RE/ReQUIAM,32,1
+2022-07-16,/UAL-RE/ReQUIAM/issues/177,Issues · UAL-RE/ReQUIAM,29,2
+2022-07-16,/UAL-RE/ReQUIAM/pull/178,Pull requests · UAL-RE/ReQUIAM,20,2
+2022-07-16,/UAL-RE/ReQUIAM/issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,13,1
+2022-07-16,/UAL-RE/ReQUIAM/issues/175,"Update documentation (e.g., installation steps) · Issue #175 · UAL-RE/ReQUIAM",12,1
+2022-07-16,/UAL-RE/ReQUIAM/actions,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,8,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,51,1
+2022-07-16,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,37,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,36,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/issues/83,Issues · UAL-RE/ReQUIAM_csv,25,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/pull/87,Issue 86. Upgrade sphix and rst docs by yhan818 · Pull Request #87 · UAL-RE/R...,18,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,17,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/issues/86,Issues · UAL-RE/ReQUIAM_csv,12,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,8,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/pull/85,Pull requests · UAL-RE/ReQUIAM_csv,6,1
+2022-07-16,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,5,1
