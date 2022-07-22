@@ -22087,3 +22087,68 @@
 2022-07-21,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,18,1
 2022-07-21,/UAL-RE/redata-docs/issues/9,Issues · UAL-RE/redata-docs,3,1
 2022-07-21,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs · GitHub,1,1
+2022-07-22,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,5,1
+2022-07-22,/UAL-RE/LD-Cool-P/actions,Projects · LD-Cool-P,2,1
+2022-07-22,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/bug_report.md,LD-Cool-P/bug_report.md at master · UAL-RE/LD-Cool-P,2,2
+2022-07-22,/UAL-RE/LD-Cool-P/issues,UAL-RE/LD-Cool-P: Python tool to enable data curation,8,1
+2022-07-22,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,3,1
+2022-07-22,/UAL-RE/LD-Cool-P/issues/176,Enhancement: Sphinx documentation with RTDs · Issue #176 · UAL-RE/LD-Cool-P,5,1
+2022-07-22,/UAL-RE/LD-Cool-P/issues/91,Issues · UAL-RE/LD-Cool-P,3,1
+2022-07-22,/UAL-RE/LD-Cool-P/projects,Projects · LD-Cool-P,2,1
+2022-07-22,/UAL-RE/LD-Cool-P/pull/255,Bump numpy from 1.21.0 to 1.22.0 by dependabot[bot] · Pull Request #255 · UAL...,2,1
+2022-07-22,/UAL-RE/LD-Cool-P/tree/master/.github/PULL_REQUEST_TEMPLATE,LD-Cool-P/.github/PULL_REQUEST_TEMPLATE at master · UAL-RE/LD-Cool-P,2,1
+2022-07-22,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,12,6
+2022-07-22,/UAL-RE/ReBACH/pull/7,fix #6: Change the regexes to be more flexible on article_id and version by z...,2,1
+2022-07-22,/UAL-RE/ReBACH/pull/7/checks,fix #6: Change the regexes to be more flexible on article_id and version by z...,1,1
+2022-07-22,/UAL-RE/ReBACH/pull/7/commits,fix #6: Change the regexes to be more flexible on article_id and version by z...,1,1
+2022-07-22,/UAL-RE/ReBACH/pull/7/files,fix #6: Change the regexes to be more flexible on article_id and version by z...,1,1
+2022-07-22,/UAL-RE/ReBACH/pulls,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+2022-07-22,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,2,2
+2022-07-22,/UAL-RE/ReBACH/watchers,Watchers · UAL-RE/ReBACH,2,1
+2022-07-22,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,72,3
+2022-07-22,/UAL-RE/ReQUIAM/issues,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",89,1
+2022-07-22,/UAL-RE/ReQUIAM/issues/170,Issues · UAL-RE/ReQUIAM,38,2
+2022-07-22,/UAL-RE/ReQUIAM/issues/177,Issues · UAL-RE/ReQUIAM,14,2
+2022-07-22,/UAL-RE/ReQUIAM/issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,11,1
+2022-07-22,/UAL-RE/ReQUIAM/pull/179,Pull requests · UAL-RE/ReQUIAM,23,1
+2022-07-22,/UAL-RE/ReQUIAM/pull/183,Pull requests · UAL-RE/ReQUIAM,8,2
+2022-07-22,/UAL-RE/ReQUIAM/pull/184,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",14,2
+2022-07-22,/UAL-RE/ReQUIAM/pulls,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,49,2
+2022-07-22,/UAL-RE/ReQUIAM/releases,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,10,1
+2022-07-22,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,40,2
+2022-07-22,/UAL-RE/ReQUIAM_csv/blob/master/requiam_csv/default.ini,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,5,1
+2022-07-22,/UAL-RE/ReQUIAM_csv/issues,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,52,2
+2022-07-22,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,8,1
+2022-07-22,/UAL-RE/ReQUIAM_csv/issues/83,Issues · UAL-RE/ReQUIAM_csv,25,1
+2022-07-22,/UAL-RE/ReQUIAM_csv/issues/86,Issues · UAL-RE/ReQUIAM_csv,13,2
+2022-07-22,/UAL-RE/ReQUIAM_csv/pull/85,Pull requests · UAL-RE/ReQUIAM_csv,6,1
+2022-07-22,/UAL-RE/ReQUIAM_csv/pull/87,Issue 86. Upgrade sphix and rst docs by yhan818 · Pull Request #87 · UAL-RE/R...,19,2
+2022-07-22,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,36,1
+2022-07-22,/UAL-RE/ReQUIAM_csv/tree/master/requiam_csv,ReQUIAM_csv/requiam_csv at master · UAL-RE/ReQUIAM_csv,17,1
+2022-07-22,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-07-22,/UAL-RE/data-service-landscape-scan/blob/main/data/salaries-ipeds.csv,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
+2022-07-22,/UAL-RE/data-service-landscape-scan/tree/main/data,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/blob/main/requirements.txt,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,14,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/1,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/14,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/16,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/20,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/23,Issues · UAL-RE/ldcoolp-figshare,2,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/3,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-07-22,/UAL-RE/ldcoolp-figshare/issues/5,Include issue_request from redata-commons · Issue #5 · UAL-RE/ldcoolp-figshare,2,1
+2022-07-22,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,29,2
+2022-07-22,/UAL-RE/redata-commons/blob/main/README.md,redata-commons/README.md at main · UAL-RE/redata-commons,2,1
+2022-07-22,/UAL-RE/redata-commons/blob/main/docs/requirements.txt,redata-commons/docs at main · UAL-RE/redata-commons,3,1
+2022-07-22,/UAL-RE/redata-commons/blob/main/requirements.txt,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,1
+2022-07-22,/UAL-RE/redata-commons/issues,UAL-RE/redata-commons: Commons code used by ReDATA codebases,22,1
+2022-07-22,/UAL-RE/redata-commons/issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,5,1
+2022-07-22,/UAL-RE/redata-commons/issues/23,Issues · UAL-RE/redata-commons,4,1
+2022-07-22,/UAL-RE/redata-commons/issues/32,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,3,1
+2022-07-22,/UAL-RE/redata-commons/pulls,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,4,1
+2022-07-22,/UAL-RE/redata-commons/tree/main/docs,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,1
+2022-07-22,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,6,2
+2022-07-22,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,18,1
+2022-07-22,/UAL-RE/redata-docs/issues/9,Issues · UAL-RE/redata-docs,3,1
+2022-07-22,/UAL-RE/redata-docs/tags,Tags · UAL-RE/redata-docs · GitHub,1,1
