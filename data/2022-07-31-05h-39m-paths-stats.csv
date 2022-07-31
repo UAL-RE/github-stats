@@ -1,0 +1,20 @@
+date,path,title,count,uniques
+2022-07-31,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,25,2
+2022-07-31,/UAL-RE/ReQUIAM/issues,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",21,1
+2022-07-31,/UAL-RE/ReQUIAM/pulls,Resolve Conflicts · Pull Request #184 · UAL-RE/ReQUIAM,20,2
+2022-07-31,/UAL-RE/ReQUIAM/pull/184,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",15,2
+2022-07-31,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,9,2
+2022-07-31,/UAL-RE/ReQUIAM/pull/183,Bug/182 update figshare.ini by yhan818 · Pull Request #183 · UAL-RE/ReQUIAM,3,2
+2022-07-31,/UAL-RE/ReQUIAM/pull/184/files,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",3,2
+2022-07-31,/UAL-RE/ReQUIAM/pull/184/conflicts,Resolve Conflicts · Pull Request #184 · UAL-RE/ReQUIAM,3,1
+2022-07-31,/UAL-RE/ReQUIAM/releases,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,3,1
+2022-07-31,/UAL-RE/ReQUIAM/compare/chore/170_update_to_python3.9,Comparing master...chore/170_update_to_python3.9 · UAL-RE/ReQUIAM,2,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,4,2
+2022-07-31,/UAL-RE/ReQUIAM_csv,Enhancement: Upgrade RTD and Sphinx compile and dependencies (as we did on re...,3,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/blob/44701cc3a14f4bdc75839fb9116da400f0fbbcd8/docs/source/conf.py,ReQUIAM_csv/conf.py at 44701cc3a14f4bdc75839fb9116da400f0fbbcd8 · UAL-RE/ReQU...,1,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/commit/44701cc3a14f4bdc75839fb9116da400f0fbbcd8,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/issues,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/issues/86,Enhancement: Upgrade RTD and Sphinx compile and dependencies (as we did on re...,1,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/pull/87,Issue 86. Upgrade sphix and rst docs by yhan818 · Pull Request #87 · UAL-RE/R...,1,1
+2022-07-31,/UAL-RE/ReQUIAM_csv/search,Search · e'd't,1,1
+2022-07-31,/UAL-RE/UAL-RE,UAL-RE/UAL-RE: About the UAL-RE organization,2,1
