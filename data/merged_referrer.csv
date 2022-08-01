@@ -998,6 +998,9 @@ LD-Cool-P,2022-07-30,github.com,10,2
 LD-Cool-P,2022-07-31,Bing,1,1
 LD-Cool-P,2022-07-31,Google,3,3
 LD-Cool-P,2022-07-31,github.com,10,2
+LD-Cool-P,2022-08-01,Bing,1,1
+LD-Cool-P,2022-08-01,Google,3,3
+LD-Cool-P,2022-08-01,github.com,9,1
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1244,6 +1247,7 @@ ReBACH,2022-07-28,github.com,13,2
 ReBACH,2022-07-29,github.com,13,2
 ReBACH,2022-07-30,github.com,13,2
 ReBACH,2022-07-31,github.com,13,2
+ReBACH,2022-08-01,github.com,11,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -2581,6 +2585,7 @@ ReQUIAM,2022-07-28,github.com,8,1
 ReQUIAM,2022-07-29,github.com,4,1
 ReQUIAM,2022-07-30,github.com,4,1
 ReQUIAM,2022-07-31,github.com,6,2
+ReQUIAM,2022-08-01,github.com,5,2
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -3126,6 +3131,7 @@ ReQUIAM_csv,2022-07-28,github.com,21,1
 ReQUIAM_csv,2022-07-29,github.com,1,1
 ReQUIAM_csv,2022-07-30,github.com,4,2
 ReQUIAM_csv,2022-07-31,github.com,4,2
+ReQUIAM_csv,2022-08-01,github.com,4,2
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -3463,6 +3469,7 @@ data-service-landscape-scan,2022-07-28,github.com,3,1
 data-service-landscape-scan,2022-07-29,github.com,3,1
 data-service-landscape-scan,2022-07-30,github.com,3,1
 data-service-landscape-scan,2022-07-31,github.com,3,1
+data-service-landscape-scan,2022-08-01,github.com,3,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -5352,6 +5359,7 @@ redata-commons,2022-07-30,github.com,1,1
 redata-commons,2022-07-30,readthedocs.org,1,1
 redata-commons,2022-07-31,github.com,2,1
 redata-commons,2022-07-31,readthedocs.org,1,1
+redata-commons,2022-08-01,github.com,1,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
