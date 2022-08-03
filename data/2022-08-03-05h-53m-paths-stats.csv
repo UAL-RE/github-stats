@@ -1,0 +1,36 @@
+date,path,title,count,uniques
+2022-08-03,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,3,1
+2022-08-03,/UAL-RE/data-service-landscape-scan/tree/main/data,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,3,1
+2022-08-03,/UAL-RE/data-service-landscape-scan/blob/main/data/salaries-ipeds.csv,data-service-landscape-scan/salaries-ipeds.csv at main · UAL-RE/data-service-...,2,1
+2022-08-03,/UAL-RE/data-service-landscape-scan/blob/main/data/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
+2022-08-03,/UAL-RE/figstats/issues/1,Main API functionality to query for Figshare stats · Issue #1 · UAL-RE/figstats,1,1
+2022-08-03,/UAL-RE/github-stats,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+2022-08-03,/UAL-RE/github-stats/actions,Actions · UAL-RE/github-stats,1,1
+2022-08-03,/UAL-RE/github-stats/actions/runs/2758604554,Deploy GitHub pages with traffic stats · UAL-RE/github-stats@7579dae,1,1
+2022-08-03,/UAL-RE/github-stats/runs/7573513899,Deploy GitHub pages with traffic stats · UAL-RE/github-stats@7579dae,1,1
+2022-08-03,/UAL-RE/github-stats/tree/main/data,github-stats/data at main · UAL-RE/github-stats,1,1
+2022-08-03,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+2022-08-03,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,3,2
+2022-08-03,/UAL-RE/LD-Cool-P/blob/master/setup.py,LD-Cool-P/setup.py at master · UAL-RE/LD-Cool-P,1,1
+2022-08-03,/UAL-RE/LD-Cool-P/issues/144,Long Qualtrics links a problem for Outlook · Issue #144 · UAL-RE/LD-Cool-P,1,1
+2022-08-03,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,8,2
+2022-08-03,/UAL-RE/ReBACH/pull/7,fix #6: Change the regexes to be more flexible on article_id and version by z...,5,3
+2022-08-03,/UAL-RE/ReBACH/pull/7/files,fix #6: Change the regexes to be more flexible on article_id and version by z...,3,2
+2022-08-03,/UAL-RE/ReBACH/issues/6,Bug: schemas don't accept article_id's different than 8 digits · Issue #6 · U...,2,2
+2022-08-03,/UAL-RE/ReBACH/pull/7/commits,fix #6: Change the regexes to be more flexible on article_id and version by z...,2,2
+2022-08-03,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,2,1
+2022-08-03,/UAL-RE/ReBACH/watchers,Watchers · UAL-RE/ReBACH,2,1
+2022-08-03,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/ualrdm-curationdirectory-schema.json,ReBACH/ualrdm-curationdirectory-schema.json at main · UAL-RE/ReBACH,1,1
+2022-08-03,/UAL-RE/ReBACH/commit/7e6659df4c4af1c9639b36e5fd0ea938256db3ed,Merge pull request #7 from UAL-RE/bug/2_article_id · UAL-RE/ReBACH@7e6659d,1,1
+2022-08-03,/UAL-RE/ReBACH/issues/8,Bug: curation schema is too strict · Issue #8 · UAL-RE/ReBACH,1,1
+2022-08-03,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
+2022-08-03,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2022-08-03,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,2,2
+2022-08-03,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,2,2
+2022-08-03,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,1,1
+2022-08-03,/UAL-RE/ReQUIAM/issues/16,Packaging a working LDAP + Grouper + Delta script · Issue #16 · UAL-RE/ReQUIA...,1,1
+2022-08-03,/UAL-RE/ReQUIAM/pull/184,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",1,1
+2022-08-03,/UAL-RE/ReQUIAM/pull/184/files,"updated __init__.py, script_run and RTD files by yhan818 · Pull Request #184 ...",1,1
+2022-08-03,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739 · GitHub,5,3
+2022-08-03,/UAL-RE/ReQUIAM_csv/blob/44701cc3a14f4bdc75839fb9116da400f0fbbcd8/docs/source/conf.py,ReQUIAM_csv/conf.py at 44701cc3a14f4bdc75839fb9116da400f0fbbcd8 · UAL-RE/ReQU...,1,1
+2022-08-03,/UAL-RE/ReQUIAM_csv/search,Search · e'd't,1,1
