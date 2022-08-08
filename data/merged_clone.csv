@@ -1084,7 +1084,7 @@ github-stats,2022-07-21,6,4
 github-stats,2022-07-22,7,5
 github-stats,2022-07-23,7,4
 github-stats,2022-07-24,2,2
-github-stats,2022-07-25,8,6
+github-stats,2022-07-25,3,3
 github-stats,2022-07-26,7,5
 github-stats,2022-07-27,5,3
 github-stats,2022-07-28,5,3
@@ -1097,6 +1097,7 @@ github-stats,2022-08-03,4,3
 github-stats,2022-08-04,6,4
 github-stats,2022-08-05,8,6
 github-stats,2022-08-06,6,4
+github-stats,2022-08-07,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1935,7 +1936,7 @@ uptime,2022-07-21,82,6
 uptime,2022-07-22,73,4
 uptime,2022-07-23,83,5
 uptime,2022-07-24,77,2
-uptime,2022-07-25,97,6
+uptime,2022-07-25,79,4
 uptime,2022-07-26,114,8
 uptime,2022-07-27,80,5
 uptime,2022-07-28,87,5
@@ -1948,4 +1949,5 @@ uptime,2022-08-03,87,5
 uptime,2022-08-04,95,7
 uptime,2022-08-05,98,7
 uptime,2022-08-06,118,7
-uptime,2022-08-07,16,4
+uptime,2022-08-07,106,5
+uptime,2022-08-08,16,5
