@@ -1,0 +1,68 @@
+date,path,title,count,uniques
+2022-08-13,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,8,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,3,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/data/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,2,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/data/salaries-ipeds.csv,data-service-landscape-scan/salaries-ipeds.csv at main · UAL-RE/data-service-...,2,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/analysis-pairwise-services.R,data-service-landscape-scan/analysis-pairwise-services.R at main · UAL-RE/dat...,1,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/analysis-ranked-services.R,data-service-landscape-scan/analysis-ranked-services.R at main · UAL-RE/data-...,1,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/analysis-resourcing-number-serv.R,data-service-landscape-scan/analysis-resourcing-number-serv.R at main · UAL-R...,1,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/analysis-resourcing-prob-serv.R,data-service-landscape-scan/analysis-resourcing-prob-serv.R at main · UAL-RE/...,1,1
+2022-08-13,/UAL-RE/data-service-landscape-scan/blob/main/analysis-service-modes.R,data-service-landscape-scan/analysis-service-modes.R at main · UAL-RE/data-se...,1,1
+2022-08-13,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,21,4
+2022-08-13,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/config,LD-Cool-P/ldcoolp/config at master · UAL-RE/LD-Cool-P,21,1
+2022-08-13,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,17,1
+2022-08-13,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P,13,1
+2022-08-13,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default.ini,LD-Cool-P/default.ini at master · UAL-RE/LD-Cool-P,7,1
+2022-08-13,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/retrieve.py,LD-Cool-P/retrieve.py at master · UAL-RE/LD-Cool-P,6,1
+2022-08-13,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/dict_load.py,LD-Cool-P/dict_load.py at master · UAL-RE/LD-Cool-P,5,1
+2022-08-13,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/__init__.py,LD-Cool-P/__init__.py at master · UAL-RE/LD-Cool-P,3,1
+2022-08-13,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/config/default_v1.0.ini,LD-Cool-P/default_v1.0.ini at master · UAL-RE/LD-Cool-P,2,1
+2022-08-13,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/scripts,LD-Cool-P/ldcoolp/scripts at master · UAL-RE/LD-Cool-P,2,1
+2022-08-13,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,7,5
+2022-08-13,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,2,1
+2022-08-13,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/__init__.py,ldcoolp-figshare/__init__.py at main · UAL-RE/ldcoolp-figshare,1,1
+2022-08-13,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,1,1
+2022-08-13,/UAL-RE/ldcoolp-figshare/commit/b4f4765d08a1a0e84ea558239aa13ed260b6425e,figshare_api.FigshareAdmin: Add institute_articles function (iss #1) · UAL-RE...,1,1
+2022-08-13,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,1,1
+2022-08-13,/UAL-RE/ldcoolp-figshare/issues/29,Feature: Incorporate figshare.Figshare into ldcoolp-figshare · Issue #29 · UA...,1,1
+2022-08-13,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,11,4
+2022-08-13,/UAL-RE/ReBACH/compare/main...avp_dev,Comparing main...avp_dev · UAL-RE/ReBACH,3,2
+2022-08-13,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,3,1
+2022-08-13,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,3,1
+2022-08-13,/UAL-RE/ReBACH/tree/avp_dev,UAL-RE/ReBACH at avp_dev,2,2
+2022-08-13,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,2,2
+2022-08-13,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/directory-validate.py,ReBACH/directory-validate.py at main · UAL-RE/ReBACH,1,1
+2022-08-13,/UAL-RE/ReBACH/blob/main/ualrdm-directory-validation/ualrdm-curationdirectory-schema.json,ReBACH/ualrdm-curationdirectory-schema.json at main · UAL-RE/ReBACH,1,1
+2022-08-13,/UAL-RE/ReBACH/commit/39396dc27e7712ff85aa8d614e06632fd75a53ac,comment removed · UAL-RE/ReBACH@39396dc,1,1
+2022-08-13,/UAL-RE/ReBACH/commit/45ea5b43e214dbfbefae8a4dbf1823155219c605,comment added · UAL-RE/ReBACH@45ea5b4,1,1
+2022-08-13,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
+2022-08-13,/UAL-RE/redata-commons/pull/17,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,2,1
+2022-08-13,/UAL-RE/redata-commons/pull/17/commits,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,1,1
+2022-08-13,/UAL-RE/redata-commons/pull/17/commits/73d6697a74070081299fb455b9ed2cd7014fe2c8,[WIP] Add unit testing for issue_request module by astrochun · Pull Request #...,1,1
+2022-08-13,/UAL-RE/redata-commons/pulls,Pull requests · UAL-RE/redata-commons,1,1
+2022-08-13,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs · GitHub,5,2
+2022-08-13,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
+2022-08-13,/UAL-RE/redata-docs/issues/9,Add page for data curation overview · Issue #9 · UAL-RE/redata-docs,1,1
+2022-08-13,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,2,1
+2022-08-13,/UAL-RE/redata-iac/releases,Releases · UAL-RE/redata-iac,1,1
+2022-08-13,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,1,1
+2022-08-13,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,10,2
+2022-08-13,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,10,1
+2022-08-13,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,5,1
+2022-08-13,/UAL-RE/ReQUIAM/issues/16,Packaging a working LDAP + Grouper + Delta script · Issue #16 · UAL-RE/ReQUIA...,3,3
+2022-08-13,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,2,1
+2022-08-13,/UAL-RE/ReQUIAM/issues/182,"Bug: Increase batch_timeout, batch_size, and sync_max for figshare.ini · Issu...",2,1
+2022-08-13,/UAL-RE/ReQUIAM/pull/174,Improve PR templates by zoidy · Pull Request #174 · UAL-RE/ReQUIAM,2,1
+2022-08-13,/UAL-RE/ReQUIAM/blob/master/.github/PULL_REQUEST_TEMPLATE/bug-pull-request.md,ReQUIAM/bug-pull-request.md at master · UAL-RE/ReQUIAM,1,1
+2022-08-13,/UAL-RE/ReQUIAM/issues/46,Comment field in manual override CSV files · Issue #46 · UAL-RE/ReQUIAM,1,1
+2022-08-13,/UAL-RE/ReQUIAM/pull/176,chore: #135 Update PR templates by zoidy · Pull Request #176 · UAL-RE/ReQUIAM,1,1
+2022-08-13,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,7,2
+2022-08-13,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,7,2
+2022-08-13,/UAL-RE/ReQUIAM_csv/pull/88,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,7,1
+2022-08-13,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,6,2
+2022-08-13,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,3,1
+2022-08-13,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739 · GitHub,2,2
+2022-08-13,/UAL-RE/ReQUIAM_csv/compare/chore/72_PR,Comparing master...chore/72_PR · UAL-RE/ReQUIAM_csv,2,1
+2022-08-13,/UAL-RE/ReQUIAM_csv/pull/88/commits,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,2,1
+2022-08-13,/UAL-RE/ReQUIAM_csv/releases,Releases · UAL-RE/ReQUIAM_csv,2,1
+2022-08-13,/UAL-RE/ReQUIAM_csv/blob/master/img/ReQUIAM_csv_full.png,ReQUIAM_csv/ReQUIAM_csv_full.png at master · UAL-RE/ReQUIAM_csv,1,1
