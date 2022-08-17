@@ -1,0 +1,25 @@
+date,path,title,count,uniques
+2022-08-17,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,2,1
+2022-08-17,/UAL-RE/redata-iac/releases,Releases · UAL-RE/redata-iac,1,1
+2022-08-17,/UAL-RE/redata-iac/tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,1,1
+2022-08-17,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,12,2
+2022-08-17,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM · GitHub,12,2
+2022-08-17,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,5,1
+2022-08-17,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,2,1
+2022-08-17,/UAL-RE/ReQUIAM/issues/182,"Bug: Increase batch_timeout, batch_size, and sync_max for figshare.ini · Issu...",2,1
+2022-08-17,/UAL-RE/ReQUIAM/pull/174,Improve PR templates by zoidy · Pull Request #174 · UAL-RE/ReQUIAM,2,1
+2022-08-17,/UAL-RE/ReQUIAM/blob/master/.github/PULL_REQUEST_TEMPLATE/bug-pull-request.md,ReQUIAM/bug-pull-request.md at master · UAL-RE/ReQUIAM,1,1
+2022-08-17,/UAL-RE/ReQUIAM/blob/master/.github/workflows/python-package.yml,ReQUIAM/python-package.yml at master · UAL-RE/ReQUIAM · GitHub,1,1
+2022-08-17,/UAL-RE/ReQUIAM/issues/16,Packaging a working LDAP + Grouper + Delta script · Issue #16 · UAL-RE/ReQUIA...,1,1
+2022-08-17,/UAL-RE/ReQUIAM/issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,1,1
+2022-08-17,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,10,3
+2022-08-17,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,9,2
+2022-08-17,/UAL-RE/ReQUIAM_csv/pull/88,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,8,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/pulls,Pull requests · UAL-RE/ReQUIAM_csv,6,2
+2022-08-17,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,4,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/pull/88/commits,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,3,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/compare/chore/72_PR,Comparing master...chore/72_PR · UAL-RE/ReQUIAM_csv,2,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/pull/88/commits/5f879fd87885727b484b9b6818b67e82fb838034,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,2,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/pull/88/commits/88bb1dcb06746b2ea1f2105862fa6a8ce06cd9d2,Chore/72 pr Updating PR templates by yhan818 · Pull Request #88 · UAL-RE/ReQU...,2,1
+2022-08-17,/UAL-RE/ReQUIAM_csv/releases,Releases · UAL-RE/ReQUIAM_csv,2,1
+2022-08-17,/UAL-RE/uptime/issues/243,🛑 UA Institutional Repository is down · Issue #243 · UAL-RE/uptime · GitHub,1,1
