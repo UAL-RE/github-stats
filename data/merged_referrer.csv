@@ -1048,6 +1048,10 @@ LD-Cool-P,2022-08-17,Bing,59,1
 LD-Cool-P,2022-08-17,Google,6,1
 LD-Cool-P,2022-08-17,github.com,1,1
 LD-Cool-P,2022-08-17,pypi.org,1,1
+LD-Cool-P,2022-08-18,Bing,60,2
+LD-Cool-P,2022-08-18,Google,8,3
+LD-Cool-P,2022-08-18,github.com,1,1
+LD-Cool-P,2022-08-18,pypi.org,1,1
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1323,6 +1327,7 @@ ReBACH,2022-08-15,Google,5,1
 ReBACH,2022-08-15,github.com,14,2
 ReBACH,2022-08-16,Google,5,1
 ReBACH,2022-08-16,github.com,9,1
+ReBACH,2022-08-18,github.com,14,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -2700,6 +2705,9 @@ ReQUIAM,2022-08-16,redata.readthedocs.io,6,1
 ReQUIAM,2022-08-17,Google,2,2
 ReQUIAM,2022-08-17,github.com,21,2
 ReQUIAM,2022-08-17,redata.readthedocs.io,6,1
+ReQUIAM,2022-08-18,Google,1,1
+ReQUIAM,2022-08-18,github.com,21,2
+ReQUIAM,2022-08-18,redata.readthedocs.io,6,1
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -3270,6 +3278,8 @@ ReQUIAM_csv,2022-08-16,github.com,9,2
 ReQUIAM_csv,2022-08-16,redata.readthedocs.io,2,1
 ReQUIAM_csv,2022-08-17,github.com,10,2
 ReQUIAM_csv,2022-08-17,redata.readthedocs.io,2,1
+ReQUIAM_csv,2022-08-18,github.com,10,2
+ReQUIAM_csv,2022-08-18,redata.readthedocs.io,2,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -3624,6 +3634,7 @@ data-service-landscape-scan,2022-08-14,github.com,18,1
 data-service-landscape-scan,2022-08-15,github.com,13,1
 data-service-landscape-scan,2022-08-16,github.com,13,1
 data-service-landscape-scan,2022-08-17,github.com,13,1
+data-service-landscape-scan,2022-08-18,github.com,3,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -4876,6 +4887,9 @@ ldcoolp-figshare,2022-08-16,Google,6,2
 ldcoolp-figshare,2022-08-16,pypi.org,2,2
 ldcoolp-figshare,2022-08-17,Google,6,2
 ldcoolp-figshare,2022-08-17,pypi.org,2,2
+ldcoolp-figshare,2022-08-18,Google,4,1
+ldcoolp-figshare,2022-08-18,github.com,9,1
+ldcoolp-figshare,2022-08-18,pypi.org,2,2
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -5556,6 +5570,8 @@ redata-commons,2022-08-16,github.com,1,1
 redata-commons,2022-08-16,redata.readthedocs.io,5,1
 redata-commons,2022-08-17,github.com,1,1
 redata-commons,2022-08-17,redata.readthedocs.io,5,1
+redata-commons,2022-08-18,github.com,1,1
+redata-commons,2022-08-18,redata.readthedocs.io,5,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -5927,6 +5943,7 @@ redata-docs,2022-08-14,redata.readthedocs.io,1,1
 redata-docs,2022-08-15,redata.readthedocs.io,1,1
 redata-docs,2022-08-16,redata.readthedocs.io,1,1
 redata-docs,2022-08-17,redata.readthedocs.io,1,1
+redata-docs,2022-08-18,redata.readthedocs.io,1,1
 redata-iac,2021-06-30,github.com,3,2
 redata-iac,2021-07-05,github.com,2,1
 redata-iac,2021-07-06,github.com,2,1
@@ -6260,6 +6277,7 @@ redata-landing-page,2022-06-27,github.com,6,1
 redata-landing-page,2022-06-28,github.com,6,1
 redata-landing-page,2022-06-29,github.com,6,1
 redata-landing-page,2022-06-30,github.com,6,1
+redata-landing-page,2022-08-18,github.com,11,1
 slacking,2021-06-30,github.com,1,1
 slacking,2021-07-05,github.com,1,1
 slacking,2021-07-06,github.com,1,1
