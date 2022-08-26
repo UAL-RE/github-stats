@@ -154,6 +154,7 @@ ReBACH,2022-08-08,2,2
 ReBACH,2022-08-12,2,1
 ReBACH,2022-08-13,3,2
 ReBACH,2022-08-17,1,1
+ReBACH,2022-08-25,2,2
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -555,7 +556,8 @@ data-service-landscape-scan,2022-08-10,4,3
 data-service-landscape-scan,2022-08-16,4,3
 data-service-landscape-scan,2022-08-18,5,4
 data-service-landscape-scan,2022-08-20,6,5
-data-service-landscape-scan,2022-08-25,5,4
+data-service-landscape-scan,2022-08-25,9,5
+data-service-landscape-scan,2022-08-26,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -586,6 +588,7 @@ data-viz-challenge,2022-04-27,1,1
 data-viz-challenge,2022-06-20,1,1
 data-viz-challenge,2022-08-05,1,1
 data-viz-challenge,2022-08-12,1,1
+data-viz-challenge,2022-08-25,1,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -1133,7 +1136,7 @@ github-stats,2022-08-08,1,1
 github-stats,2022-08-09,1,1
 github-stats,2022-08-10,1,1
 github-stats,2022-08-11,1,1
-github-stats,2022-08-12,7,5
+github-stats,2022-08-12,1,1
 github-stats,2022-08-13,6,4
 github-stats,2022-08-14,6,4
 github-stats,2022-08-15,6,4
@@ -1146,6 +1149,7 @@ github-stats,2022-08-21,6,4
 github-stats,2022-08-22,6,4
 github-stats,2022-08-23,6,4
 github-stats,2022-08-24,6,4
+github-stats,2022-08-25,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1337,6 +1341,7 @@ redata-commons,2022-08-05,1,1
 redata-commons,2022-08-09,1,1
 redata-commons,2022-08-12,1,1
 redata-commons,2022-08-19,1,1
+redata-commons,2022-08-25,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -2009,7 +2014,7 @@ uptime,2022-08-08,71,2
 uptime,2022-08-09,71,3
 uptime,2022-08-10,89,5
 uptime,2022-08-11,71,2
-uptime,2022-08-12,93,5
+uptime,2022-08-12,69,2
 uptime,2022-08-13,104,5
 uptime,2022-08-14,102,5
 uptime,2022-08-15,87,4
@@ -2022,4 +2027,5 @@ uptime,2022-08-21,100,5
 uptime,2022-08-22,85,3
 uptime,2022-08-23,86,4
 uptime,2022-08-24,86,4
-uptime,2022-08-25,13,4
+uptime,2022-08-25,78,4
+uptime,2022-08-26,14,6
