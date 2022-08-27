@@ -1,0 +1,26 @@
+date,path,title,count,uniques
+2022-08-27,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-08-27,/UAL-RE/data-service-landscape-scan/commit/b6cbf0299992d658cd264da19b6123c2e37e7959,Start logistic regression for presence/absence · UAL-RE/data-service-landscap...,1,1
+2022-08-27,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,1,1
+2022-08-27,/UAL-RE/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-service-...,1,1
+2022-08-27,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,3,3
+2022-08-27,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,2,2
+2022-08-27,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2022-08-27,/UAL-RE/LD-Cool-P/issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+2022-08-27,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
+2022-08-27,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,3,2
+2022-08-27,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,1
+2022-08-27,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,2,1
+2022-08-27,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/__init__.py,ldcoolp-figshare/__init__.py at main · UAL-RE/ldcoolp-figshare,1,1
+2022-08-27,/UAL-RE/ldcoolp-figshare/blob/main/setup.py,ldcoolp-figshare/setup.py at main · UAL-RE/ldcoolp-figshare,1,1
+2022-08-27,/UAL-RE/ldcoolp-figshare/tree/main/docs,ldcoolp-figshare/docs at main · UAL-RE/ldcoolp-figshare,1,1
+2022-08-27,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,11,2
+2022-08-27,/UAL-RE/ReBACH/tree/UAR-13-test-env-file,UAL-RE/ReBACH at UAR-13-test-env-file,8,2
+2022-08-27,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,6,2
+2022-08-27,/UAL-RE/ReBACH/tree/avp_dev,UAL-RE/ReBACH at avp_dev,5,2
+2022-08-27,/UAL-RE/ReBACH/commit/616d4c22f2c5f0d589ca08c6ddf73860de26e3d4,UAR-13 .env file and required variables added in conditions · UAL-RE/ReBACH@6...,5,1
+2022-08-27,/UAL-RE/ReBACH/tree/articles-class,UAL-RE/ReBACH at articles-class,4,1
+2022-08-27,/UAL-RE/ReBACH/tree/UAR-12-config-file,UAL-RE/ReBACH at UAR-12-config-file,4,1
+2022-08-27,/UAL-RE/ReBACH/commit/45f3cf09f28472c18c785b3f4135b9023ff84c0b,UAR-13 condition implemented if logs and storage path don't exist the… · UAL-...,3,2
+2022-08-27,/UAL-RE/ReBACH/commit/b5c881cf1d754979b9cdd2d8688529cae0ecff87,location error fixed and using configParser now · UAL-RE/ReBACH@b5c881c,3,2
+2022-08-27,/UAL-RE/ReBACH/commit/b83b2dd873e51eeb74a639a7dc6e1fea7d82ad70,"UAR-14,UAR-15,UAR-18,UAR-19 - log class implemented · UAL-RE/ReBACH@b83b2dd",3,1
