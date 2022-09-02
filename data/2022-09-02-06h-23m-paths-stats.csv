@@ -1,0 +1,39 @@
+date,path,title,count,uniques
+2022-09-02,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2022-09-02,/UAL-RE/data-service-landscape-scan/commit/b6cbf0299992d658cd264da19b6123c2e37e7959,Start logistic regression for presence/absence · UAL-RE/data-service-landscap...,1,1
+2022-09-02,/UAL-RE/data-service-landscape-scan/issues,Issues · UAL-RE/data-service-landscape-scan,1,1
+2022-09-02,/UAL-RE/data-service-landscape-scan/issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-service-...,1,1
+2022-09-02,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,5,3
+2022-09-02,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+2022-09-02,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P,2,1
+2022-09-02,/UAL-RE/LD-Cool-P/blob/master/CHANGELOG.md,LD-Cool-P/CHANGELOG.md at master · UAL-RE/LD-Cool-P,1,1
+2022-09-02,/UAL-RE/LD-Cool-P/graphs/contributors,Contributors to UAL-RE/LD-Cool-P,1,1
+2022-09-02,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2022-09-02,/UAL-RE/LD-Cool-P/watchers,Watchers · UAL-RE/LD-Cool-P,1,1
+2022-09-02,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,9,2
+2022-09-02,/UAL-RE/ReBACH/tree/UAR-13-test-env-file,UAL-RE/ReBACH at UAR-13-test-env-file,5,2
+2022-09-02,/UAL-RE/ReBACH/tree/article-class,UAL-RE/ReBACH at article-class,5,1
+2022-09-02,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,4,2
+2022-09-02,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,4,1
+2022-09-02,/UAL-RE/ReBACH/tree/avp_dev,UAL-RE/ReBACH at avp_dev,4,1
+2022-09-02,/UAL-RE/ReBACH/commit/b5c881cf1d754979b9cdd2d8688529cae0ecff87,location error fixed and using configParser now · UAL-RE/ReBACH@b5c881c,3,2
+2022-09-02,/UAL-RE/ReBACH/tree/articles-class,UAL-RE/ReBACH at articles-class,3,1
+2022-09-02,/UAL-RE/ReBACH/tree/UAR-12-config-file,UAL-RE/ReBACH at UAR-12-config-file,3,1
+2022-09-02,/UAL-RE/ReBACH/commit/9b247dfd7baa238c84fa60b2214a8269b3d68947,latest code merged and conflict resolved: · UAL-RE/ReBACH@9b247df,2,1
+2022-09-02,/UAL-RE/redata-commons/blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,2,1
+2022-09-02,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+2022-09-02,/UAL-RE/redata-commons/tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
+2022-09-02,/UAL-RE/redata-commons/tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
+2022-09-02,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,4,1
+2022-09-02,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
+2022-09-02,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-09-02,/UAL-RE/redata-iac/releases,Releases · UAL-RE/redata-iac,1,1
+2022-09-02,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,6,2
+2022-09-02,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM,1,1
+2022-09-02,/UAL-RE/ReQUIAM/actions/new,Actions · UAL-RE/ReQUIAM,1,1
+2022-09-02,/UAL-RE/ReQUIAM/actions/workflows/create-release.yml,Actions · UAL-RE/ReQUIAM,1,1
+2022-09-02,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
+2022-09-02,/UAL-RE/ReQUIAM/pulls,Pull requests · UAL-RE/ReQUIAM,1,1
+2022-09-02,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2022-09-02,/UAL-RE/uptime,UAL-RE/uptime: Uptime monitoring with @upptime,3,2
+2022-09-02,/UAL-RE/uptime/issues,Issues · UAL-RE/uptime,1,1
