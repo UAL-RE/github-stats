@@ -3979,6 +3979,16 @@ LD-Cool-P,2022-09-06,graphs/contributors,Contributors to UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2022-09-06,issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
 LD-Cool-P,2022-09-06,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
 LD-Cool-P,2022-09-06,watchers,Watchers · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-09-07,,UAL-RE/LD-Cool-P: Python tool to enable data curation,6,4
+LD-Cool-P,2022-09-07,blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-09-07,blob/master/CHANGELOG.md,LD-Cool-P/CHANGELOG.md at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-09-07,blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P,2,1
+LD-Cool-P,2022-09-07,branches,Branches · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-09-07,branches/yours,Branches · UAL-RE/LD-Cool-P,2,1
+LD-Cool-P,2022-09-07,graphs/contributors,Contributors to UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-09-07,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2022-09-07,issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,2,2
+LD-Cool-P,2022-09-07,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,3
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -5339,6 +5349,16 @@ ReBACH,2022-09-06,tree/article-class,UAL-RE/ReBACH at article-class,5,1
 ReBACH,2022-09-06,tree/articles-class,UAL-RE/ReBACH at articles-class,3,1
 ReBACH,2022-09-06,tree/avp_dev,UAL-RE/ReBACH at avp_dev,5,1
 ReBACH,2022-09-06,tree/change_process,UAL-RE/ReBACH at change_process,3,2
+ReBACH,2022-09-07,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,10,2
+ReBACH,2022-09-07,blob/change_process/.flake8,ReBACH/.flake8 at change_process · UAL-RE/ReBACH,2,1
+ReBACH,2022-09-07,branches,Branches · UAL-RE/ReBACH,7,2
+ReBACH,2022-09-07,pulls,Pull requests · UAL-RE/ReBACH,6,2
+ReBACH,2022-09-07,tree/UAR-12-config-file,UAL-RE/ReBACH at UAR-12-config-file,3,1
+ReBACH,2022-09-07,tree/UAR-13-test-env-file,UAL-RE/ReBACH at UAR-13-test-env-file,4,1
+ReBACH,2022-09-07,tree/article-class,UAL-RE/ReBACH at article-class,5,1
+ReBACH,2022-09-07,tree/articles-class,UAL-RE/ReBACH at articles-class,3,1
+ReBACH,2022-09-07,tree/avp_dev,UAL-RE/ReBACH at avp_dev,5,1
+ReBACH,2022-09-07,tree/change_process,UAL-RE/ReBACH at change_process,3,2
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -10626,6 +10646,9 @@ ReQUIAM,2022-09-05,,UAL-RE/ReQUIAM: Identity and Access Management backend softw
 ReQUIAM,2022-09-05,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
 ReQUIAM,2022-09-06,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 ReQUIAM,2022-09-06,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
+ReQUIAM,2022-09-07,,GitHub - UAL-RE/ReQUIAM: Identity and Access Management backend software for ...,1,1
+ReQUIAM,2022-09-07,issues,Issues · UAL-RE/ReQUIAM · GitHub,1,1
+ReQUIAM,2022-09-07,issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,1,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -14176,6 +14199,10 @@ data-service-landscape-scan,2022-09-06,,UAL-RE/data-service-landscape-scan: Scan
 data-service-landscape-scan,2022-09-06,commit/b6cbf0299992d658cd264da19b6123c2e37e7959,Start logistic regression for presence/absence · UAL-RE/data-service-landscap...,1,1
 data-service-landscape-scan,2022-09-06,issues,Issues · UAL-RE/data-service-landscape-scan,1,1
 data-service-landscape-scan,2022-09-06,issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-service-...,1,1
+data-service-landscape-scan,2022-09-07,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+data-service-landscape-scan,2022-09-07,commit/b6cbf0299992d658cd264da19b6123c2e37e7959,Start logistic regression for presence/absence · UAL-RE/data-service-landscap...,1,1
+data-service-landscape-scan,2022-09-07,issues,Issues · UAL-RE/data-service-landscape-scan,1,1
+data-service-landscape-scan,2022-09-07,issues/4,Test service likelihood based on resourcing · Issue #4 · UAL-RE/data-service-...,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -17853,6 +17880,7 @@ ldcoolp-figshare,2022-09-03,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2022-09-04,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,2
 ldcoolp-figshare,2022-09-05,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,3,2
 ldcoolp-figshare,2022-09-06,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,2
+ldcoolp-figshare,2022-09-07,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,2
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -19738,6 +19766,11 @@ redata-commons,2022-09-06,,UAL-RE/redata-commons: Commons code used by ReDATA co
 redata-commons,2022-09-06,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,2,1
 redata-commons,2022-09-06,tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
 redata-commons,2022-09-06,tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-09-07,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
+redata-commons,2022-09-07,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,3,1
+redata-commons,2022-09-07,issues,Issues · UAL-RE/redata-commons · GitHub,1,1
+redata-commons,2022-09-07,tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-09-07,tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -21299,6 +21332,9 @@ redata-docs,2022-09-05,,UAL-RE/redata-docs: A repo to serve general documentatio
 redata-docs,2022-09-05,issues,Issues · UAL-RE/redata-docs,1,1
 redata-docs,2022-09-06,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
 redata-docs,2022-09-06,issues,Issues · UAL-RE/redata-docs,1,1
+redata-docs,2022-09-07,,GitHub - UAL-RE/redata-docs: A repo to serve general documentation regarding ...,2,1
+redata-docs,2022-09-07,issues,Issues · UAL-RE/redata-docs · GitHub,2,2
+redata-docs,2022-09-07,tags,Tags · UAL-RE/redata-docs · GitHub,1,1
 redata-iac,2021-06-30,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-05,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-06,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
@@ -22886,6 +22922,12 @@ redata-landing-page,2022-09-06,blob/meta-redirect/README.md,redata-landing-page/
 redata-landing-page,2022-09-06,blob/meta-redirect/index.html,redata-landing-page/index.html at meta-redirect · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-09-06,tree/landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
 redata-landing-page,2022-09-06,tree/meta-redirect,UAL-RE/redata-landing-page at meta-redirect,3,1
+redata-landing-page,2022-09-07,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,1,1
+redata-landing-page,2022-09-07,blob/meta-redirect/CNAME,redata-landing-page/CNAME at meta-redirect · UAL-RE/redata-landing-page,2,1
+redata-landing-page,2022-09-07,blob/meta-redirect/README.md,redata-landing-page/README.md at meta-redirect · UAL-RE/redata-landing-page,1,1
+redata-landing-page,2022-09-07,blob/meta-redirect/index.html,redata-landing-page/index.html at meta-redirect · UAL-RE/redata-landing-page,2,1
+redata-landing-page,2022-09-07,tree/landing-page,UAL-RE/redata-landing-page: Redirect to main ReDATA site,1,1
+redata-landing-page,2022-09-07,tree/meta-redirect,UAL-RE/redata-landing-page at meta-redirect,3,1
 redata-meta-redirect,2021-11-06,,UAL-RE/redata-meta-redirect: Redirect to main ReDATA site,1,1
 redata-meta-redirect,2021-11-06,blob/main/index.html,redata-meta-redirect/index.html at main · UAL-RE/redata-meta-redirect,1,1
 redata-meta-redirect,2021-11-07,,UAL-RE/redata-meta-redirect: Redirect to main ReDATA site,1,1
@@ -24561,3 +24603,4 @@ uptime,2022-09-05,,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
 uptime,2022-09-05,issues,Issues · UAL-RE/uptime,1,1
 uptime,2022-09-06,,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
 uptime,2022-09-06,issues,Issues · UAL-RE/uptime,1,1
+uptime,2022-09-07,,UAL-RE/uptime: Uptime monitoring with @upptime,1,1
