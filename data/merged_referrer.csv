@@ -1111,6 +1111,7 @@ LD-Cool-P,2022-09-10,Bing,3,1
 LD-Cool-P,2022-09-10,Google,17,5
 LD-Cool-P,2022-09-11,Bing,3,1
 LD-Cool-P,2022-09-11,Google,12,4
+LD-Cool-P,2022-09-12,Google,12,4
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -3806,6 +3807,7 @@ data-service-landscape-scan,2022-09-08,github.com,3,1
 data-service-landscape-scan,2022-09-09,github.com,3,1
 data-service-landscape-scan,2022-09-10,github.com,3,1
 data-service-landscape-scan,2022-09-11,github.com,3,1
+data-service-landscape-scan,2022-09-12,github.com,3,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -5090,6 +5092,7 @@ ldcoolp-figshare,2022-09-08,github.com,1,1
 ldcoolp-figshare,2022-09-09,github.com,1,1
 ldcoolp-figshare,2022-09-10,github.com,1,1
 ldcoolp-figshare,2022-09-11,github.com,1,1
+ldcoolp-figshare,2022-09-12,github.com,1,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -5797,6 +5800,7 @@ redata-commons,2022-09-08,github.com,8,2
 redata-commons,2022-09-09,github.com,8,2
 redata-commons,2022-09-10,github.com,8,2
 redata-commons,2022-09-11,github.com,8,2
+redata-commons,2022-09-12,github.com,4,2
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -6204,6 +6208,7 @@ redata-docs,2022-09-08,github.com,4,1
 redata-docs,2022-09-09,github.com,4,1
 redata-docs,2022-09-10,github.com,4,1
 redata-docs,2022-09-11,github.com,4,1
+redata-docs,2022-09-12,github.com,4,1
 redata-iac,2021-06-30,github.com,3,2
 redata-iac,2021-07-05,github.com,2,1
 redata-iac,2021-07-06,github.com,2,1
@@ -6911,3 +6916,4 @@ uptime,2022-09-08,github.com,1,1
 uptime,2022-09-09,github.com,1,1
 uptime,2022-09-10,github.com,1,1
 uptime,2022-09-11,github.com,1,1
+uptime,2022-09-12,github.com,1,1
