@@ -4203,6 +4203,8 @@ LD-Cool-P,2022-10-04,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data cura
 LD-Cool-P,2022-10-04,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
 LD-Cool-P,2022-10-05,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,3,2
 LD-Cool-P,2022-10-05,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2022-10-06,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+LD-Cool-P,2022-10-06,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -5849,6 +5851,14 @@ ReBACH,2022-10-05,pull/9,Change process by rubab · Pull Request #9 · UAL-RE/Re
 ReBACH,2022-10-05,pull/9/commits/314e9e3498f4d320cbce98af86593c2a20677b36,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,1,1
 ReBACH,2022-10-05,pull/9/commits/9276c47e41b9698b20b4ab170aabca0646c1f059,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,1,1
 ReBACH,2022-10-05,pulls,Pull requests · UAL-RE/ReBACH · GitHub,2,2
+ReBACH,2022-10-06,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,2,2
+ReBACH,2022-10-06,actions/runs/3185232259/jobs/5194561855,Bug: make curation validation less strict · UAL-RE/ReBACH@5ed3d87,1,1
+ReBACH,2022-10-06,issues,Issues · UAL-RE/ReBACH,1,1
+ReBACH,2022-10-06,issues/8,Bug: curation schema is too strict · Issue #8 · UAL-RE/ReBACH,2,1
+ReBACH,2022-10-06,pull/10,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,4,1
+ReBACH,2022-10-06,pull/10/files,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,3,1
+ReBACH,2022-10-06,pull/9/commits/9276c47e41b9698b20b4ab170aabca0646c1f059,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,2,1
+ReBACH,2022-10-06,pulls,Pull requests · UAL-RE/ReBACH · GitHub,1,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -11219,6 +11229,7 @@ ReQUIAM,2022-10-02,issues/170,Enhancement: Update to Python 3.9 · Issue #170 ·
 ReQUIAM,2022-10-03,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
 ReQUIAM,2022-10-04,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 ReQUIAM,2022-10-05,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+ReQUIAM,2022-10-06,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -18665,6 +18676,7 @@ ldcoolp-figshare,2022-10-02,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using
 ldcoolp-figshare,2022-10-03,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,2,2
 ldcoolp-figshare,2022-10-04,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,5,4
 ldcoolp-figshare,2022-10-05,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,3
+ldcoolp-figshare,2022-10-06,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,3
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -20645,6 +20657,7 @@ redata-commons,2022-10-04,blob/main/redata/commons/issue_request.py,redata-commo
 redata-commons,2022-10-04,blob/main/requirements.txt,redata-commons/requirements.txt at main · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-04,blob/main/setup.py,redata-commons/setup.py at main · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-05,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-06,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -22277,6 +22290,7 @@ redata-docs,2022-10-02,issues,Issues · UAL-RE/redata-docs,1,1
 redata-docs,2022-10-03,issues,Issues · UAL-RE/redata-docs,1,1
 redata-docs,2022-10-04,issues,Issues · UAL-RE/redata-docs,1,1
 redata-docs,2022-10-05,issues,Issues · UAL-RE/redata-docs,1,1
+redata-docs,2022-10-06,issues,Issues · UAL-RE/redata-docs,1,1
 redata-iac,2021-06-30,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-05,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-06,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
