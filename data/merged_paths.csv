@@ -4265,6 +4265,12 @@ LD-Cool-P,2022-10-16,issues/new,New Issue · UAL-RE/LD-Cool-P,11,3
 LD-Cool-P,2022-10-16,issues/new/choose,New Issue · UAL-RE/LD-Cool-P,6,3
 LD-Cool-P,2022-10-16,pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,2,2
 LD-Cool-P,2022-10-16,pull/132/files,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-10-17,,UAL-RE/LD-Cool-P: Python tool to enable data curation,3,3
+LD-Cool-P,2022-10-17,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,5,5
+LD-Cool-P,2022-10-17,issues/new,New Issue · UAL-RE/LD-Cool-P,11,3
+LD-Cool-P,2022-10-17,issues/new/choose,New Issue · UAL-RE/LD-Cool-P,6,3
+LD-Cool-P,2022-10-17,pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,2,2
+LD-Cool-P,2022-10-17,pull/132/files,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6019,6 +6025,16 @@ ReBACH,2022-10-16,pull/10,Bug: make curation validation less strict by zoidy · 
 ReBACH,2022-10-16,pull/10/files,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,3,1
 ReBACH,2022-10-16,pull/9/commits/9276c47e41b9698b20b4ab170aabca0646c1f059,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,3,1
 ReBACH,2022-10-16,tree/change_process,UAL-RE/ReBACH at change_process,5,1
+ReBACH,2022-10-17,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,3,2
+ReBACH,2022-10-17,actions/runs/3185232259/jobs/5194561855,Bug: make curation validation less strict · UAL-RE/ReBACH@5ed3d87,1,1
+ReBACH,2022-10-17,actions/runs/3205642995/jobs/5238411743,Change process · UAL-RE/ReBACH@44a7808,1,1
+ReBACH,2022-10-17,branches,Branches · UAL-RE/ReBACH,1,1
+ReBACH,2022-10-17,branches/all,Branches · UAL-RE/ReBACH,1,1
+ReBACH,2022-10-17,issues/8,Bug: curation schema is too strict · Issue #8 · UAL-RE/ReBACH,2,1
+ReBACH,2022-10-17,pull/10,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,4,1
+ReBACH,2022-10-17,pull/10/files,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,3,1
+ReBACH,2022-10-17,pull/9/commits/9276c47e41b9698b20b4ab170aabca0646c1f059,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,3,1
+ReBACH,2022-10-17,tree/change_process,UAL-RE/ReBACH at change_process,5,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -15145,6 +15161,8 @@ data-service-landscape-scan,2022-10-15,,UAL-RE/data-service-landscape-scan: Scan
 data-service-landscape-scan,2022-10-15,blob/main/analysis-service-modes.R,data-service-landscape-scan/analysis-service-modes.R at main · UAL-RE/data-se...,1,1
 data-service-landscape-scan,2022-10-16,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
 data-service-landscape-scan,2022-10-16,blob/main/analysis-service-modes.R,data-service-landscape-scan/analysis-service-modes.R at main · UAL-RE/data-se...,1,1
+data-service-landscape-scan,2022-10-17,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+data-service-landscape-scan,2022-10-17,blob/main/analysis-service-modes.R,data-service-landscape-scan/analysis-service-modes.R at main · UAL-RE/data-se...,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -16813,6 +16831,7 @@ github-stats,2022-10-13,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-14,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-15,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-16,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+github-stats,2022-10-17,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 ld-cool-p,2022-03-30,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-03-31,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-05-20,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
@@ -20887,6 +20906,10 @@ redata-commons,2022-10-16,,UAL-RE/redata-commons: Commons code used by ReDATA co
 redata-commons,2022-10-16,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-16,tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-16,tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-17,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+redata-commons,2022-10-17,blob/main/redata/commons/issue_request.py,redata-commons/issue_request.py at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-17,tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-17,tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -22542,6 +22565,9 @@ redata-docs,2022-10-16,,UAL-RE/redata-docs: A repo to serve general documentatio
 redata-docs,2022-10-16,blob/main/source/index.rst,redata-docs/index.rst at main · UAL-RE/redata-docs,1,1
 redata-docs,2022-10-16,issues,Issues · UAL-RE/redata-docs,1,1
 redata-docs,2022-10-16,tree/main/source,redata-docs/source at main · UAL-RE/redata-docs,2,1
+redata-docs,2022-10-17,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
+redata-docs,2022-10-17,blob/main/source/index.rst,redata-docs/index.rst at main · UAL-RE/redata-docs,1,1
+redata-docs,2022-10-17,tree/main/source,redata-docs/source at main · UAL-RE/redata-docs,2,1
 redata-iac,2021-06-30,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-05,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-06,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
@@ -23799,6 +23825,7 @@ redata-iac,2022-10-13,issues/44,doctl_backup.sh: upgrade DigitalOcean token · I
 redata-iac,2022-10-14,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-iac,2022-10-15,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-iac,2022-10-16,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
+redata-iac,2022-10-17,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
