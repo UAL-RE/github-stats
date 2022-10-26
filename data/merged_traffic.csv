@@ -262,6 +262,7 @@ LD-Cool-P,2022-10-11,1,1
 LD-Cool-P,2022-10-12,1,1
 LD-Cool-P,2022-10-13,3,1
 LD-Cool-P,2022-10-17,3,1
+LD-Cool-P,2022-10-25,2,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -348,6 +349,7 @@ ReBACH,2022-10-08,2,1
 ReBACH,2022-10-10,2,1
 ReBACH,2022-10-12,2,1
 ReBACH,2022-10-21,5,1
+ReBACH,2022-10-25,3,1
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -1055,6 +1057,7 @@ github-stats,2022-06-03,1,1
 github-stats,2022-06-27,1,1
 github-stats,2022-07-29,5,1
 github-stats,2022-10-06,1,1
+github-stats,2022-10-25,1,1
 ldcoolp-figshare,2021-05-14,73,2
 ldcoolp-figshare,2021-05-17,9,1
 ldcoolp-figshare,2021-05-18,76,1
@@ -1292,6 +1295,7 @@ redata-commons,2022-09-28,1,1
 redata-commons,2022-10-12,4,1
 redata-commons,2022-10-19,1,1
 redata-commons,2022-10-24,3,1
+redata-commons,2022-10-25,1,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
@@ -1442,6 +1446,7 @@ redata-iac,2022-07-06,1,1
 redata-iac,2022-08-09,4,1
 redata-iac,2022-08-22,2,1
 redata-iac,2022-10-10,2,2
+redata-iac,2022-10-25,4,1
 redata-landing-page,2022-03-18,62,1
 redata-landing-page,2022-03-19,11,1
 redata-landing-page,2022-04-06,1,1
@@ -1450,7 +1455,8 @@ redata-landing-page,2022-04-28,1,1
 redata-landing-page,2022-06-17,6,1
 redata-landing-page,2022-08-17,11,1
 redata-landing-page,2022-09-02,10,1
-redata-landing-page,2022-10-25,1,1
+redata-landing-page,2022-10-25,7,2
+redata-landing-page,2022-10-26,3,1
 redata-meta-redirect,2021-11-04,2,1
 slacking,2021-06-29,1,1
 slacking,2021-07-06,20,1
