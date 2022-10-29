@@ -1197,6 +1197,7 @@ LD-Cool-P,2022-10-25,Google,7,3
 LD-Cool-P,2022-10-26,Google,8,3
 LD-Cool-P,2022-10-27,Google,6,3
 LD-Cool-P,2022-10-28,Google,6,3
+LD-Cool-P,2022-10-29,Google,6,3
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -3624,6 +3625,7 @@ ReQUIAM_csv,2022-10-25,github.com,2,1
 ReQUIAM_csv,2022-10-26,github.com,2,1
 ReQUIAM_csv,2022-10-27,github.com,2,1
 ReQUIAM_csv,2022-10-28,github.com,2,1
+ReQUIAM_csv,2022-10-29,github.com,2,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -4035,6 +4037,8 @@ data-service-landscape-scan,2022-10-27,Google,1,1
 data-service-landscape-scan,2022-10-27,github.com,1,1
 data-service-landscape-scan,2022-10-28,Google,1,1
 data-service-landscape-scan,2022-10-28,github.com,1,1
+data-service-landscape-scan,2022-10-29,Google,1,1
+data-service-landscape-scan,2022-10-29,github.com,1,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -4393,6 +4397,7 @@ figstats,2022-10-25,Google,1,1
 figstats,2022-10-26,Google,1,1
 figstats,2022-10-27,Google,1,1
 figstats,2022-10-28,Google,1,1
+figstats,2022-10-29,Google,1,1
 github-stats,2021-04-24,github.com,1,1
 github-stats,2021-04-25,github.com,1,1
 github-stats,2021-04-26,github.com,3,1
@@ -5411,6 +5416,7 @@ ldcoolp-figshare,2022-10-25,Google,1,1
 ldcoolp-figshare,2022-10-26,Google,1,1
 ldcoolp-figshare,2022-10-27,Google,1,1
 ldcoolp-figshare,2022-10-28,Google,1,1
+ldcoolp-figshare,2022-10-29,Google,1,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -6175,6 +6181,9 @@ redata-commons,2022-10-27,pypi.org,3,1
 redata-commons,2022-10-28,Google,1,1
 redata-commons,2022-10-28,github.com,1,1
 redata-commons,2022-10-28,pypi.org,3,1
+redata-commons,2022-10-29,Google,1,1
+redata-commons,2022-10-29,github.com,1,1
+redata-commons,2022-10-29,pypi.org,3,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -7005,6 +7014,7 @@ redata-landing-page,2022-08-30,github.com,11,1
 redata-landing-page,2022-10-26,github.com,3,1
 redata-landing-page,2022-10-27,github.com,6,1
 redata-landing-page,2022-10-28,github.com,7,1
+redata-landing-page,2022-10-29,github.com,7,1
 slacking,2021-06-30,github.com,1,1
 slacking,2021-07-05,github.com,1,1
 slacking,2021-07-06,github.com,1,1
