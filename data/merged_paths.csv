@@ -4346,6 +4346,11 @@ LD-Cool-P,2022-10-29,issues/131,Create new GitHub issue template for enhancement
 LD-Cool-P,2022-10-29,issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
 LD-Cool-P,2022-10-29,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
 LD-Cool-P,2022-10-29,pull/128,hotfix/v0.16.3 by astrochun · Pull Request #128 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-10-30,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+LD-Cool-P,2022-10-30,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+LD-Cool-P,2022-10-30,issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2022-10-30,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
+LD-Cool-P,2022-10-30,pull/128,hotfix/v0.16.3 by astrochun · Pull Request #128 · UAL-RE/LD-Cool-P,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6172,6 +6177,11 @@ ReBACH,2022-10-29,branches/all,Branches · UAL-RE/ReBACH · GitHub,2,1
 ReBACH,2022-10-29,commit/7e6659df4c4af1c9639b36e5fd0ea938256db3ed,Merge pull request #7 from UAL-RE/bug/2_article_id · UAL-RE/ReBACH@7e6659d,1,1
 ReBACH,2022-10-29,commits/main,Commits · UAL-RE/ReBACH,1,1
 ReBACH,2022-10-29,tree/change_process,GitHub - UAL-RE/ReBACH at change_process,2,1
+ReBACH,2022-10-30,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,2,2
+ReBACH,2022-10-30,branches/all,Branches · UAL-RE/ReBACH · GitHub,2,1
+ReBACH,2022-10-30,commit/7e6659df4c4af1c9639b36e5fd0ea938256db3ed,Merge pull request #7 from UAL-RE/bug/2_article_id · UAL-RE/ReBACH@7e6659d,1,1
+ReBACH,2022-10-30,commits/main,Commits · UAL-RE/ReBACH,1,1
+ReBACH,2022-10-30,tree/change_process,GitHub - UAL-RE/ReBACH at change_process,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -13890,6 +13900,8 @@ ReQUIAM_csv,2022-10-28,,UAL-RE/ReQUIAM_csv: Construct list of research themes an
 ReQUIAM_csv,2022-10-28,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
 ReQUIAM_csv,2022-10-29,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
 ReQUIAM_csv,2022-10-29,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
+ReQUIAM_csv,2022-10-30,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+ReQUIAM_csv,2022-10-30,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -15340,6 +15352,8 @@ data-service-landscape-scan,2022-10-28,,GitHub - UAL-RE/data-service-landscape-s
 data-service-landscape-scan,2022-10-28,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
 data-service-landscape-scan,2022-10-29,,GitHub - UAL-RE/data-service-landscape-scan: Scan of data services at academi...,1,1
 data-service-landscape-scan,2022-10-29,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+data-service-landscape-scan,2022-10-30,,GitHub - UAL-RE/data-service-landscape-scan: Scan of data services at academi...,1,1
+data-service-landscape-scan,2022-10-30,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -16209,6 +16223,7 @@ figstats,2022-10-26,,UAL-RE/figstats: Python software to retrieve statistics for
 figstats,2022-10-27,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
 figstats,2022-10-28,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
 figstats,2022-10-29,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
+figstats,2022-10-30,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
 github-stats,2021-05-13,,GitHub - UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2021-05-14,,UAL-RE/github-stats: GitHub stats for UAL-RE,2,2
 github-stats,2021-05-14,commit/22ad2757c794d9251be337415f40821f239f7e35,Update data: 2021-05-13 · UAL-RE/github-stats@22ad275,1,1
@@ -17024,6 +17039,7 @@ github-stats,2022-10-26,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-27,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-28,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2022-10-29,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+github-stats,2022-10-30,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 ld-cool-p,2022-03-30,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-03-31,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-05-20,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
@@ -19108,6 +19124,7 @@ ldcoolp-figshare,2022-10-26,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using
 ldcoolp-figshare,2022-10-27,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
 ldcoolp-figshare,2022-10-28,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
 ldcoolp-figshare,2022-10-29,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
+ldcoolp-figshare,2022-10-30,,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -21164,6 +21181,10 @@ redata-commons,2022-10-29,,UAL-RE/redata-commons: Commons code used by ReDATA co
 redata-commons,2022-10-29,issues,Issues · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-29,issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,1,1
 redata-commons,2022-10-29,pull/8,Add sphinx documentation and publish to ReadTheDocs by astrochun · Pull Reque...,1,1
+redata-commons,2022-10-30,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
+redata-commons,2022-10-30,issues,Issues · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-30,issues/16,Add unit testing for issue_request module · Issue #16 · UAL-RE/redata-commons,1,1
+redata-commons,2022-10-30,pull/8,Add sphinx documentation and publish to ReadTheDocs by astrochun · Pull Reque...,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -24126,6 +24147,10 @@ redata-iac,2022-10-29,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources
 redata-iac,2022-10-29,tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,1,1
 redata-iac,2022-10-29,tree/master/ansible/rdp,redata-iac/ansible/rdp at master · UAL-RE/redata-iac,1,1
 redata-iac,2022-10-29,tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,1,1
+redata-iac,2022-10-30,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+redata-iac,2022-10-30,tree/master/ansible,redata-iac/ansible at master · UAL-RE/redata-iac,1,1
+redata-iac,2022-10-30,tree/master/ansible/rdp,redata-iac/ansible/rdp at master · UAL-RE/redata-iac,1,1
+redata-iac,2022-10-30,tree/master/scripts,redata-iac/scripts at master · UAL-RE/redata-iac,1,1
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
@@ -24528,6 +24553,9 @@ redata-landing-page,2022-10-28,commits/landing-page,Commits · UAL-RE/redata-lan
 redata-landing-page,2022-10-29,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,5,2
 redata-landing-page,2022-10-29,blob/landing-page/CNAME,redata-landing-page/CNAME at landing-page · UAL-RE/redata-landing-page,1,1
 redata-landing-page,2022-10-29,commits/landing-page,Commits · UAL-RE/redata-landing-page,1,1
+redata-landing-page,2022-10-30,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,5,2
+redata-landing-page,2022-10-30,blob/landing-page/CNAME,redata-landing-page/CNAME at landing-page · UAL-RE/redata-landing-page,1,1
+redata-landing-page,2022-10-30,commits/landing-page,Commits · UAL-RE/redata-landing-page,1,1
 redata-meta-redirect,2021-11-06,,UAL-RE/redata-meta-redirect: Redirect to main ReDATA site,1,1
 redata-meta-redirect,2021-11-06,blob/main/index.html,redata-meta-redirect/index.html at main · UAL-RE/redata-meta-redirect,1,1
 redata-meta-redirect,2021-11-07,,UAL-RE/redata-meta-redirect: Redirect to main ReDATA site,1,1
