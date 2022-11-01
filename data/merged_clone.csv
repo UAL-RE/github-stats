@@ -1264,7 +1264,7 @@ github-stats,2022-10-14,7,5
 github-stats,2022-10-15,6,4
 github-stats,2022-10-16,6,4
 github-stats,2022-10-17,6,4
-github-stats,2022-10-18,6,4
+github-stats,2022-10-18,1,1
 github-stats,2022-10-19,8,5
 github-stats,2022-10-20,7,5
 github-stats,2022-10-21,8,6
@@ -1277,6 +1277,7 @@ github-stats,2022-10-27,6,4
 github-stats,2022-10-28,7,5
 github-stats,2022-10-29,7,5
 github-stats,2022-10-30,7,5
+github-stats,2022-10-31,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1366,6 +1367,7 @@ ldcoolp-figshare,2022-10-19,1,1
 ldcoolp-figshare,2022-10-21,1,1
 ldcoolp-figshare,2022-10-24,1,1
 ldcoolp-figshare,2022-10-26,2,1
+ldcoolp-figshare,2022-11-01,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1486,6 +1488,7 @@ redata-commons,2022-10-21,2,2
 redata-commons,2022-10-22,1,1
 redata-commons,2022-10-25,1,1
 redata-commons,2022-10-26,2,1
+redata-commons,2022-11-01,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -2240,7 +2243,7 @@ uptime,2022-10-14,47,3
 uptime,2022-10-15,56,3
 uptime,2022-10-16,57,3
 uptime,2022-10-17,44,4
-uptime,2022-10-18,55,5
+uptime,2022-10-18,41,2
 uptime,2022-10-19,53,5
 uptime,2022-10-20,55,4
 uptime,2022-10-21,62,8
@@ -2253,4 +2256,5 @@ uptime,2022-10-27,79,6
 uptime,2022-10-28,90,11
 uptime,2022-10-29,91,5
 uptime,2022-10-30,97,8
-uptime,2022-10-31,13,4
+uptime,2022-10-31,75,5
+uptime,2022-11-01,12,4
