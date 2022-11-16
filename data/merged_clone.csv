@@ -521,6 +521,7 @@ ReQUIAM_csv,2022-11-08,2,1
 ReQUIAM_csv,2022-11-10,2,1
 ReQUIAM_csv,2022-11-13,2,2
 ReQUIAM_csv,2022-11-14,2,2
+ReQUIAM_csv,2022-11-15,1,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -1303,7 +1304,7 @@ github-stats,2022-10-29,1,1
 github-stats,2022-10-30,1,1
 github-stats,2022-10-31,1,1
 github-stats,2022-11-01,5,3
-github-stats,2022-11-02,8,5
+github-stats,2022-11-02,4,3
 github-stats,2022-11-03,10,7
 github-stats,2022-11-04,6,4
 github-stats,2022-11-05,6,4
@@ -1316,6 +1317,7 @@ github-stats,2022-11-11,7,5
 github-stats,2022-11-12,7,5
 github-stats,2022-11-13,8,5
 github-stats,2022-11-14,10,7
+github-stats,2022-11-15,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1533,6 +1535,7 @@ redata-commons,2022-10-26,2,1
 redata-commons,2022-11-01,1,1
 redata-commons,2022-11-04,1,1
 redata-commons,2022-11-08,2,1
+redata-commons,2022-11-15,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -2312,7 +2315,7 @@ uptime,2022-10-29,73,3
 uptime,2022-10-30,79,6
 uptime,2022-10-31,59,2
 uptime,2022-11-01,59,2
-uptime,2022-11-02,79,6
+uptime,2022-11-02,64,3
 uptime,2022-11-03,91,6
 uptime,2022-11-04,92,6
 uptime,2022-11-05,105,7
@@ -2325,4 +2328,5 @@ uptime,2022-11-11,90,7
 uptime,2022-11-12,100,5
 uptime,2022-11-13,98,6
 uptime,2022-11-14,89,7
-uptime,2022-11-15,17,5
+uptime,2022-11-15,108,8
+uptime,2022-11-16,16,4
