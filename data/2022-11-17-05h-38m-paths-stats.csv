@@ -1,0 +1,26 @@
+date,path,title,count,uniques
+2022-11-17,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,9,4
+2022-11-17,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2022-11-17,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,4,4
+2022-11-17,/UAL-RE/ReBACH/commit/0b2b8bea0342401ea00280a7ef47fce219cf0d66,token added for download files · UAL-RE/ReBACH@0b2b8be · GitHub,1,1
+2022-11-17,/UAL-RE/ReBACH/pull/10,Bug: make curation validation less strict by zoidy · Pull Request #10 · UAL-R...,1,1
+2022-11-17,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,1,1
+2022-11-17,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,3,1
+2022-11-17,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,1
+2022-11-17,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,3,1
+2022-11-17,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,2,1
+2022-11-17,/UAL-RE/redata-iac/pull/48,Update bashrc_conda_add.yml by zoidy · Pull Request #48 · UAL-RE/redata-iac ·...,8,3
+2022-11-17,/UAL-RE/redata-iac/pulls,Pull requests · UAL-RE/redata-iac,6,2
+2022-11-17,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac · GitHub,5,2
+2022-11-17,/UAL-RE/redata-iac/issues/47,Add host variable to bashrc_conda_add.yml · Issue #47 · UAL-RE/redata-iac,5,2
+2022-11-17,/UAL-RE/redata-iac/pull/48/commits/83950d770bcb4a150bb8db8c0373c7733c746058,Update bashrc_conda_add.yml by zoidy · Pull Request #48 · UAL-RE/redata-iac,4,1
+2022-11-17,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,3,2
+2022-11-17,/UAL-RE/redata-iac/pull/48/files,Update bashrc_conda_add.yml by zoidy · Pull Request #48 · UAL-RE/redata-iac ·...,3,2
+2022-11-17,/UAL-RE/redata-iac/branches,Branches · UAL-RE/redata-iac,3,1
+2022-11-17,/UAL-RE/redata-iac/blob/83950d770bcb4a150bb8db8c0373c7733c746058/ansible/bashrc_conda_add.yml,redata-iac/bashrc_conda_add.yml at 83950d770bcb4a150bb8db8c0373c7733c746058 ·...,1,1
+2022-11-17,/UAL-RE/redata-iac/compare/b46b366102ad...b48b87df7b11,Comparing b46b366102ad...b48b87df7b11 · UAL-RE/redata-iac · GitHub,1,1
+2022-11-17,/UAL-RE/redata-landing-page,GitHub - UAL-RE/redata-landing-page: Redirect to main ReDATA site,2,2
+2022-11-17,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,3,1
+2022-11-17,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2022-11-17,/UAL-RE/ReQUIAM/commit/0015845c758b49bc7f72cb7bb8970a5316808ade,Add test_ldap_search · UAL-RE/ReQUIAM@0015845,1,1
+2022-11-17,/UAL-RE/ReQUIAM/issues/120,Enhancement: PR template · Issue #120 · UAL-RE/ReQUIAM,1,1
