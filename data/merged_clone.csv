@@ -402,6 +402,7 @@ ReQUIAM,2022-10-30,1,1
 ReQUIAM,2022-11-04,1,1
 ReQUIAM,2022-11-08,2,1
 ReQUIAM,2022-11-13,1,1
+ReQUIAM,2022-11-19,2,2
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -1313,7 +1314,7 @@ github-stats,2022-11-02,4,3
 github-stats,2022-11-03,4,3
 github-stats,2022-11-04,1,1
 github-stats,2022-11-05,1,1
-github-stats,2022-11-06,7,5
+github-stats,2022-11-06,2,2
 github-stats,2022-11-07,7,5
 github-stats,2022-11-08,7,5
 github-stats,2022-11-09,6,4
@@ -1326,6 +1327,7 @@ github-stats,2022-11-15,6,4
 github-stats,2022-11-16,6,4
 github-stats,2022-11-17,6,4
 github-stats,2022-11-18,7,5
+github-stats,2022-11-19,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1420,6 +1422,7 @@ ldcoolp-figshare,2022-11-02,1,1
 ldcoolp-figshare,2022-11-08,2,1
 ldcoolp-figshare,2022-11-09,3,3
 ldcoolp-figshare,2022-11-13,2,1
+ldcoolp-figshare,2022-11-19,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1669,6 +1672,7 @@ redata-iac,2022-11-08,3,2
 redata-iac,2022-11-09,4,2
 redata-iac,2022-11-12,1,1
 redata-iac,2022-11-14,3,2
+redata-iac,2022-11-19,1,1
 redata-landing-page,2022-03-18,22,9
 redata-landing-page,2022-03-19,2,2
 redata-landing-page,2022-04-04,2,1
@@ -2330,7 +2334,7 @@ uptime,2022-11-02,64,3
 uptime,2022-11-03,73,4
 uptime,2022-11-04,74,3
 uptime,2022-11-05,86,5
-uptime,2022-11-06,100,5
+uptime,2022-11-06,80,2
 uptime,2022-11-07,87,6
 uptime,2022-11-08,83,5
 uptime,2022-11-09,88,8
@@ -2343,4 +2347,5 @@ uptime,2022-11-15,108,8
 uptime,2022-11-16,102,5
 uptime,2022-11-17,99,4
 uptime,2022-11-18,99,4
-uptime,2022-11-19,15,3
+uptime,2022-11-19,113,7
+uptime,2022-11-20,17,4
