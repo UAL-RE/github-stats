@@ -119,6 +119,7 @@ LD-Cool-P,2022-11-02,2,1
 LD-Cool-P,2022-11-08,2,1
 LD-Cool-P,2022-11-12,2,2
 LD-Cool-P,2022-11-17,1,1
+LD-Cool-P,2022-11-21,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -640,6 +641,7 @@ data-service-landscape-scan,2022-10-08,2,1
 data-service-landscape-scan,2022-10-21,1,1
 data-service-landscape-scan,2022-10-22,1,1
 data-service-landscape-scan,2022-10-27,3,2
+data-service-landscape-scan,2022-11-21,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -1320,7 +1322,7 @@ github-stats,2022-11-04,1,1
 github-stats,2022-11-05,1,1
 github-stats,2022-11-06,2,2
 github-stats,2022-11-07,2,2
-github-stats,2022-11-08,7,5
+github-stats,2022-11-08,1,1
 github-stats,2022-11-09,6,4
 github-stats,2022-11-10,6,4
 github-stats,2022-11-11,7,5
@@ -1333,6 +1335,7 @@ github-stats,2022-11-17,6,4
 github-stats,2022-11-18,7,5
 github-stats,2022-11-19,6,4
 github-stats,2022-11-20,7,5
+github-stats,2022-11-21,8,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2342,7 +2345,7 @@ uptime,2022-11-04,74,3
 uptime,2022-11-05,86,5
 uptime,2022-11-06,80,2
 uptime,2022-11-07,69,3
-uptime,2022-11-08,83,5
+uptime,2022-11-08,65,2
 uptime,2022-11-09,88,8
 uptime,2022-11-10,88,7
 uptime,2022-11-11,90,7
@@ -2355,4 +2358,5 @@ uptime,2022-11-17,99,4
 uptime,2022-11-18,99,4
 uptime,2022-11-19,113,7
 uptime,2022-11-20,106,4
-uptime,2022-11-21,13,3
+uptime,2022-11-21,99,5
+uptime,2022-11-22,15,3
