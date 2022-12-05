@@ -204,6 +204,7 @@ ReBACH,2022-11-28,3,2
 ReBACH,2022-11-29,3,2
 ReBACH,2022-11-30,2,2
 ReBACH,2022-12-01,1,1
+ReBACH,2022-12-04,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -539,6 +540,8 @@ ReQUIAM_csv,2022-11-15,1,1
 ReQUIAM_csv,2022-11-20,1,1
 ReQUIAM_csv,2022-11-21,1,1
 ReQUIAM_csv,2022-12-02,1,1
+ReQUIAM_csv,2022-12-04,1,1
+ReQUIAM_csv,2022-12-05,1,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -1352,7 +1355,7 @@ github-stats,2022-11-17,1,1
 github-stats,2022-11-18,3,2
 github-stats,2022-11-19,3,2
 github-stats,2022-11-20,3,2
-github-stats,2022-11-21,8,5
+github-stats,2022-11-21,5,3
 github-stats,2022-11-22,6,4
 github-stats,2022-11-23,6,4
 github-stats,2022-11-24,6,4
@@ -1365,6 +1368,7 @@ github-stats,2022-11-30,6,4
 github-stats,2022-12-01,6,4
 github-stats,2022-12-02,5,3
 github-stats,2022-12-03,7,5
+github-stats,2022-12-04,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2396,7 +2400,7 @@ uptime,2022-11-17,77,1
 uptime,2022-11-18,81,3
 uptime,2022-11-19,91,4
 uptime,2022-11-20,84,1
-uptime,2022-11-21,99,5
+uptime,2022-11-21,81,4
 uptime,2022-11-22,101,4
 uptime,2022-11-23,111,4
 uptime,2022-11-24,113,5
@@ -2409,4 +2413,5 @@ uptime,2022-11-30,111,5
 uptime,2022-12-01,110,5
 uptime,2022-12-02,127,9
 uptime,2022-12-03,139,8
-uptime,2022-12-04,23,4
+uptime,2022-12-04,128,5
+uptime,2022-12-05,23,4
