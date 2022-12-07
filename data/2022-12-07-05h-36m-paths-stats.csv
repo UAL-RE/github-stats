@@ -1,0 +1,24 @@
+date,path,title,count,uniques
+2022-12-07,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2022-12-07,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2022-12-07,/UAL-RE/LD-Cool-P/issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P,1,1
+2022-12-07,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+2022-12-07,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,9,3
+2022-12-07,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH · GitHub,6,3
+2022-12-07,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,4,2
+2022-12-07,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,3,1
+2022-12-07,/UAL-RE/ReBACH/pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,2
+2022-12-07,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,2,2
+2022-12-07,/UAL-RE/ReBACH/tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,2
+2022-12-07,/UAL-RE/ReBACH/tree/UAR-13-test-env-file,GitHub - UAL-RE/ReBACH at UAR-13-test-env-file,2,1
+2022-12-07,/UAL-RE/ReBACH/actions/runs/3541487762/jobs/5945814415,Client feedback 1 · UAL-RE/ReBACH@71402c8,1,1
+2022-12-07,/UAL-RE/ReBACH/actions/runs/3575336087/jobs/6011742639,Client feedback 1 · UAL-RE/ReBACH@d658605,1,1
+2022-12-07,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
+2022-12-07,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,2,1
+2022-12-07,/UAL-RE/redata-iac,GitHub - UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2022-12-07,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+2022-12-07,/UAL-RE/ReQUIAM/blob/master/.github/workflows/python-package.yml,ReQUIAM/python-package.yml at master · UAL-RE/ReQUIAM,1,1
+2022-12-07,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
+2022-12-07,/UAL-RE/ReQUIAM/tree/master/.github,ReQUIAM/.github at master · UAL-RE/ReQUIAM,1,1
+2022-12-07,/UAL-RE/ReQUIAM/tree/master/.github/workflows,ReQUIAM/.github/workflows at master · UAL-RE/ReQUIAM,1,1
+2022-12-07,/UAL-RE/ReQUIAM_csv/issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1

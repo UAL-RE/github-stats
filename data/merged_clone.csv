@@ -206,6 +206,7 @@ ReBACH,2022-11-29,3,2
 ReBACH,2022-11-30,2,2
 ReBACH,2022-12-01,1,1
 ReBACH,2022-12-04,1,1
+ReBACH,2022-12-07,2,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -417,6 +418,7 @@ ReQUIAM,2022-11-20,1,1
 ReQUIAM,2022-12-02,1,1
 ReQUIAM,2022-12-03,1,1
 ReQUIAM,2022-12-05,1,1
+ReQUIAM,2022-12-07,2,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -740,6 +742,7 @@ data-viz-evaluations,2022-11-01,1,1
 data-viz-evaluations,2022-11-15,1,1
 data-viz-evaluations,2022-11-22,1,1
 data-viz-evaluations,2022-11-24,1,1
+data-viz-evaluations,2022-12-07,2,1
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -1359,7 +1362,7 @@ github-stats,2022-11-19,3,2
 github-stats,2022-11-20,3,2
 github-stats,2022-11-21,5,3
 github-stats,2022-11-22,3,2
-github-stats,2022-11-23,6,4
+github-stats,2022-11-23,1,1
 github-stats,2022-11-24,6,4
 github-stats,2022-11-25,5,3
 github-stats,2022-11-26,7,4
@@ -1372,6 +1375,7 @@ github-stats,2022-12-02,5,3
 github-stats,2022-12-03,7,5
 github-stats,2022-12-04,5,3
 github-stats,2022-12-05,7,5
+github-stats,2022-12-06,3,2
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1470,6 +1474,8 @@ ldcoolp-figshare,2022-11-19,1,1
 ldcoolp-figshare,2022-11-25,1,1
 ldcoolp-figshare,2022-11-30,1,1
 ldcoolp-figshare,2022-12-02,1,1
+ldcoolp-figshare,2022-12-06,2,1
+ldcoolp-figshare,2022-12-07,6,3
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1594,7 +1600,7 @@ redata-commons,2022-11-01,1,1
 redata-commons,2022-11-04,1,1
 redata-commons,2022-11-08,2,1
 redata-commons,2022-11-15,1,1
-redata-commons,2022-11-23,2,2
+redata-commons,2022-11-23,1,1
 redata-commons,2022-11-25,1,1
 redata-commons,2022-12-04,1,1
 redata-docs,2021-05-25,2,2
@@ -2405,7 +2411,7 @@ uptime,2022-11-19,91,4
 uptime,2022-11-20,84,1
 uptime,2022-11-21,81,4
 uptime,2022-11-22,81,2
-uptime,2022-11-23,111,4
+uptime,2022-11-23,87,2
 uptime,2022-11-24,113,5
 uptime,2022-11-25,120,9
 uptime,2022-11-26,122,6
@@ -2418,4 +2424,5 @@ uptime,2022-12-02,127,9
 uptime,2022-12-03,139,8
 uptime,2022-12-04,128,5
 uptime,2022-12-05,121,5
-uptime,2022-12-06,18,2
+uptime,2022-12-06,118,3
+uptime,2022-12-07,21,5
