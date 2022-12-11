@@ -4460,6 +4460,9 @@ LD-Cool-P,2022-12-09,issues/37,Use Qualtrics Q_PopulateResponse to provide custo
 LD-Cool-P,2022-12-10,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 LD-Cool-P,2022-12-10,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2022-12-10,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+LD-Cool-P,2022-12-11,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+LD-Cool-P,2022-12-11,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-12-11,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6620,6 +6623,16 @@ ReBACH,2022-12-10,pull/9,Change process by rubab · Pull Request #9 · UAL-RE/Re
 ReBACH,2022-12-10,pull/9/commits/a9c07768b1287d0434f10414b7e92541f454a7bc,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,1
 ReBACH,2022-12-10,pulls,Pull requests · UAL-RE/ReBACH · GitHub,8,3
 ReBACH,2022-12-10,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,2,1
+ReBACH,2022-12-11,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,9,4
+ReBACH,2022-12-11,actions/runs/3575336087/jobs/6011742639,Client feedback 1 · UAL-RE/ReBACH@d658605,1,1
+ReBACH,2022-12-11,branches,Branches · UAL-RE/ReBACH,3,1
+ReBACH,2022-12-11,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,2
+ReBACH,2022-12-11,pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,7,5
+ReBACH,2022-12-11,pull/13/commits,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,4,2
+ReBACH,2022-12-11,pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,2
+ReBACH,2022-12-11,pull/9/commits/a9c07768b1287d0434f10414b7e92541f454a7bc,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,1
+ReBACH,2022-12-11,pulls,Pull requests · UAL-RE/ReBACH · GitHub,8,3
+ReBACH,2022-12-11,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -12160,6 +12173,11 @@ ReQUIAM,2022-12-10,blob/master/.github/workflows/python-package.yml,ReQUIAM/pyth
 ReQUIAM,2022-12-10,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
 ReQUIAM,2022-12-10,tree/master/.github,ReQUIAM/.github at master · UAL-RE/ReQUIAM,1,1
 ReQUIAM,2022-12-10,tree/master/.github/workflows,ReQUIAM/.github/workflows at master · UAL-RE/ReQUIAM,1,1
+ReQUIAM,2022-12-11,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+ReQUIAM,2022-12-11,blob/master/.github/workflows/python-package.yml,ReQUIAM/python-package.yml at master · UAL-RE/ReQUIAM,1,1
+ReQUIAM,2022-12-11,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,1,1
+ReQUIAM,2022-12-11,tree/master/.github,ReQUIAM/.github at master · UAL-RE/ReQUIAM,1,1
+ReQUIAM,2022-12-11,tree/master/.github/workflows,ReQUIAM/.github/workflows at master · UAL-RE/ReQUIAM,1,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -14541,6 +14559,7 @@ ReQUIAM_csv,2022-12-07,issues/72,Chore: Add docs checkmark to PR templates · Is
 ReQUIAM_csv,2022-12-08,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
 ReQUIAM_csv,2022-12-09,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
 ReQUIAM_csv,2022-12-10,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
+ReQUIAM_csv,2022-12-11,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -19800,6 +19819,7 @@ ldcoolp-figshare,2022-12-07,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2022-12-08,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2022-12-09,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2022-12-10,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+ldcoolp-figshare,2022-12-11,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -25163,6 +25183,8 @@ redata-iac,2022-12-09,issues,Issues · UAL-RE/redata-iac,2,1
 redata-iac,2022-12-09,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-iac,2022-12-10,issues,Issues · UAL-RE/redata-iac,2,1
 redata-iac,2022-12-10,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
+redata-iac,2022-12-11,issues,Issues · UAL-RE/redata-iac,2,1
+redata-iac,2022-12-11,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
