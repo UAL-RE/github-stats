@@ -4472,6 +4472,9 @@ LD-Cool-P,2022-12-13,issues/37,Use Qualtrics Q_PopulateResponse to provide custo
 LD-Cool-P,2022-12-14,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 LD-Cool-P,2022-12-14,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2022-12-14,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,2
+LD-Cool-P,2022-12-15,,UAL-RE/LD-Cool-P: Python tool to enable data curation,2,2
+LD-Cool-P,2022-12-15,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2022-12-15,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,2
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6672,6 +6675,16 @@ ReBACH,2022-12-14,pull/13/commits,Merge ReBACH-Bagger by jonathannoah · Pull Re
 ReBACH,2022-12-14,pull/9/commits/a9c07768b1287d0434f10414b7e92541f454a7bc,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,1
 ReBACH,2022-12-14,pulls,Pull requests · UAL-RE/ReBACH · GitHub,4,2
 ReBACH,2022-12-14,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,2,1
+ReBACH,2022-12-15,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,3,3
+ReBACH,2022-12-15,blob/12-merge-rebach-bagger/bagger/bag.py,ReBACH/bag.py at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,1,1
+ReBACH,2022-12-15,commit/b1db3d6d30dda29c396b481ade18c809cf207812,improved logging for articles and collections. point 2 and 10 · UAL-RE/ReBACH...,1,1
+ReBACH,2022-12-15,issues,Issues · UAL-RE/ReBACH · GitHub,2,2
+ReBACH,2022-12-15,issues/12,Merge ReBACH-Bagger with ReBACH · Issue #12 · UAL-RE/ReBACH · GitHub,2,2
+ReBACH,2022-12-15,pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,8,6
+ReBACH,2022-12-15,pull/13/commits,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,4,2
+ReBACH,2022-12-15,pull/9/commits/a9c07768b1287d0434f10414b7e92541f454a7bc,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH · GitHub,2,1
+ReBACH,2022-12-15,pulls,Pull requests · UAL-RE/ReBACH · GitHub,5,2
+ReBACH,2022-12-15,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -19867,6 +19880,7 @@ ldcoolp-figshare,2022-12-11,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2022-12-12,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2022-12-13,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
 ldcoolp-figshare,2022-12-14,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+ldcoolp-figshare,2022-12-15,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -25238,6 +25252,8 @@ redata-iac,2022-12-13,issues,Issues · UAL-RE/redata-iac,2,1
 redata-iac,2022-12-13,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-iac,2022-12-14,issues,Issues · UAL-RE/redata-iac,2,1
 redata-iac,2022-12-14,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
+redata-iac,2022-12-15,issues,Issues · UAL-RE/redata-iac,2,1
+redata-iac,2022-12-15,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,2,2
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1

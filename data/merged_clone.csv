@@ -124,6 +124,7 @@ LD-Cool-P,2022-12-02,1,1
 LD-Cool-P,2022-12-03,1,1
 LD-Cool-P,2022-12-05,1,1
 LD-Cool-P,2022-12-07,7,4
+LD-Cool-P,2022-12-14,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -1379,7 +1380,7 @@ github-stats,2022-11-27,1,1
 github-stats,2022-11-28,5,3
 github-stats,2022-11-29,6,4
 github-stats,2022-11-30,1,1
-github-stats,2022-12-01,6,4
+github-stats,2022-12-01,1,1
 github-stats,2022-12-02,5,3
 github-stats,2022-12-03,7,5
 github-stats,2022-12-04,5,3
@@ -1392,6 +1393,7 @@ github-stats,2022-12-10,3,2
 github-stats,2022-12-11,3,2
 github-stats,2022-12-12,5,3
 github-stats,2022-12-13,4,3
+github-stats,2022-12-14,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2443,7 +2445,7 @@ uptime,2022-11-27,93,2
 uptime,2022-11-28,88,2
 uptime,2022-11-29,92,4
 uptime,2022-11-30,86,3
-uptime,2022-12-01,110,5
+uptime,2022-12-01,86,2
 uptime,2022-12-02,127,9
 uptime,2022-12-03,139,8
 uptime,2022-12-04,128,5
@@ -2456,4 +2458,5 @@ uptime,2022-12-10,123,3
 uptime,2022-12-11,121,3
 uptime,2022-12-12,115,3
 uptime,2022-12-13,114,3
-uptime,2022-12-14,19,3
+uptime,2022-12-14,115,3
+uptime,2022-12-15,18,2
