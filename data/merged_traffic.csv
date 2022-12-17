@@ -382,6 +382,7 @@ ReBACH,2022-12-08,30,4
 ReBACH,2022-12-09,3,3
 ReBACH,2022-12-14,5,1
 ReBACH,2022-12-15,9,3
+ReBACH,2022-12-16,54,9
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -925,6 +926,7 @@ ReQUIAM_csv,2022-10-22,1,1
 ReQUIAM_csv,2022-10-31,1,1
 ReQUIAM_csv,2022-11-21,1,1
 ReQUIAM_csv,2022-12-01,1,1
+ReQUIAM_csv,2022-12-16,1,1
 UAL-RE,2021-04-26,17,2
 UAL-RE,2021-04-27,1,1
 UAL-RE,2021-07-01,11,1
@@ -1103,6 +1105,7 @@ github-stats,2022-07-29,5,1
 github-stats,2022-10-06,1,1
 github-stats,2022-10-25,1,1
 github-stats,2022-11-01,1,1
+github-stats,2022-12-16,1,1
 ldcoolp-figshare,2021-05-14,73,2
 ldcoolp-figshare,2021-05-17,9,1
 ldcoolp-figshare,2021-05-18,76,1
@@ -1209,6 +1212,7 @@ ldcoolp-figshare,2022-10-17,1,1
 ldcoolp-figshare,2022-11-29,1,1
 ldcoolp-figshare,2022-12-05,1,1
 ldcoolp-figshare,2022-12-15,1,1
+ldcoolp-figshare,2022-12-16,1,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -1505,6 +1509,7 @@ redata-iac,2022-11-10,14,2
 redata-iac,2022-11-14,21,2
 redata-iac,2022-11-26,1,1
 redata-iac,2022-12-06,4,2
+redata-iac,2022-12-16,1,1
 redata-landing-page,2022-03-18,62,1
 redata-landing-page,2022-03-19,11,1
 redata-landing-page,2022-04-06,1,1
