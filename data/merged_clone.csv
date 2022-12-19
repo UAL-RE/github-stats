@@ -213,6 +213,7 @@ ReBACH,2022-12-08,3,2
 ReBACH,2022-12-13,3,3
 ReBACH,2022-12-15,3,1
 ReBACH,2022-12-16,10,4
+ReBACH,2022-12-19,3,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -755,6 +756,7 @@ data-viz-evaluations,2022-11-22,1,1
 data-viz-evaluations,2022-11-24,1,1
 data-viz-evaluations,2022-12-07,4,2
 data-viz-evaluations,2022-12-08,1,1
+data-viz-evaluations,2022-12-18,1,1
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -1388,7 +1390,7 @@ github-stats,2022-12-01,1,1
 github-stats,2022-12-02,5,3
 github-stats,2022-12-03,1,1
 github-stats,2022-12-04,5,3
-github-stats,2022-12-05,7,5
+github-stats,2022-12-05,1,1
 github-stats,2022-12-06,3,2
 github-stats,2022-12-07,9,6
 github-stats,2022-12-08,3,2
@@ -1401,6 +1403,7 @@ github-stats,2022-12-14,5,3
 github-stats,2022-12-15,5,3
 github-stats,2022-12-16,5,3
 github-stats,2022-12-17,5,3
+github-stats,2022-12-18,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1502,6 +1505,7 @@ ldcoolp-figshare,2022-12-02,1,1
 ldcoolp-figshare,2022-12-06,2,1
 ldcoolp-figshare,2022-12-07,6,3
 ldcoolp-figshare,2022-12-10,1,1
+ldcoolp-figshare,2022-12-18,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1782,6 +1786,7 @@ redata-landing-page,2022-11-04,2,2
 redata-landing-page,2022-11-17,1,1
 redata-landing-page,2022-12-07,4,2
 redata-landing-page,2022-12-16,1,1
+redata-landing-page,2022-12-18,1,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -2457,7 +2462,7 @@ uptime,2022-12-01,86,2
 uptime,2022-12-02,100,6
 uptime,2022-12-03,105,5
 uptime,2022-12-04,99,2
-uptime,2022-12-05,121,5
+uptime,2022-12-05,92,2
 uptime,2022-12-06,118,3
 uptime,2022-12-07,122,7
 uptime,2022-12-08,116,2
@@ -2470,4 +2475,5 @@ uptime,2022-12-14,115,3
 uptime,2022-12-15,116,2
 uptime,2022-12-16,127,4
 uptime,2022-12-17,132,3
-uptime,2022-12-18,22,3
+uptime,2022-12-18,130,3
+uptime,2022-12-19,21,2
