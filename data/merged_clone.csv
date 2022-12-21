@@ -123,7 +123,7 @@ LD-Cool-P,2022-11-21,1,1
 LD-Cool-P,2022-12-02,1,1
 LD-Cool-P,2022-12-03,1,1
 LD-Cool-P,2022-12-05,1,1
-LD-Cool-P,2022-12-07,7,4
+LD-Cool-P,2022-12-07,5,3
 LD-Cool-P,2022-12-14,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
@@ -208,12 +208,13 @@ ReBACH,2022-11-29,3,2
 ReBACH,2022-11-30,2,2
 ReBACH,2022-12-01,1,1
 ReBACH,2022-12-04,1,1
-ReBACH,2022-12-07,6,3
+ReBACH,2022-12-07,2,1
 ReBACH,2022-12-08,3,2
 ReBACH,2022-12-13,3,3
 ReBACH,2022-12-15,3,1
 ReBACH,2022-12-16,10,4
 ReBACH,2022-12-19,13,2
+ReBACH,2022-12-20,3,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -425,7 +426,7 @@ ReQUIAM,2022-11-20,1,1
 ReQUIAM,2022-12-02,1,1
 ReQUIAM,2022-12-03,1,1
 ReQUIAM,2022-12-05,1,1
-ReQUIAM,2022-12-07,8,4
+ReQUIAM,2022-12-07,6,3
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -670,7 +671,7 @@ data-service-landscape-scan,2022-10-27,3,2
 data-service-landscape-scan,2022-11-21,1,1
 data-service-landscape-scan,2022-11-22,1,1
 data-service-landscape-scan,2022-11-23,4,3
-data-service-landscape-scan,2022-12-07,4,2
+data-service-landscape-scan,2022-12-07,2,1
 data-service-landscape-scan,2022-12-16,3,2
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
@@ -754,7 +755,7 @@ data-viz-evaluations,2022-11-01,1,1
 data-viz-evaluations,2022-11-15,1,1
 data-viz-evaluations,2022-11-22,1,1
 data-viz-evaluations,2022-11-24,1,1
-data-viz-evaluations,2022-12-07,4,2
+data-viz-evaluations,2022-12-07,2,1
 data-viz-evaluations,2022-12-08,1,1
 data-viz-evaluations,2022-12-18,1,1
 figstats,2021-03-03,2,2
@@ -1392,7 +1393,7 @@ github-stats,2022-12-03,1,1
 github-stats,2022-12-04,5,3
 github-stats,2022-12-05,1,1
 github-stats,2022-12-06,3,2
-github-stats,2022-12-07,9,6
+github-stats,2022-12-07,5,3
 github-stats,2022-12-08,3,2
 github-stats,2022-12-09,3,2
 github-stats,2022-12-10,3,2
@@ -1405,6 +1406,7 @@ github-stats,2022-12-16,5,3
 github-stats,2022-12-17,5,3
 github-stats,2022-12-18,5,3
 github-stats,2022-12-19,5,3
+github-stats,2022-12-20,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2465,7 +2467,7 @@ uptime,2022-12-03,105,5
 uptime,2022-12-04,99,2
 uptime,2022-12-05,92,2
 uptime,2022-12-06,94,2
-uptime,2022-12-07,122,7
+uptime,2022-12-07,95,3
 uptime,2022-12-08,116,2
 uptime,2022-12-09,116,3
 uptime,2022-12-10,123,3
@@ -2478,4 +2480,5 @@ uptime,2022-12-16,127,4
 uptime,2022-12-17,132,3
 uptime,2022-12-18,130,3
 uptime,2022-12-19,122,3
-uptime,2022-12-20,21,2
+uptime,2022-12-20,121,2
+uptime,2022-12-21,21,2
