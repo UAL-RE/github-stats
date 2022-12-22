@@ -280,6 +280,7 @@ LD-Cool-P,2022-12-14,1,1
 LD-Cool-P,2022-12-18,1,1
 LD-Cool-P,2022-12-19,1,1
 LD-Cool-P,2022-12-20,1,1
+LD-Cool-P,2022-12-21,1,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -381,13 +382,14 @@ ReBACH,2022-11-26,8,1
 ReBACH,2022-11-28,13,2
 ReBACH,2022-11-29,10,1
 ReBACH,2022-12-06,1,1
-ReBACH,2022-12-08,30,4
+ReBACH,2022-12-08,2,2
 ReBACH,2022-12-09,3,3
 ReBACH,2022-12-14,5,1
 ReBACH,2022-12-15,9,3
 ReBACH,2022-12-16,54,9
 ReBACH,2022-12-19,71,3
 ReBACH,2022-12-20,36,5
+ReBACH,2022-12-21,109,3
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -997,6 +999,7 @@ data-service-landscape-scan,2022-09-07,3,1
 data-service-landscape-scan,2022-10-07,2,1
 data-service-landscape-scan,2022-10-18,1,1
 data-service-landscape-scan,2022-10-23,1,1
+data-service-landscape-scan,2022-12-21,3,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
