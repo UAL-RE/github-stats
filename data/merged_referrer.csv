@@ -1265,6 +1265,7 @@ LD-Cool-P,2022-12-19,Google,5,3
 LD-Cool-P,2022-12-20,Google,5,3
 LD-Cool-P,2022-12-21,Google,5,3
 LD-Cool-P,2022-12-22,Google,4,2
+LD-Cool-P,2022-12-23,Google,6,4
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1670,6 +1671,8 @@ ReBACH,2022-12-21,iowxy.com,3,1
 ReBACH,2022-12-22,Google,1,1
 ReBACH,2022-12-22,github.com,40,4
 ReBACH,2022-12-22,iowxy.com,3,1
+ReBACH,2022-12-23,github.com,39,4
+ReBACH,2022-12-23,iowxy.com,3,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -3228,6 +3231,7 @@ ReQUIAM,2022-12-19,Google,2,1
 ReQUIAM,2022-12-20,Google,2,1
 ReQUIAM,2022-12-21,Google,2,1
 ReQUIAM,2022-12-22,Google,2,1
+ReQUIAM,2022-12-23,Google,2,1
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -3890,6 +3894,8 @@ ReQUIAM_csv,2022-12-21,DuckDuckGo,1,1
 ReQUIAM_csv,2022-12-21,github.com,1,1
 ReQUIAM_csv,2022-12-22,DuckDuckGo,1,1
 ReQUIAM_csv,2022-12-22,github.com,1,1
+ReQUIAM_csv,2022-12-23,DuckDuckGo,1,1
+ReQUIAM_csv,2022-12-23,github.com,1,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -4313,6 +4319,7 @@ data-service-landscape-scan,2022-11-03,Google,1,1
 data-service-landscape-scan,2022-11-04,Google,1,1
 data-service-landscape-scan,2022-11-05,Google,1,1
 data-service-landscape-scan,2022-12-22,github.com,3,1
+data-service-landscape-scan,2022-12-23,github.com,3,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -6540,6 +6547,7 @@ redata-commons,2022-12-19,Google,5,1
 redata-commons,2022-12-20,Google,5,1
 redata-commons,2022-12-21,Google,6,2
 redata-commons,2022-12-22,Google,6,2
+redata-commons,2022-12-23,Google,6,2
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -7327,6 +7335,7 @@ redata-iac,2022-11-22,github.com,1,1
 redata-iac,2022-11-23,github.com,1,1
 redata-iac,2022-12-21,github.com,1,1
 redata-iac,2022-12-22,github.com,1,1
+redata-iac,2022-12-23,github.com,1,1
 redata-landing-page,2022-03-19,github.com,7,1
 redata-landing-page,2022-03-20,github.com,17,2
 redata-landing-page,2022-03-21,github.com,17,2
