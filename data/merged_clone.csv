@@ -218,6 +218,7 @@ ReBACH,2022-12-20,3,1
 ReBACH,2022-12-21,14,5
 ReBACH,2022-12-22,3,2
 ReBACH,2022-12-23,1,1
+ReBACH,2022-12-24,2,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -431,6 +432,7 @@ ReQUIAM,2022-12-03,1,1
 ReQUIAM,2022-12-05,1,1
 ReQUIAM,2022-12-07,6,3
 ReQUIAM,2022-12-21,1,1
+ReQUIAM,2022-12-24,2,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -560,6 +562,7 @@ ReQUIAM_csv,2022-12-04,1,1
 ReQUIAM_csv,2022-12-05,1,1
 ReQUIAM_csv,2022-12-07,8,4
 ReQUIAM_csv,2022-12-21,2,1
+ReQUIAM_csv,2022-12-24,2,1
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -679,6 +682,7 @@ data-service-landscape-scan,2022-11-23,4,3
 data-service-landscape-scan,2022-12-07,2,1
 data-service-landscape-scan,2022-12-16,3,2
 data-service-landscape-scan,2022-12-23,1,1
+data-service-landscape-scan,2022-12-24,2,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -1404,7 +1408,7 @@ github-stats,2022-12-08,3,2
 github-stats,2022-12-09,3,2
 github-stats,2022-12-10,3,2
 github-stats,2022-12-11,3,2
-github-stats,2022-12-12,5,3
+github-stats,2022-12-12,2,1
 github-stats,2022-12-13,4,3
 github-stats,2022-12-14,5,3
 github-stats,2022-12-15,5,3
@@ -1416,6 +1420,8 @@ github-stats,2022-12-20,5,3
 github-stats,2022-12-21,5,3
 github-stats,2022-12-22,6,4
 github-stats,2022-12-23,5,3
+github-stats,2022-12-24,7,4
+github-stats,2022-12-25,1,1
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1518,6 +1524,7 @@ ldcoolp-figshare,2022-12-06,2,1
 ldcoolp-figshare,2022-12-07,6,3
 ldcoolp-figshare,2022-12-10,1,1
 ldcoolp-figshare,2022-12-18,1,1
+ldcoolp-figshare,2022-12-24,2,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1648,6 +1655,7 @@ redata-commons,2022-12-04,1,1
 redata-commons,2022-12-07,6,3
 redata-commons,2022-12-08,1,1
 redata-commons,2022-12-23,1,1
+redata-commons,2022-12-24,2,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -1780,6 +1788,8 @@ redata-iac,2022-11-14,3,2
 redata-iac,2022-11-19,1,1
 redata-iac,2022-11-23,1,1
 redata-iac,2022-12-07,6,3
+redata-iac,2022-12-24,2,1
+redata-iac,2022-12-25,1,1
 redata-landing-page,2022-03-18,22,9
 redata-landing-page,2022-03-19,2,2
 redata-landing-page,2022-04-04,2,1
@@ -1800,6 +1810,7 @@ redata-landing-page,2022-11-17,1,1
 redata-landing-page,2022-12-07,4,2
 redata-landing-page,2022-12-16,1,1
 redata-landing-page,2022-12-18,1,1
+redata-landing-page,2022-12-24,2,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -2482,7 +2493,7 @@ uptime,2022-12-08,92,1
 uptime,2022-12-09,92,2
 uptime,2022-12-10,97,1
 uptime,2022-12-11,121,3
-uptime,2022-12-12,115,3
+uptime,2022-12-12,92,2
 uptime,2022-12-13,114,3
 uptime,2022-12-14,115,3
 uptime,2022-12-15,116,2
@@ -2494,4 +2505,6 @@ uptime,2022-12-20,121,2
 uptime,2022-12-21,122,2
 uptime,2022-12-22,122,3
 uptime,2022-12-23,127,4
-uptime,2022-12-24,22,3
+uptime,2022-12-24,138,6
+uptime,2022-12-25,128,3
+uptime,2022-12-26,20,2
