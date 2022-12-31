@@ -723,6 +723,7 @@ data-viz-challenge,2022-11-17,1,1
 data-viz-challenge,2022-11-23,1,1
 data-viz-challenge,2022-12-02,1,1
 data-viz-challenge,2022-12-07,4,2
+data-viz-challenge,2022-12-31,1,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -1427,6 +1428,7 @@ github-stats,2022-12-26,5,3
 github-stats,2022-12-27,5,3
 github-stats,2022-12-28,1,1
 github-stats,2022-12-29,5,3
+github-stats,2022-12-30,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2503,7 +2505,7 @@ uptime,2022-12-13,91,2
 uptime,2022-12-14,115,3
 uptime,2022-12-15,92,1
 uptime,2022-12-16,99,3
-uptime,2022-12-17,132,3
+uptime,2022-12-17,103,1
 uptime,2022-12-18,130,3
 uptime,2022-12-19,122,3
 uptime,2022-12-20,121,2
@@ -2516,4 +2518,5 @@ uptime,2022-12-26,124,2
 uptime,2022-12-27,126,3
 uptime,2022-12-28,125,3
 uptime,2022-12-29,126,3
-uptime,2022-12-30,16,3
+uptime,2022-12-30,126,3
+uptime,2022-12-31,23,3
