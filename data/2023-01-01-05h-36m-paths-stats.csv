@@ -1,0 +1,23 @@
+date,path,title,count,uniques
+2023-01-01,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,11
+2023-01-01,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+2023-01-01,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2023-01-01,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-01-01,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2023-01-01,/UAL-RE/LD-Cool-P/pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
+2023-01-01,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-01-01,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+2023-01-01,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,20,7
+2023-01-01,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH · GitHub,14,4
+2023-01-01,/UAL-RE/ReBACH/tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,9,1
+2023-01-01,/UAL-RE/ReBACH/pull/14,Logging changes in app.py by davidagud · Pull Request #14 · UAL-RE/ReBACH · G...,7,3
+2023-01-01,/UAL-RE/ReBACH/actions,Actions · UAL-RE/ReBACH,7,1
+2023-01-01,/UAL-RE/ReBACH/search,Search · type · GitHub,7,1
+2023-01-01,/UAL-RE/ReBACH/pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,6,3
+2023-01-01,/UAL-RE/ReBACH/tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,6,1
+2023-01-01,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH · GitHub,5,4
+2023-01-01,/UAL-RE/ReBACH/tree/12-merge-rebach-bagger/bagger,ReBACH/bagger at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,5,2
+2023-01-01,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+2023-01-01,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2023-01-01,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,1,1
+2023-01-01,/ual-re/requiam,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1

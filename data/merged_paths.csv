@@ -4523,6 +4523,14 @@ LD-Cool-P,2022-12-31,issues/37,Use Qualtrics Q_PopulateResponse to provide custo
 LD-Cool-P,2022-12-31,pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
 LD-Cool-P,2022-12-31,tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2022-12-31,tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-01,,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,11
+LD-Cool-P,2023-01-01,blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-01,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-01-01,issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-01-01,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+LD-Cool-P,2023-01-01,pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
+LD-Cool-P,2023-01-01,tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-01,tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6873,6 +6881,16 @@ ReBACH,2022-12-31,search,Search · type · GitHub,7,1
 ReBACH,2022-12-31,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,6,1
 ReBACH,2022-12-31,tree/12-merge-rebach-bagger/bagger,ReBACH/bagger at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,5,2
 ReBACH,2022-12-31,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,9,1
+ReBACH,2023-01-01,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,20,7
+ReBACH,2023-01-01,actions,Actions · UAL-RE/ReBACH,7,1
+ReBACH,2023-01-01,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH · GitHub,5,4
+ReBACH,2023-01-01,pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,6,3
+ReBACH,2023-01-01,pull/14,Logging changes in app.py by davidagud · Pull Request #14 · UAL-RE/ReBACH · G...,7,3
+ReBACH,2023-01-01,pulls,Pull requests · UAL-RE/ReBACH · GitHub,14,4
+ReBACH,2023-01-01,search,Search · type · GitHub,7,1
+ReBACH,2023-01-01,tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,6,1
+ReBACH,2023-01-01,tree/12-merge-rebach-bagger/bagger,ReBACH/bagger at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,5,2
+ReBACH,2023-01-01,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,9,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -16338,6 +16356,11 @@ data-service-landscape-scan,2022-12-31,blob/4316ee30d008bb67fc65bd04808350cc030a
 data-service-landscape-scan,2022-12-31,blob/main/data/institutions.csv,data-service-landscape-scan/institutions.csv at main · UAL-RE/data-service-la...,1,1
 data-service-landscape-scan,2022-12-31,tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
 data-service-landscape-scan,2022-12-31,tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
+data-service-landscape-scan,2023-01-01,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+data-service-landscape-scan,2023-01-01,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+data-service-landscape-scan,2023-01-01,blob/main/data/institutions.csv,data-service-landscape-scan/institutions.csv at main · UAL-RE/data-service-la...,1,1
+data-service-landscape-scan,2023-01-01,tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
+data-service-landscape-scan,2023-01-01,tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -16593,6 +16616,7 @@ data-viz-challenge,2022-12-27,,GitHub - UAL-RE/data-viz-challenge: Repository fo
 data-viz-challenge,2022-12-29,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-challenge,2022-12-30,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-challenge,2022-12-31,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
+data-viz-challenge,2023-01-01,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-evaluations,2021-06-29,,UAL-RE/data-viz-evaluations: Code for processing data visualization submiss...,4,1
 data-viz-evaluations,2021-06-29,search,Search · UAL-RE,3,1
 data-viz-evaluations,2021-06-30,,UAL-RE/data-viz-evaluations: Code for processing data visualization submiss...,4,1
@@ -22362,6 +22386,7 @@ redata-commons,2022-12-30,blob/main/redata/commons/logger.py,redata-commons/logg
 redata-commons,2022-12-30,tree/main/redata,redata-commons/redata at main · UAL-RE/redata-commons · GitHub,1,1
 redata-commons,2022-12-30,tree/main/redata/commons,redata-commons/redata/commons at main · UAL-RE/redata-commons · GitHub,1,1
 redata-commons,2022-12-31,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+redata-commons,2023-01-01,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -25639,6 +25664,8 @@ redata-iac,2022-12-30,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources
 redata-iac,2022-12-30,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,1,1
 redata-iac,2022-12-31,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2022-12-31,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,1,1
+redata-iac,2023-01-01,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+redata-iac,2023-01-01,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,1,1
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
@@ -26299,6 +26326,7 @@ requiam,2022-12-27,,UAL-RE/ReQUIAM: Identity and Access Management backend softw
 requiam,2022-12-29,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 requiam,2022-12-30,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 requiam,2022-12-31,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+requiam,2023-01-01,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 requiam_csv,2022-01-06,,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
 requiam_csv,2022-01-07,,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
 requiam_csv,2022-01-08,,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
