@@ -1,0 +1,25 @@
+date,path,title,count,uniques
+2023-01-03,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,1,1
+2023-01-03,/UAL-RE/data-service-landscape-scan/blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+2023-01-03,/UAL-RE/data-service-landscape-scan/blob/main/data/institutions.csv,data-service-landscape-scan/institutions.csv at main · UAL-RE/data-service-la...,1,1
+2023-01-03,/UAL-RE/data-service-landscape-scan/tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
+2023-01-03,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
+2023-01-03,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,12
+2023-01-03,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+2023-01-03,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2023-01-03,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-01-03,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2023-01-03,/UAL-RE/LD-Cool-P/pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
+2023-01-03,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-01-03,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+2023-01-03,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,8,4
+2023-01-03,/UAL-RE/ReBACH/search,Search · type · GitHub,7,1
+2023-01-03,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH · GitHub,6,3
+2023-01-03,/UAL-RE/ReBACH/tree/12-merge-rebach-bagger,GitHub - UAL-RE/ReBACH at 12-merge-rebach-bagger,6,1
+2023-01-03,/UAL-RE/ReBACH/commit/ba6a4f5c53bb3dfffa94df8d05d211097db65de0,Add dart_command to args · UAL-RE/ReBACH@ba6a4f5 · GitHub,5,1
+2023-01-03,/UAL-RE/ReBACH/tree/12-merge-rebach-bagger/bagger,ReBACH/bagger at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,4,1
+2023-01-03,/UAL-RE/ReBACH/blob/12-merge-rebach-bagger/bagger/bag.py,ReBACH/bag.py at 12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,3,1
+2023-01-03,/UAL-RE/ReBACH/compare/main...12-merge-rebach-bagger,Comparing main...12-merge-rebach-bagger · UAL-RE/ReBACH · GitHub,3,1
+2023-01-03,/UAL-RE/ReBACH/graphs/contributors,Contributors to UAL-RE/ReBACH · GitHub,3,1
+2023-01-03,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH · GitHub,2,2
+2023-01-03,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
