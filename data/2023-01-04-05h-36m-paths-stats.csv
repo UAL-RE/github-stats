@@ -1,0 +1,22 @@
+date,path,title,count,uniques
+2023-01-04,/UAL-RE/data-service-landscape-scan/blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+2023-01-04,/UAL-RE/data-service-landscape-scan/tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
+2023-01-04,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,12
+2023-01-04,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+2023-01-04,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2023-01-04,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-01-04,/UAL-RE/LD-Cool-P/issues/162,Bug: Q_EED does not work with Q_PopulateResponse · Issue #162 · UAL-RE/LD-Coo...,1,1
+2023-01-04,/UAL-RE/LD-Cool-P/pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
+2023-01-04,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-01-04,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+2023-01-04,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,3,3
+2023-01-04,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,2
+2023-01-04,/UAL-RE/ReBACH/pull/15,README updates by jonathannoah · Pull Request #15 · UAL-RE/ReBACH,2,2
+2023-01-04,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,2,2
+2023-01-04,/UAL-RE/ReBACH/tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
+2023-01-04,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH · GitHub,2,1
+2023-01-04,/UAL-RE/ReBACH/commit/f43b73cc51aab0a5be3e3ddc4ef03e0748f8503e,Merge pull request #15 from UAL-RE/update_bagger_readme · UAL-RE/ReBACH@f43b73c,1,1
+2023-01-04,/UAL-RE/ReBACH/pull/11/files/45178a33d38e5af18e438bdbe2ac78f621077bcd..c42d1c4ea5f89b5f0c2283ba351ea3787a22e337,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+2023-01-04,/UAL-RE/ReBACH/pull/15/commits,README updates by jonathannoah · Pull Request #15 · UAL-RE/ReBACH · GitHub,1,1
+2023-01-04,/UAL-RE/ReBACH/pull/15/commits/545038b89f4fcbe0f61b64f6c09539a572820100,README updates by jonathannoah · Pull Request #15 · UAL-RE/ReBACH · GitHub,1,1
+2023-01-04,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
