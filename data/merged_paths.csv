@@ -4547,6 +4547,12 @@ LD-Cool-P,2023-01-04,issues/37,Use Qualtrics Q_PopulateResponse to provide custo
 LD-Cool-P,2023-01-04,pull/163,Bug: Q_EED does not work with Q_PopulateResponse by astrochun · Pull Request ...,1,1
 LD-Cool-P,2023-01-04,tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2023-01-04,tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-05,,UAL-RE/LD-Cool-P: Python tool to enable data curation,11,11
+LD-Cool-P,2023-01-05,blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-05,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-01-05,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,1
+LD-Cool-P,2023-01-05,tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-05,tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -6927,6 +6933,11 @@ ReBACH,2023-01-04,pull/15/commits/545038b89f4fcbe0f61b64f6c09539a572820100,READM
 ReBACH,2023-01-04,pulls,Pull requests · UAL-RE/ReBACH,2,2
 ReBACH,2023-01-04,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
 ReBACH,2023-01-04,tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH · GitHub,2,1
+ReBACH,2023-01-05,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+ReBACH,2023-01-05,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,3,2
+ReBACH,2023-01-05,pull/11/files/45178a33d38e5af18e438bdbe2ac78f621077bcd..c42d1c4ea5f89b5f0c2283ba351ea3787a22e337,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-05,pulls,Pull requests · UAL-RE/ReBACH,2,2
+ReBACH,2023-01-05,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -12498,6 +12509,7 @@ ReQUIAM,2022-12-30,,GitHub - UAL-RE/ReQUIAM: Identity and Access Management back
 ReQUIAM,2022-12-30,network/members,Forks · UAL-RE/ReQUIAM · GitHub,1,1
 ReQUIAM,2023-01-03,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 ReQUIAM,2023-01-04,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+ReQUIAM,2023-01-05,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -16406,6 +16418,8 @@ data-service-landscape-scan,2023-01-03,tree/4316ee30d008bb67fc65bd04808350cc030a
 data-service-landscape-scan,2023-01-03,tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
 data-service-landscape-scan,2023-01-04,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
 data-service-landscape-scan,2023-01-04,tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
+data-service-landscape-scan,2023-01-05,blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+data-service-landscape-scan,2023-01-05,tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
