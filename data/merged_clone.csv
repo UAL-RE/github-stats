@@ -739,6 +739,7 @@ data-viz-challenge,2022-12-07,4,2
 data-viz-challenge,2022-12-31,1,1
 data-viz-challenge,2023-01-03,2,1
 data-viz-challenge,2023-01-05,2,1
+data-viz-challenge,2023-01-06,2,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -1441,7 +1442,7 @@ github-stats,2022-12-20,5,3
 github-stats,2022-12-21,5,3
 github-stats,2022-12-22,6,4
 github-stats,2022-12-23,5,3
-github-stats,2022-12-24,7,4
+github-stats,2022-12-24,2,1
 github-stats,2022-12-25,1,1
 github-stats,2022-12-26,5,3
 github-stats,2022-12-27,5,3
@@ -1454,6 +1455,7 @@ github-stats,2023-01-02,1,1
 github-stats,2023-01-03,16,7
 github-stats,2023-01-04,10,6
 github-stats,2023-01-05,5,3
+github-stats,2023-01-06,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1854,6 +1856,7 @@ redata-landing-page,2022-12-18,1,1
 redata-landing-page,2022-12-24,2,1
 redata-landing-page,2023-01-03,2,1
 redata-landing-page,2023-01-04,4,2
+redata-landing-page,2023-01-06,1,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -1885,6 +1888,7 @@ slacking,2022-11-18,1,1
 slacking,2022-11-22,1,1
 slacking,2022-12-07,4,2
 slacking,2023-01-04,2,1
+slacking,2023-01-07,2,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -2549,7 +2553,7 @@ uptime,2022-12-20,94,1
 uptime,2022-12-21,95,1
 uptime,2022-12-22,95,1
 uptime,2022-12-23,98,1
-uptime,2022-12-24,138,6
+uptime,2022-12-24,109,5
 uptime,2022-12-25,128,3
 uptime,2022-12-26,124,2
 uptime,2022-12-27,126,3
@@ -2562,4 +2566,5 @@ uptime,2023-01-02,126,3
 uptime,2023-01-03,136,9
 uptime,2023-01-04,127,8
 uptime,2023-01-05,119,3
-uptime,2023-01-06,15,2
+uptime,2023-01-06,120,2
+uptime,2023-01-07,16,2
