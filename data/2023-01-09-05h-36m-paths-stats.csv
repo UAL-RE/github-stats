@@ -1,0 +1,21 @@
+date,path,title,count,uniques
+2023-01-09,/UAL-RE/data-service-landscape-scan/blob/4316ee30d008bb67fc65bd04808350cc030a692f/data/services-additional.csv,data-service-landscape-scan/services-additional.csv at 4316ee30d008bb67fc65bd...,1,1
+2023-01-09,/UAL-RE/data-service-landscape-scan/tree/4316ee30d008bb67fc65bd04808350cc030a692f,UAL-RE/data-service-landscape-scan at 4316ee30d008bb67fc65bd04808350cc030a692f,1,1
+2023-01-09,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,12
+2023-01-09,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,2
+2023-01-09,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2023-01-09,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/LD-Cool-P/pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/LD-Cool-P/pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/LD-Cool-P/pull/132/commits/4db4373ae73f4d643ffaf5e4e0688a5435912c2a,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+2023-01-09,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,3,2
+2023-01-09,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,2,2
+2023-01-09,/UAL-RE/ReBACH/commit/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Readme: add execution notes · UAL-RE/ReBACH@92ae771,1,1
+2023-01-09,/UAL-RE/ReBACH/pull/11/files/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+2023-01-09,/UAL-RE/ReBACH/pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,1,1
+2023-01-09,/UAL-RE/ReBACH/tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,1,1
+2023-01-09,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,1,1
+2023-01-09,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,2,2
+2023-01-09,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
