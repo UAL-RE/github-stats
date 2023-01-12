@@ -1,0 +1,38 @@
+date,path,title,count,uniques
+2023-01-12,/UAL-RE/data-viz-challenge,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
+2023-01-12,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,12
+2023-01-12,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,5,4
+2023-01-12,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,2,2
+2023-01-12,/UAL-RE/LD-Cool-P/blob/master/.github/ISSUE_TEMPLATE/enhancement.md,LD-Cool-P/enhancement.md at master · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/pull/132/commits/4db4373ae73f4d643ffaf5e4e0688a5435912c2a,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/LD-Cool-P/tree/master/.github/ISSUE_TEMPLATE,LD-Cool-P/.github/ISSUE_TEMPLATE at master · UAL-RE/LD-Cool-P,1,1
+2023-01-12,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2023-01-12,/UAL-RE/ldcoolp-figshare/issues,Issues · UAL-RE/ldcoolp-figshare,1,1
+2023-01-12,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,6,2
+2023-01-12,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,2,2
+2023-01-12,/UAL-RE/ReBACH/pull/11/commits/bc41883484cca27572ce267cacdf4780bf52de1a,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,1
+2023-01-12,/UAL-RE/ReBACH/tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
+2023-01-12,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+2023-01-12,/UAL-RE/ReBACH/commit/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Readme: add execution notes · UAL-RE/ReBACH@92ae771,1,1
+2023-01-12,/UAL-RE/ReBACH/pull/11/commits/32716b958e8fc7ee76dd767952f93c14ecfe04d9,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+2023-01-12,/UAL-RE/ReBACH/pull/11/commits/3fb6c2a49a4a865e17f036333cb743be44a80335,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+2023-01-12,/UAL-RE/ReBACH/pull/11/files/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+2023-01-12,/UAL-RE/ReBACH/pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,1,1
+2023-01-12,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,4,1
+2023-01-12,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,2,1
+2023-01-12,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,1,1
+2023-01-12,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,8,2
+2023-01-12,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,5,2
+2023-01-12,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,2
+2023-01-12,/UAL-RE/redata-iac/issues/33,Unable to run add_ssh_key_file ansible playbook · Issue #33 · UAL-RE/redata-iac,1,1
+2023-01-12,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2023-01-12,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
+2023-01-12,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+2023-01-12,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,5,2
+2023-01-12,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,3,1
+2023-01-12,/UAL-RE/ReQUIAM/issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,2,2
+2023-01-12,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,1,1
