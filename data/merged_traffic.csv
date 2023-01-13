@@ -286,7 +286,7 @@ LD-Cool-P,2022-12-23,1,1
 LD-Cool-P,2022-12-24,1,1
 LD-Cool-P,2022-12-28,1,1
 LD-Cool-P,2022-12-29,1,1
-LD-Cool-P,2022-12-30,8,3
+LD-Cool-P,2022-12-30,3,2
 LD-Cool-P,2022-12-31,1,1
 LD-Cool-P,2023-01-01,1,1
 LD-Cool-P,2023-01-02,1,1
@@ -297,6 +297,7 @@ LD-Cool-P,2023-01-06,2,2
 LD-Cool-P,2023-01-09,3,2
 LD-Cool-P,2023-01-10,1,1
 LD-Cool-P,2023-01-11,1,1
+LD-Cool-P,2023-01-12,1,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -829,6 +830,7 @@ ReQUIAM,2023-01-01,1,1
 ReQUIAM,2023-01-08,2,2
 ReQUIAM,2023-01-09,3,1
 ReQUIAM,2023-01-10,4,1
+ReQUIAM,2023-01-12,5,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -966,6 +968,7 @@ ReQUIAM_csv,2022-12-01,1,1
 ReQUIAM_csv,2022-12-16,1,1
 ReQUIAM_csv,2022-12-17,1,1
 ReQUIAM_csv,2023-01-09,1,1
+ReQUIAM_csv,2023-01-12,4,1
 UAL-RE,2021-04-26,17,2
 UAL-RE,2021-04-27,1,1
 UAL-RE,2021-07-01,11,1
@@ -1399,6 +1402,7 @@ redata-commons,2022-12-17,5,1
 redata-commons,2022-12-20,1,1
 redata-commons,2023-01-09,3,1
 redata-commons,2023-01-10,3,1
+redata-commons,2023-01-12,6,3
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
@@ -1496,6 +1500,7 @@ redata-docs,2022-10-12,5,1
 redata-docs,2022-11-09,2,1
 redata-docs,2022-11-14,3,1
 redata-docs,2023-01-09,1,1
+redata-docs,2023-01-12,13,2
 redata-iac,2021-06-16,3,2
 redata-iac,2021-06-22,12,2
 redata-iac,2021-06-28,3,1
