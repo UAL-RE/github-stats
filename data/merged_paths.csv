@@ -4654,6 +4654,14 @@ LD-Cool-P,2023-01-17,issues/37,Use Qualtrics Q_PopulateResponse to provide custo
 LD-Cool-P,2023-01-17,pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2023-01-17,pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
 LD-Cool-P,2023-01-17,pull/132/commits/4db4373ae73f4d643ffaf5e4e0688a5435912c2a,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-18,,UAL-RE/LD-Cool-P: Python tool to enable data curation,12,12
+LD-Cool-P,2023-01-18,issues,Issues · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-18,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-01-18,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+LD-Cool-P,2023-01-18,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,3
+LD-Cool-P,2023-01-18,pull/132,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-18,pull/132/commits,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
+LD-Cool-P,2023-01-18,pull/132/commits/4db4373ae73f4d643ffaf5e4e0688a5435912c2a,Hotfix/v0.16.4 by damian-romero · Pull Request #132 · UAL-RE/LD-Cool-P,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -7135,6 +7143,16 @@ ReBACH,2023-01-17,pull/11/files/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Client 
 ReBACH,2023-01-17,pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,1,1
 ReBACH,2023-01-17,pulls,Pull requests · UAL-RE/ReBACH,1,1
 ReBACH,2023-01-17,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
+ReBACH,2023-01-18,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+ReBACH,2023-01-18,commit/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Readme: add execution notes · UAL-RE/ReBACH@92ae771,1,1
+ReBACH,2023-01-18,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,6,3
+ReBACH,2023-01-18,pull/11/commits/32716b958e8fc7ee76dd767952f93c14ecfe04d9,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-18,pull/11/commits/3fb6c2a49a4a865e17f036333cb743be44a80335,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-18,pull/11/commits/bc41883484cca27572ce267cacdf4780bf52de1a,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,1
+ReBACH,2023-01-18,pull/11/files/92ae7711529b51eb8d185fee6d22e2fba4b147bd,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-18,pull/13,Merge ReBACH-Bagger by jonathannoah · Pull Request #13 · UAL-RE/ReBACH · GitHub,1,1
+ReBACH,2023-01-18,pulls,Pull requests · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-18,tree/client-feedback-1,UAL-RE/ReBACH at client-feedback-1,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -12741,6 +12759,10 @@ ReQUIAM,2023-01-17,,UAL-RE/ReQUIAM: Identity and Access Management backend softw
 ReQUIAM,2023-01-17,issues,Issues · UAL-RE/ReQUIAM · GitHub,4,2
 ReQUIAM,2023-01-17,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,2,2
 ReQUIAM,2023-01-17,issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,3,1
+ReQUIAM,2023-01-18,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,5,2
+ReQUIAM,2023-01-18,issues,Issues · UAL-RE/ReQUIAM · GitHub,4,2
+ReQUIAM,2023-01-18,issues/170,Enhancement: Update to Python 3.9 · Issue #170 · UAL-RE/ReQUIAM,2,2
+ReQUIAM,2023-01-18,issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,3,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -15166,6 +15188,9 @@ ReQUIAM_csv,2023-01-16,issues/83,Enhancement: Update code to reflect Python 3.9 
 ReQUIAM_csv,2023-01-17,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
 ReQUIAM_csv,2023-01-17,issues,Issues · UAL-RE/ReQUIAM_csv,3,1
 ReQUIAM_csv,2023-01-17,issues/83,Enhancement: Update code to reflect Python 3.9 updates · Issue #83 · UAL-RE/R...,1,1
+ReQUIAM_csv,2023-01-18,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+ReQUIAM_csv,2023-01-18,issues,Issues · UAL-RE/ReQUIAM_csv,3,1
+ReQUIAM_csv,2023-01-18,issues/83,Enhancement: Update code to reflect Python 3.9 updates · Issue #83 · UAL-RE/R...,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -16939,6 +16964,7 @@ data-viz-challenge,2023-01-14,,GitHub - UAL-RE/data-viz-challenge: Repository fo
 data-viz-challenge,2023-01-15,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-challenge,2023-01-16,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-challenge,2023-01-17,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
+data-viz-challenge,2023-01-18,,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
 data-viz-evaluations,2021-06-29,,UAL-RE/data-viz-evaluations: Code for processing data visualization submiss...,4,1
 data-viz-evaluations,2021-06-29,search,Search · UAL-RE,3,1
 data-viz-evaluations,2021-06-30,,UAL-RE/data-viz-evaluations: Code for processing data visualization submiss...,4,1
@@ -20537,6 +20563,8 @@ ldcoolp-figshare,2023-01-16,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2023-01-16,issues,Issues · UAL-RE/ldcoolp-figshare,1,1
 ldcoolp-figshare,2023-01-17,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2023-01-17,issues,Issues · UAL-RE/ldcoolp-figshare,1,1
+ldcoolp-figshare,2023-01-18,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+ldcoolp-figshare,2023-01-18,issues,Issues · UAL-RE/ldcoolp-figshare,1,1
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -22756,6 +22784,11 @@ redata-commons,2023-01-17,issues,Issues · UAL-RE/redata-commons,2,1
 redata-commons,2023-01-17,issues/23,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,3,2
 redata-commons,2023-01-17,issues/30,Update RTD documentation for upgrading necessary files and publishing in pypi...,1,1
 redata-commons,2023-01-17,issues/32,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,1,1
+redata-commons,2023-01-18,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,5,2
+redata-commons,2023-01-18,issues,Issues · UAL-RE/redata-commons,2,1
+redata-commons,2023-01-18,issues/23,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,3,2
+redata-commons,2023-01-18,issues/30,Update RTD documentation for upgrading necessary files and publishing in pypi...,1,1
+redata-commons,2023-01-18,issues/32,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,1,1
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1
@@ -24502,6 +24535,11 @@ redata-docs,2023-01-17,issues,Issues · UAL-RE/redata-docs,3,1
 redata-docs,2023-01-17,issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,1,1
 redata-docs,2023-01-17,issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,1,1
 redata-docs,2023-01-17,search,Search · REData · GitHub,5,1
+redata-docs,2023-01-18,,GitHub - UAL-RE/redata-docs: A repo to serve general documentation regarding ...,4,2
+redata-docs,2023-01-18,issues,Issues · UAL-RE/redata-docs,3,1
+redata-docs,2023-01-18,issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,1,1
+redata-docs,2023-01-18,issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,1,1
+redata-docs,2023-01-18,search,Search · REData · GitHub,5,1
 redata-iac,2021-06-30,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-05,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2021-07-06,,ualibraries/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
@@ -26122,6 +26160,13 @@ redata-iac,2023-01-17,issues/38,Use GitHub API token with redata-bot for release
 redata-iac,2023-01-17,issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
 redata-iac,2023-01-17,issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
 redata-iac,2023-01-17,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,8,2
+redata-iac,2023-01-18,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,2
+redata-iac,2023-01-18,issues,Issues · UAL-RE/redata-iac,5,2
+redata-iac,2023-01-18,issues/33,Unable to run add_ssh_key_file ansible playbook · Issue #33 · UAL-RE/redata-iac,1,1
+redata-iac,2023-01-18,issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+redata-iac,2023-01-18,issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,1,1
+redata-iac,2023-01-18,issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+redata-iac,2023-01-18,issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,8,2
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
