@@ -1,0 +1,30 @@
+date,path,title,count,uniques
+2023-01-23,/UAL-RE/data-viz-challenge,GitHub - UAL-RE/data-viz-challenge: Repository for Data Visualization Challen...,1,1
+2023-01-23,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,8,8
+2023-01-23,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,1
+2023-01-23,/UAL-RE/LD-Cool-P/issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-01-23,/UAL-RE/ldcoolp-figshare,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
+2023-01-23,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,4,2
+2023-01-23,/UAL-RE/ReBACH/pull/11/commits/bc41883484cca27572ce267cacdf4780bf52de1a,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,1
+2023-01-23,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,2,1
+2023-01-23,/UAL-RE/ReBACH/blob/21c30f03ddeed5a8822bccae296ab58920b380a4/bagger/config/__init__.py,ReBACH/__init__.py at 21c30f03ddeed5a8822bccae296ab58920b380a4 · UAL-RE/ReBACH,1,1
+2023-01-23,/UAL-RE/ReBACH/blob/change_process/.gitignore,ReBACH/.gitignore at change_process · UAL-RE/ReBACH,1,1
+2023-01-23,/UAL-RE/ReBACH/blob/change_process/README.md,ReBACH/README.md at change_process · UAL-RE/ReBACH,1,1
+2023-01-23,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
+2023-01-23,/UAL-RE/redata-commons/issues/23,Upgrade to Python 3.9 and related dependencies · Issue #23 · UAL-RE/redata-co...,3,2
+2023-01-23,/UAL-RE/redata-commons/issues,Issues · UAL-RE/redata-commons,1,1
+2023-01-23,/UAL-RE/redata-commons/issues/30,Update RTD documentation for upgrading necessary files and publishing in pypi...,1,1
+2023-01-23,/UAL-RE/redata-commons/issues/32,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,1,1
+2023-01-23,/UAL-RE/redata-docs/search,Search · REData · GitHub,5,1
+2023-01-23,/UAL-RE/redata-docs,GitHub - UAL-RE/redata-docs: A repo to serve general documentation regarding ...,4,2
+2023-01-23,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,2,1
+2023-01-23,/UAL-RE/redata-docs/issues/13,Bug: Minor fix with Github issues badges · Issue #13 · UAL-RE/redata-docs,1,1
+2023-01-23,/UAL-RE/redata-docs/issues/16,Add RTDs page for ReQUIAM · Issue #16 · UAL-RE/redata-docs,1,1
+2023-01-23,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac · GitHub,1,1
+2023-01-23,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-01-23,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,3,2
+2023-01-23,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM · GitHub,3,2
+2023-01-23,/UAL-RE/ReQUIAM/issues/180,Update Sphinx compile issue after upgrading to Python 3.9 and related package...,3,1
+2023-01-23,/UAL-RE/ReQUIAM_csv/issues,Issues · UAL-RE/ReQUIAM_csv,2,1
+2023-01-23,/UAL-RE/ReQUIAM_csv,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mappin...,1,1
+2023-01-23,/UAL-RE/ReQUIAM_csv/issues/83,Enhancement: Update code to reflect Python 3.9 updates · Issue #83 · UAL-RE/R...,1,1
