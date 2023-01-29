@@ -1,0 +1,22 @@
+date,path,title,count,uniques
+2023-01-29,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,7,5
+2023-01-29,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P,3,1
+2023-01-29,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-01-29,/UAL-RE/LD-Cool-P/issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-01-29,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
+2023-01-29,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+2023-01-29,/UAL-RE/ldcoolp-figshare/blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
+2023-01-29,/UAL-RE/ldcoolp-figshare/blob/main/docs/source/modules.rst,ldcoolp-figshare/modules.rst at main · UAL-RE/ldcoolp-figshare,1,1
+2023-01-29,/UAL-RE/ldcoolp-figshare/tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,1,1
+2023-01-29,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,3,2
+2023-01-29,/UAL-RE/ReBACH/pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,2
+2023-01-29,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,2,1
+2023-01-29,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+2023-01-29,/UAL-RE/ReBACH/blob/21c30f03ddeed5a8822bccae296ab58920b380a4/bagger/config/__init__.py,ReBACH/__init__.py at 21c30f03ddeed5a8822bccae296ab58920b380a4 · UAL-RE/ReBACH,1,1
+2023-01-29,/UAL-RE/ReBACH/blob/change_process/.gitignore,ReBACH/.gitignore at change_process · UAL-RE/ReBACH,1,1
+2023-01-29,/UAL-RE/ReBACH/blob/change_process/README.md,ReBACH/README.md at change_process · UAL-RE/ReBACH,1,1
+2023-01-29,/UAL-RE/ReBACH/commit/ce993869f5f7f1c3b8e97f875b2345348e08255e,small readme corrections · UAL-RE/ReBACH@ce99386,1,1
+2023-01-29,/UAL-RE/ReBACH/commits/change_process,Commits · UAL-RE/ReBACH,1,1
+2023-01-29,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,1,1
+2023-01-29,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac · GitHub,1,1
+2023-01-29,/UAL-RE/ReQUIAM_csv/pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1

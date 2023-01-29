@@ -4700,6 +4700,11 @@ LD-Cool-P,2023-01-28,issues,Issues · UAL-RE/LD-Cool-P,3,1
 LD-Cool-P,2023-01-28,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
 LD-Cool-P,2023-01-28,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
 LD-Cool-P,2023-01-28,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
+LD-Cool-P,2023-01-29,,UAL-RE/LD-Cool-P: Python tool to enable data curation,7,5
+LD-Cool-P,2023-01-29,issues,Issues · UAL-RE/LD-Cool-P,3,1
+LD-Cool-P,2023-01-29,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-01-29,issues/199,Error creating TinyURL link · Issue #199 · UAL-RE/LD-Cool-P · GitHub,1,1
+LD-Cool-P,2023-01-29,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,1,1
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -7271,6 +7276,16 @@ ReBACH,2023-01-28,commits/change_process,Commits · UAL-RE/ReBACH,1,1
 ReBACH,2023-01-28,issues,Issues · UAL-RE/ReBACH,1,1
 ReBACH,2023-01-28,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,2
 ReBACH,2023-01-28,tree/change_process,UAL-RE/ReBACH at change_process,3,2
+ReBACH,2023-01-29,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,1,1
+ReBACH,2023-01-29,blob/21c30f03ddeed5a8822bccae296ab58920b380a4/bagger/config/__init__.py,ReBACH/__init__.py at 21c30f03ddeed5a8822bccae296ab58920b380a4 · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-29,blob/change_process/.gitignore,ReBACH/.gitignore at change_process · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-29,blob/change_process/README.md,ReBACH/README.md at change_process · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-29,branches,Branches · UAL-RE/ReBACH,2,1
+ReBACH,2023-01-29,commit/ce993869f5f7f1c3b8e97f875b2345348e08255e,small readme corrections · UAL-RE/ReBACH@ce99386,1,1
+ReBACH,2023-01-29,commits/change_process,Commits · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-29,issues,Issues · UAL-RE/ReBACH,1,1
+ReBACH,2023-01-29,pull/11,Client feedback 1 by rubab · Pull Request #11 · UAL-RE/ReBACH,2,2
+ReBACH,2023-01-29,tree/change_process,UAL-RE/ReBACH at change_process,3,2
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -15350,6 +15365,7 @@ ReQUIAM_csv,2023-01-25,issues/83,Enhancement: Update code to reflect Python 3.9 
 ReQUIAM_csv,2023-01-26,pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1
 ReQUIAM_csv,2023-01-27,pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1
 ReQUIAM_csv,2023-01-28,pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1
+ReQUIAM_csv,2023-01-29,pull/74,Feature/66 Sphinx Documentation by damian-romero · Pull Request #74 · UAL-RE/...,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -20756,6 +20772,10 @@ ldcoolp-figshare,2023-01-28,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2023-01-28,blob/main/docs/source/modules.rst,ldcoolp-figshare/modules.rst at main · UAL-RE/ldcoolp-figshare,1,1
 ldcoolp-figshare,2023-01-28,blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
 ldcoolp-figshare,2023-01-28,tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,1,1
+ldcoolp-figshare,2023-01-29,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+ldcoolp-figshare,2023-01-29,blob/main/docs/source/modules.rst,ldcoolp-figshare/modules.rst at main · UAL-RE/ldcoolp-figshare,1,1
+ldcoolp-figshare,2023-01-29,blob/main/ldcoolp_figshare/main.py,ldcoolp-figshare/main.py at main · UAL-RE/ldcoolp-figshare,2,1
+ldcoolp-figshare,2023-01-29,tree/main/ldcoolp_figshare,ldcoolp-figshare/ldcoolp_figshare at main · UAL-RE/ldcoolp-figshare,1,1
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -26444,6 +26464,7 @@ redata-iac,2023-01-25,issues,Issues · UAL-RE/redata-iac · GitHub,1,1
 redata-iac,2023-01-26,issues,Issues · UAL-RE/redata-iac · GitHub,1,1
 redata-iac,2023-01-27,issues,Issues · UAL-RE/redata-iac · GitHub,1,1
 redata-iac,2023-01-28,issues,Issues · UAL-RE/redata-iac · GitHub,1,1
+redata-iac,2023-01-29,issues,Issues · UAL-RE/redata-iac · GitHub,1,1
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
