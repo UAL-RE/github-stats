@@ -1318,6 +1318,8 @@ LD-Cool-P,2023-01-28,Google,4,3
 LD-Cool-P,2023-01-28,github.com,2,1
 LD-Cool-P,2023-01-29,Google,4,3
 LD-Cool-P,2023-01-29,github.com,2,1
+LD-Cool-P,2023-01-30,Google,4,3
+LD-Cool-P,2023-01-30,github.com,2,1
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1752,6 +1754,7 @@ ReBACH,2023-01-26,github.com,1,1
 ReBACH,2023-01-27,github.com,1,1
 ReBACH,2023-01-28,github.com,1,1
 ReBACH,2023-01-29,github.com,1,1
+ReBACH,2023-01-30,github.com,1,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -4065,6 +4068,7 @@ ReQUIAM_csv,2023-01-26,Google,1,1
 ReQUIAM_csv,2023-01-27,Google,1,1
 ReQUIAM_csv,2023-01-28,Google,1,1
 ReQUIAM_csv,2023-01-29,Google,1,1
+ReQUIAM_csv,2023-01-30,Google,1,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -5948,6 +5952,7 @@ ldcoolp-figshare,2023-01-28,Google,1,1
 ldcoolp-figshare,2023-01-28,ldcoolp-figshare.readthedocs.io,4,1
 ldcoolp-figshare,2023-01-29,Google,1,1
 ldcoolp-figshare,2023-01-29,ldcoolp-figshare.readthedocs.io,4,1
+ldcoolp-figshare,2023-01-30,ldcoolp-figshare.readthedocs.io,4,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
