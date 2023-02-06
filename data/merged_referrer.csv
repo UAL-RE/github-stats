@@ -1325,6 +1325,7 @@ LD-Cool-P,2023-02-01,Google,3,2
 LD-Cool-P,2023-02-03,Google,9,3
 LD-Cool-P,2023-02-04,Google,9,3
 LD-Cool-P,2023-02-05,Google,9,3
+LD-Cool-P,2023-02-06,Google,9,3
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -4085,6 +4086,8 @@ ReQUIAM_csv,2023-02-04,Google,1,1
 ReQUIAM_csv,2023-02-04,requiam.readthedocs.io,3,1
 ReQUIAM_csv,2023-02-05,Google,1,1
 ReQUIAM_csv,2023-02-05,requiam.readthedocs.io,3,1
+ReQUIAM_csv,2023-02-06,Google,1,1
+ReQUIAM_csv,2023-02-06,requiam.readthedocs.io,3,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -6859,6 +6862,7 @@ redata-commons,2023-01-25,pypi.org,1,1
 redata-commons,2023-02-03,github.com,4,2
 redata-commons,2023-02-04,github.com,4,2
 redata-commons,2023-02-05,github.com,4,2
+redata-commons,2023-02-06,github.com,4,2
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
