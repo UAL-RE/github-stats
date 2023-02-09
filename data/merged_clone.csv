@@ -235,6 +235,7 @@ ReBACH,2023-01-29,1,1
 ReBACH,2023-01-30,1,1
 ReBACH,2023-01-31,1,1
 ReBACH,2023-02-01,1,1
+ReBACH,2023-02-08,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -1502,7 +1503,7 @@ github-stats,2023-01-22,5,3
 github-stats,2023-01-23,1,1
 github-stats,2023-01-24,5,3
 github-stats,2023-01-25,5,3
-github-stats,2023-01-26,6,4
+github-stats,2023-01-26,1,1
 github-stats,2023-01-27,5,3
 github-stats,2023-01-28,5,3
 github-stats,2023-01-29,6,4
@@ -1514,6 +1515,8 @@ github-stats,2023-02-03,5,3
 github-stats,2023-02-04,5,3
 github-stats,2023-02-05,5,3
 github-stats,2023-02-06,6,4
+github-stats,2023-02-07,5,3
+github-stats,2023-02-08,1,1
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1623,6 +1626,7 @@ ldcoolp-figshare,2023-01-04,2,1
 ldcoolp-figshare,2023-01-17,1,1
 ldcoolp-figshare,2023-01-28,1,1
 ldcoolp-figshare,2023-01-29,1,1
+ldcoolp-figshare,2023-02-07,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -1926,6 +1930,7 @@ redata-landing-page,2023-01-03,2,1
 redata-landing-page,2023-01-04,2,1
 redata-landing-page,2023-01-06,1,1
 redata-landing-page,2023-02-01,1,1
+redata-landing-page,2023-02-08,1,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -1959,6 +1964,7 @@ slacking,2022-12-07,4,2
 slacking,2023-01-04,2,1
 slacking,2023-01-07,2,1
 slacking,2023-01-18,2,2
+slacking,2023-02-09,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -2656,7 +2662,7 @@ uptime,2023-01-22,101,2
 uptime,2023-01-23,111,2
 uptime,2023-01-24,103,2
 uptime,2023-01-25,129,3
-uptime,2023-01-26,129,3
+uptime,2023-01-26,102,2
 uptime,2023-01-27,129,3
 uptime,2023-01-28,135,3
 uptime,2023-01-29,135,5
@@ -2668,4 +2674,6 @@ uptime,2023-02-03,126,3
 uptime,2023-02-04,129,4
 uptime,2023-02-05,134,4
 uptime,2023-02-06,127,4
-uptime,2023-02-07,20,2
+uptime,2023-02-07,119,2
+uptime,2023-02-08,115,2
+uptime,2023-02-09,18,2
