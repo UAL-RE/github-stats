@@ -308,6 +308,7 @@ LD-Cool-P,2023-01-27,2,1
 LD-Cool-P,2023-02-01,6,1
 LD-Cool-P,2023-02-09,3,3
 LD-Cool-P,2023-02-12,1,1
+LD-Cool-P,2023-02-13,2,1
 ReBACH,2021-03-11,1,1
 ReBACH,2021-03-15,44,2
 ReBACH,2021-03-16,4,1
@@ -431,6 +432,8 @@ ReBACH,2023-01-24,9,1
 ReBACH,2023-02-01,1,1
 ReBACH,2023-02-08,1,1
 ReBACH,2023-02-10,14,1
+ReBACH,2023-02-13,78,1
+ReBACH,2023-02-14,12,1
 ReM,2021-03-02,6,1
 ReM,2021-03-04,7,1
 ReM,2021-03-08,5,1
@@ -848,6 +851,7 @@ ReQUIAM,2023-01-09,3,1
 ReQUIAM,2023-01-10,4,1
 ReQUIAM,2023-01-12,5,1
 ReQUIAM,2023-02-06,1,1
+ReQUIAM,2023-02-13,6,1
 ReQUIAM_csv,2021-03-01,47,2
 ReQUIAM_csv,2021-03-02,91,2
 ReQUIAM_csv,2021-03-03,58,2
@@ -988,6 +992,7 @@ ReQUIAM_csv,2023-01-09,1,1
 ReQUIAM_csv,2023-01-12,4,1
 ReQUIAM_csv,2023-01-25,1,1
 ReQUIAM_csv,2023-01-31,4,1
+ReQUIAM_csv,2023-02-13,1,1
 UAL-RE,2021-04-26,17,2
 UAL-RE,2021-04-27,1,1
 UAL-RE,2021-07-01,11,1
@@ -1052,6 +1057,7 @@ data-service-landscape-scan,2022-10-18,1,1
 data-service-landscape-scan,2022-10-23,1,1
 data-service-landscape-scan,2022-12-21,3,1
 data-service-landscape-scan,2022-12-27,2,1
+data-service-landscape-scan,2023-02-13,2,1
 data-viz-challenge,2021-04-05,1,1
 data-viz-challenge,2021-04-07,2,1
 data-viz-challenge,2021-04-12,4,1
@@ -1282,6 +1288,7 @@ ldcoolp-figshare,2023-01-09,2,1
 ldcoolp-figshare,2023-01-16,1,1
 ldcoolp-figshare,2023-01-23,5,1
 ldcoolp-figshare,2023-02-06,1,1
+ldcoolp-figshare,2023-02-13,1,1
 redata-commons,2021-03-02,16,2
 redata-commons,2021-03-03,3,2
 redata-commons,2021-03-09,10,1
@@ -1428,6 +1435,7 @@ redata-commons,2023-01-12,6,3
 redata-commons,2023-01-30,2,1
 redata-commons,2023-02-01,3,1
 redata-commons,2023-02-02,1,1
+redata-commons,2023-02-13,1,1
 redata-docs,2021-05-25,3,1
 redata-docs,2021-05-26,50,1
 redata-docs,2021-05-27,2,1
