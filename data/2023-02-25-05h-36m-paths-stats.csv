@@ -1,0 +1,31 @@
+date,path,title,count,uniques
+2023-02-25,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,42,4
+2023-02-25,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH,35,3
+2023-02-25,/UAL-RE/ReBACH/pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,26,1
+2023-02-25,/UAL-RE/ReBACH/pull/9/files,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,19,1
+2023-02-25,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH · GitHub,16,4
+2023-02-25,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,7,2
+2023-02-25,/UAL-RE/ReBACH/issues,Issues · UAL-RE/ReBACH,7,1
+2023-02-25,/UAL-RE/ReBACH/projects,Projects · ReBACH,7,1
+2023-02-25,/UAL-RE/ReBACH/branches/yours,Branches · UAL-RE/ReBACH,6,2
+2023-02-25,/UAL-RE/ReBACH/commits/main,Commits · UAL-RE/ReBACH · GitHub,5,2
+2023-02-25,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,5,2
+2023-02-25,/UAL-RE/redata-commons/releases/tag/v0.5.0,Release v0.5.0 · UAL-RE/redata-commons,1,1
+2023-02-25,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2023-02-25,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,16,1
+2023-02-25,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,9,1
+2023-02-25,/UAL-RE/redata-iac/issues/49,Update documentation README · Issue #49 · UAL-RE/redata-iac,8,1
+2023-02-25,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac ·...,7,2
+2023-02-25,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,5,2
+2023-02-25,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,4,1
+2023-02-25,/UAL-RE/redata-iac/compare/documentation/49,Comparing master...documentation/49 · UAL-RE/redata-iac,3,1
+2023-02-25,/UAL-RE/redata-iac/issues/37,Add ansible playbook to add helpme for redata-iac · Issue #37 · UAL-RE/redata...,2,1
+2023-02-25,/UAL-RE/redata-iac/issues/42,doctl_backup.sh: create ansible script to deploy the cron job · Issue #42 · U...,2,1
+2023-02-25,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,2,1
+2023-02-25,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,4,2
+2023-02-25,/UAL-RE/ReQUIAM/actions,Actions · UAL-RE/ReQUIAM,2,1
+2023-02-25,/UAL-RE/ReQUIAM/actions/runs/2571447118,issue 170. update to python 3.9 · UAL-RE/ReQUIAM@25c788f · GitHub,1,1
+2023-02-25,/UAL-RE/ReQUIAM/blob/master/CHANGELOG.md,ReQUIAM/CHANGELOG.md at master · UAL-RE/ReQUIAM,1,1
+2023-02-25,/UAL-RE/ReQUIAM_csv,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
+2023-02-25,/UAL-RE/ReQUIAM_csv/actions,Actions · UAL-RE/ReQUIAM_csv,1,1
+2023-02-25,/UAL-RE/ReQUIAM_csv/blob/master/.gitignore,ReQUIAM_csv/.gitignore at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
