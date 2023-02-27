@@ -1372,6 +1372,8 @@ LD-Cool-P,2023-02-25,redata.readthedocs.io,2,1
 LD-Cool-P,2023-02-26,Google,27,3
 LD-Cool-P,2023-02-26,github.com,1,1
 LD-Cool-P,2023-02-26,redata.readthedocs.io,2,1
+LD-Cool-P,2023-02-27,Google,27,3
+LD-Cool-P,2023-02-27,github.com,1,1
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1835,6 +1837,8 @@ ReBACH,2023-02-25,github.com,88,3
 ReBACH,2023-02-25,iowxy.com,15,1
 ReBACH,2023-02-26,github.com,88,3
 ReBACH,2023-02-26,iowxy.com,15,1
+ReBACH,2023-02-27,github.com,57,2
+ReBACH,2023-02-27,iowxy.com,15,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -3483,6 +3487,7 @@ ReQUIAM,2023-02-25,github.com,6,2
 ReQUIAM,2023-02-25,redata.readthedocs.io,1,1
 ReQUIAM,2023-02-26,github.com,6,2
 ReQUIAM,2023-02-26,redata.readthedocs.io,1,1
+ReQUIAM,2023-02-27,github.com,1,1
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -6146,6 +6151,7 @@ ldcoolp-figshare,2023-02-25,Google,2,1
 ldcoolp-figshare,2023-02-25,redata.readthedocs.io,1,1
 ldcoolp-figshare,2023-02-26,Google,2,1
 ldcoolp-figshare,2023-02-26,redata.readthedocs.io,1,1
+ldcoolp-figshare,2023-02-27,Google,4,2
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -7055,6 +7061,7 @@ redata-commons,2023-02-25,github.com,5,1
 redata-commons,2023-02-25,pypi.org,1,1
 redata-commons,2023-02-26,github.com,5,1
 redata-commons,2023-02-26,pypi.org,1,1
+redata-commons,2023-02-27,github.com,5,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -7555,6 +7562,7 @@ redata-docs,2023-01-25,Google,1,1
 redata-docs,2023-02-24,github.com,1,1
 redata-docs,2023-02-25,github.com,1,1
 redata-docs,2023-02-26,github.com,1,1
+redata-docs,2023-02-27,github.com,1,1
 redata-iac,2021-06-30,github.com,3,2
 redata-iac,2021-07-05,github.com,2,1
 redata-iac,2021-07-06,github.com,2,1
@@ -7895,6 +7903,7 @@ redata-iac,2023-02-22,github.com,8,1
 redata-iac,2023-02-24,github.com,17,1
 redata-iac,2023-02-25,github.com,17,1
 redata-iac,2023-02-26,github.com,17,1
+redata-iac,2023-02-27,github.com,17,1
 redata-landing-page,2022-03-19,github.com,7,1
 redata-landing-page,2022-03-20,github.com,17,2
 redata-landing-page,2022-03-21,github.com,17,2
