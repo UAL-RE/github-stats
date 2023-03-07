@@ -252,6 +252,7 @@ ReBACH,2023-02-24,2,2
 ReBACH,2023-02-25,2,2
 ReBACH,2023-02-26,1,1
 ReBACH,2023-03-02,9,5
+ReBACH,2023-03-06,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -481,6 +482,7 @@ ReQUIAM,2023-02-25,3,3
 ReQUIAM,2023-02-26,1,1
 ReQUIAM,2023-02-28,1,1
 ReQUIAM,2023-03-02,8,4
+ReQUIAM,2023-03-06,3,3
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -626,6 +628,7 @@ ReQUIAM_csv,2023-02-24,1,1
 ReQUIAM_csv,2023-02-25,2,2
 ReQUIAM_csv,2023-03-01,1,1
 ReQUIAM_csv,2023-03-02,8,4
+ReQUIAM_csv,2023-03-06,2,2
 UAL-RE,2021-04-26,8,5
 UAL-RE,2021-05-13,1,1
 UAL-RE,2021-07-01,3,3
@@ -662,6 +665,7 @@ UAL-RE,2023-01-06,2,1
 UAL-RE,2023-02-16,1,1
 UAL-RE,2023-02-21,1,1
 UAL-RE,2023-03-02,4,2
+UAL-RE,2023-03-06,1,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -1589,6 +1593,7 @@ github-stats,2023-03-02,13,9
 github-stats,2023-03-03,5,3
 github-stats,2023-03-04,5,3
 github-stats,2023-03-05,5,3
+github-stats,2023-03-06,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1934,6 +1939,7 @@ redata-docs,2023-01-05,1,1
 redata-docs,2023-01-26,1,1
 redata-docs,2023-02-24,1,1
 redata-docs,2023-03-02,4,2
+redata-docs,2023-03-07,1,1
 redata-iac,2021-06-29,3,3
 redata-iac,2021-07-01,2,2
 redata-iac,2021-07-19,6,5
@@ -1996,7 +2002,7 @@ redata-iac,2023-02-23,3,2
 redata-iac,2023-02-25,1,1
 redata-iac,2023-02-26,1,1
 redata-iac,2023-03-02,5,3
-redata-iac,2023-03-06,1,1
+redata-iac,2023-03-06,2,2
 redata-landing-page,2022-03-18,22,9
 redata-landing-page,2022-03-19,2,2
 redata-landing-page,2022-04-04,2,1
@@ -2072,6 +2078,7 @@ slacking,2023-02-28,1,1
 slacking,2023-03-01,1,1
 slacking,2023-03-02,4,2
 slacking,2023-03-03,1,1
+slacking,2023-03-06,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -2795,7 +2802,7 @@ uptime,2023-02-17,92,1
 uptime,2023-02-18,98,1
 uptime,2023-02-19,97,1
 uptime,2023-02-20,92,2
-uptime,2023-02-21,114,2
+uptime,2023-02-21,90,1
 uptime,2023-02-22,115,3
 uptime,2023-02-23,112,2
 uptime,2023-02-24,113,2
@@ -2808,4 +2815,5 @@ uptime,2023-03-02,109,5
 uptime,2023-03-03,107,4
 uptime,2023-03-04,121,2
 uptime,2023-03-05,119,2
-uptime,2023-03-06,17,2
+uptime,2023-03-06,112,3
+uptime,2023-03-07,16,2
