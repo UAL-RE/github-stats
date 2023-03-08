@@ -1,0 +1,33 @@
+date,path,title,count,uniques
+2023-03-08,/UAL-RE/figstats,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
+2023-03-08,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,8,6
+2023-03-08,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,3,3
+2023-03-08,/UAL-RE/LD-Cool-P/commits/master,Commits · UAL-RE/LD-Cool-P · GitHub,2,2
+2023-03-08,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2023-03-08,/UAL-RE/LD-Cool-P/blob/master/.github/workflows/create-release.yml,LD-Cool-P/create-release.yml at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/inspection/readme/templates/Main.md,LD-Cool-P/Main.md at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/LD-Cool-P/blob/master/requirements.txt,LD-Cool-P/requirements.txt at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/LD-Cool-P/tree/master/.github/workflows,LD-Cool-P/.github/workflows at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,1,1
+2023-03-08,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,4,3
+2023-03-08,/UAL-RE/ldcoolp-figshare/blob/main/docs/source/index.rst,ldcoolp-figshare/index.rst at main · UAL-RE/ldcoolp-figshare,1,1
+2023-03-08,/UAL-RE/ldcoolp-figshare/graphs/contributors,Contributors to UAL-RE/ldcoolp-figshare,1,1
+2023-03-08,/UAL-RE/ReBACH/pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,22,1
+2023-03-08,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,20,3
+2023-03-08,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH · GitHub,14,2
+2023-03-08,/UAL-RE/ReBACH/pull/9/files,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,9,1
+2023-03-08,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH · GitHub,7,2
+2023-03-08,/UAL-RE/ReBACH/tree/change_process,UAL-RE/ReBACH at change_process,4,2
+2023-03-08,/UAL-RE/ReBACH/pull/9/conflicts,Resolve Conflicts · Pull Request #9 · UAL-RE/ReBACH,4,1
+2023-03-08,/UAL-RE/ReBACH/tree/avp-acceptance-testing,UAL-RE/ReBACH at avp-acceptance-testing,4,1
+2023-03-08,/UAL-RE/ReBACH/blob/main/.flake8,ReBACH/.flake8 at main · UAL-RE/ReBACH,3,1
+2023-03-08,/UAL-RE/ReBACH/commit/545038b89f4fcbe0f61b64f6c09539a572820100,README updates · UAL-RE/ReBACH@545038b,3,1
+2023-03-08,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,7,1
+2023-03-08,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,3,1
+2023-03-08,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,2,1
+2023-03-08,/UAL-RE/redata-iac/issues/49,Update documentation README · Issue #49 · UAL-RE/redata-iac,2,1
+2023-03-08,/UAL-RE/redata-iac/issues/37,Add ansible playbook to add helpme for redata-iac · Issue #37 · UAL-RE/redata...,1,1
+2023-03-08,/UAL-RE/redata-iac/issues/43,doctl_backup.sh: implement notifications · Issue #43 · UAL-RE/redata-iac,1,1
+2023-03-08,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-03-08,/UAL-RE/redata-iac/pull/50,Documentation/49 by yhan818 · Pull Request #50 · UAL-RE/redata-iac,1,1

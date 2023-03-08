@@ -1384,6 +1384,7 @@ LD-Cool-P,2023-03-04,Google,3,3
 LD-Cool-P,2023-03-05,Google,3,3
 LD-Cool-P,2023-03-06,Google,3,3
 LD-Cool-P,2023-03-07,Google,5,4
+LD-Cool-P,2023-03-08,Google,4,3
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1863,6 +1864,8 @@ ReBACH,2023-03-06,github.com,33,1
 ReBACH,2023-03-06,iowxy.com,1,1
 ReBACH,2023-03-07,github.com,29,1
 ReBACH,2023-03-07,iowxy.com,1,1
+ReBACH,2023-03-08,github.com,29,1
+ReBACH,2023-03-08,iowxy.com,1,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -5067,6 +5070,7 @@ figstats,2022-11-02,Google,1,1
 figstats,2023-03-05,github.com,1,1
 figstats,2023-03-06,github.com,1,1
 figstats,2023-03-07,github.com,1,1
+figstats,2023-03-08,github.com,1,1
 github-stats,2021-04-24,github.com,1,1
 github-stats,2021-04-25,github.com,1,1
 github-stats,2021-04-26,github.com,3,1
@@ -6201,6 +6205,8 @@ ldcoolp-figshare,2023-03-06,Google,3,2
 ldcoolp-figshare,2023-03-06,github.com,2,1
 ldcoolp-figshare,2023-03-07,Google,3,2
 ldcoolp-figshare,2023-03-07,github.com,2,1
+ldcoolp-figshare,2023-03-08,Google,3,2
+ldcoolp-figshare,2023-03-08,github.com,2,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -7977,6 +7983,7 @@ redata-iac,2023-03-04,github.com,18,1
 redata-iac,2023-03-05,github.com,18,1
 redata-iac,2023-03-06,github.com,17,1
 redata-iac,2023-03-07,github.com,10,1
+redata-iac,2023-03-08,github.com,2,1
 redata-landing-page,2022-03-19,github.com,7,1
 redata-landing-page,2022-03-20,github.com,17,2
 redata-landing-page,2022-03-21,github.com,17,2
@@ -8446,3 +8453,4 @@ uptime,2023-03-04,github.com,1,1
 uptime,2023-03-05,github.com,1,1
 uptime,2023-03-06,github.com,1,1
 uptime,2023-03-07,github.com,1,1
+uptime,2023-03-08,github.com,1,1
