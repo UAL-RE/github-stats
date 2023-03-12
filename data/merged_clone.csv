@@ -774,7 +774,7 @@ data-service-landscape-scan,2023-02-20,2,1
 data-service-landscape-scan,2023-02-24,3,2
 data-service-landscape-scan,2023-03-02,5,3
 data-service-landscape-scan,2023-03-10,1,1
-data-service-landscape-scan,2023-03-11,1,1
+data-service-landscape-scan,2023-03-11,2,2
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -1611,6 +1611,7 @@ github-stats,2023-03-07,5,3
 github-stats,2023-03-08,7,5
 github-stats,2023-03-09,6,4
 github-stats,2023-03-10,5,3
+github-stats,2023-03-11,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2030,6 +2031,7 @@ redata-iac,2023-03-07,2,1
 redata-iac,2023-03-08,1,1
 redata-iac,2023-03-09,1,1
 redata-iac,2023-03-10,1,1
+redata-iac,2023-03-12,1,1
 redata-landing-page,2022-03-18,22,9
 redata-landing-page,2022-03-19,2,2
 redata-landing-page,2022-04-04,2,1
@@ -2110,7 +2112,7 @@ slacking,2023-03-06,1,1
 slacking,2023-03-07,1,1
 slacking,2023-03-08,1,1
 slacking,2023-03-09,1,1
-slacking,2023-03-11,1,1
+slacking,2023-03-11,2,2
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -2839,7 +2841,7 @@ uptime,2023-02-22,90,1
 uptime,2023-02-23,88,1
 uptime,2023-02-24,90,1
 uptime,2023-02-25,97,1
-uptime,2023-02-26,120,4
+uptime,2023-02-26,98,3
 uptime,2023-02-27,112,4
 uptime,2023-02-28,110,2
 uptime,2023-03-01,110,4
@@ -2852,4 +2854,5 @@ uptime,2023-03-07,110,3
 uptime,2023-03-08,111,3
 uptime,2023-03-09,109,3
 uptime,2023-03-10,113,3
-uptime,2023-03-11,21,2
+uptime,2023-03-11,128,2
+uptime,2023-03-12,19,2

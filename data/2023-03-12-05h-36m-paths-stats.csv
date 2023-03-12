@@ -1,0 +1,41 @@
+date,path,title,count,uniques
+2023-03-12,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final-pa.csv,data-service-landscape-scan/services-final-pa.csv at main · UAL-RE/data-servi...,6,4
+2023-03-12,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,4,3
+2023-03-12,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,4,1
+2023-03-12,/UAL-RE/data-service-landscape-scan/blob/main/data/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
+2023-03-12,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final.csv,data-service-landscape-scan/services-final.csv at main · UAL-RE/data-service-...,1,1
+2023-03-12,/UAL-RE/figstats,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
+2023-03-12,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,8,6
+2023-03-12,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,3,3
+2023-03-12,/UAL-RE/LD-Cool-P/commits/master,Commits · UAL-RE/LD-Cool-P · GitHub,2,2
+2023-03-12,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2023-03-12,/UAL-RE/LD-Cool-P/blob/master/.github/workflows/create-release.yml,LD-Cool-P/create-release.yml at master · UAL-RE/LD-Cool-P,1,1
+2023-03-12,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/inspection/readme/templates/Main.md,LD-Cool-P/Main.md at master · UAL-RE/LD-Cool-P,1,1
+2023-03-12,/UAL-RE/LD-Cool-P/blob/master/requirements.txt,LD-Cool-P/requirements.txt at master · UAL-RE/LD-Cool-P,1,1
+2023-03-12,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-03-12,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-03-12,/UAL-RE/LD-Cool-P/tree/master/.github/workflows,LD-Cool-P/.github/workflows at master · UAL-RE/LD-Cool-P,1,1
+2023-03-12,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+2023-03-12,/UAL-RE/ldcoolp-figshare/blob/main/docs/source/index.rst,ldcoolp-figshare/index.rst at main · UAL-RE/ldcoolp-figshare,1,1
+2023-03-12,/UAL-RE/ldcoolp-figshare/graphs/contributors,Contributors to UAL-RE/ldcoolp-figshare,1,1
+2023-03-12,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,6,2
+2023-03-12,/UAL-RE/ReBACH/commits/change_process,Commits · UAL-RE/ReBACH · GitHub,3,1
+2023-03-12,/UAL-RE/ReBACH/pulls,Pull requests · UAL-RE/ReBACH · GitHub,3,1
+2023-03-12,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH · GitHub,2,1
+2023-03-12,/UAL-RE/ReBACH/branches/all,Branches · UAL-RE/ReBACH · GitHub,1,1
+2023-03-12,/UAL-RE/ReBACH/commit/57530653289ea03e3d620b4dc98f899f2a67fe39,Add requests to requirements.txt · UAL-RE/ReBACH@5753065 · GitHub,1,1
+2023-03-12,/UAL-RE/ReBACH/commit/c42d1c4ea5f89b5f0c2283ba351ea3787a22e337,logs updated · UAL-RE/ReBACH@c42d1c4 · GitHub,1,1
+2023-03-12,/UAL-RE/ReBACH/commit/df8e53bd1259b726447a19ff682ec905caef88d9,Update LICENSE · UAL-RE/ReBACH@df8e53b · GitHub,1,1
+2023-03-12,/UAL-RE/ReBACH/commits,Commits · UAL-RE/ReBACH · GitHub,1,1
+2023-03-12,/UAL-RE/ReBACH/tree/change_process,GitHub - UAL-RE/ReBACH at change_process,1,1
+2023-03-12,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2023-03-12,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,1,1
+2023-03-12,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,1
+2023-03-12,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,4,1
+2023-03-12,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,2,1
+2023-03-12,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-03-12,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,2,1
+2023-03-12,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+2023-03-12,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,1,1
+2023-03-12,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2023-03-12,/UAL-RE/uptime/issues/306,🛑 ReDATA (stage) is down · Issue #306 · UAL-RE/uptime,1,1
