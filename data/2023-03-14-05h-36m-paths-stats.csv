@@ -1,0 +1,12 @@
+date,path,title,count,uniques
+2023-03-14,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2023-03-14,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,1,1
+2023-03-14,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,5,1
+2023-03-14,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,5,1
+2023-03-14,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,2,1
+2023-03-14,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-03-14,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,2,1
+2023-03-14,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,1,1
+2023-03-14,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,1,1
+2023-03-14,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
+2023-03-14,/UAL-RE/uptime/issues/306,🛑 ReDATA (stage) is down · Issue #306 · UAL-RE/uptime,1,1
