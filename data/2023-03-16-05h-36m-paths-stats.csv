@@ -1,0 +1,22 @@
+date,path,title,count,uniques
+2023-03-16,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,5,4
+2023-03-16,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2023-03-16,/UAL-RE/LD-Cool-P/blob/master/.github/workflows/create-release.yml,LD-Cool-P/create-release.yml at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/inspection/readme/templates/Main.md,LD-Cool-P/Main.md at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/blob/master/requirements.txt,LD-Cool-P/requirements.txt at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/tree/master/.github,LD-Cool-P/.github at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/tree/master/.github/workflows,LD-Cool-P/.github/workflows at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,1,1
+2023-03-16,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,3,1
+2023-03-16,/UAL-RE/redata-docs,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA so...,1,1
+2023-03-16,/UAL-RE/redata-docs/issues,Issues · UAL-RE/redata-docs,1,1
+2023-03-16,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,5,1
+2023-03-16,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,2,1
+2023-03-16,/UAL-RE/redata-iac/issues/39,Add documentation of playbooks and roles and unix scripts · Issue #39 · UAL-R...,1,1
+2023-03-16,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-03-16,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,2,2
+2023-03-16,/UAL-RE/ReQUIAM/issues,Issues · UAL-RE/ReQUIAM,2,1
+2023-03-16,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,1,1
+2023-03-16,/UAL-RE/ReQUIAM/issues/162,Enhancement: quota and group manual CSVs should use persistent_path · Issue #...,1,1
