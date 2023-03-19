@@ -1,0 +1,20 @@
+date,path,title,count,uniques
+2023-03-19,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final-pa.csv,data-service-landscape-scan/services-final-pa.csv at main · UAL-RE/data-servi...,6,4
+2023-03-19,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,6,3
+2023-03-19,/UAL-RE/data-service-landscape-scan/tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,4,1
+2023-03-19,/UAL-RE/data-service-landscape-scan/blob/main/data/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
+2023-03-19,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final.csv,data-service-landscape-scan/services-final.csv at main · UAL-RE/data-service-...,1,1
+2023-03-19,/UAL-RE/data-service-landscape-scan/blob/main/LICENSE,data-service-landscape-scan/LICENSE at main · UAL-RE/data-service-landscape-s...,1,1
+2023-03-19,/UAL-RE/LD-Cool-P,UAL-RE/LD-Cool-P: Python tool to enable data curation,4,3
+2023-03-19,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
+2023-03-19,/UAL-RE/LD-Cool-P/blob/master/ldcoolp/curation/inspection/readme/templates/Main.md,LD-Cool-P/Main.md at master · UAL-RE/LD-Cool-P,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp,LD-Cool-P/ldcoolp at master · UAL-RE/LD-Cool-P,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation,LD-Cool-P/ldcoolp/curation at master · UAL-RE/LD-Cool-P,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation/inspection,LD-Cool-P/ldcoolp/curation/inspection at master · UAL-RE/LD-Cool-P,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation/inspection/readme,LD-Cool-P/ldcoolp/curation/inspection/readme at master · UAL-RE/LD-Cool-P,1,1
+2023-03-19,/UAL-RE/LD-Cool-P/tree/master/ldcoolp/curation/inspection/readme/templates,LD-Cool-P/ldcoolp/curation/inspection/readme/templates at master · UAL-RE/LD-...,1,1
+2023-03-19,/UAL-RE/ldcoolp-figshare,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
+2023-03-19,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,3,1
+2023-03-19,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,2,1
+2023-03-19,/UAL-RE/ReBACH/commits,Commits · UAL-RE/ReBACH,1,1
