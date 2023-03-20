@@ -1396,6 +1396,7 @@ LD-Cool-P,2023-03-16,Google,6,5
 LD-Cool-P,2023-03-17,Google,6,5
 LD-Cool-P,2023-03-18,Google,6,5
 LD-Cool-P,2023-03-19,Google,6,5
+LD-Cool-P,2023-03-20,Google,4,4
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1888,6 +1889,7 @@ ReBACH,2023-03-15,iowxy.com,1,1
 ReBACH,2023-03-16,iowxy.com,1,1
 ReBACH,2023-03-18,github.com,5,1
 ReBACH,2023-03-19,github.com,5,1
+ReBACH,2023-03-20,github.com,5,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -3558,6 +3560,8 @@ ReQUIAM,2023-03-18,github.com,5,2
 ReQUIAM,2023-03-18,redata.readthedocs.io,1,1
 ReQUIAM,2023-03-19,github.com,5,2
 ReQUIAM,2023-03-19,redata.readthedocs.io,1,1
+ReQUIAM,2023-03-20,github.com,5,2
+ReQUIAM,2023-03-20,redata.readthedocs.io,1,1
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -4750,6 +4754,7 @@ data-service-landscape-scan,2023-03-16,github.com,3,1
 data-service-landscape-scan,2023-03-17,github.com,3,1
 data-service-landscape-scan,2023-03-18,github.com,6,1
 data-service-landscape-scan,2023-03-19,github.com,6,1
+data-service-landscape-scan,2023-03-20,github.com,6,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -6275,6 +6280,7 @@ ldcoolp-figshare,2023-03-13,github.com,2,1
 ldcoolp-figshare,2023-03-17,Google,1,1
 ldcoolp-figshare,2023-03-18,Google,1,1
 ldcoolp-figshare,2023-03-19,Google,1,1
+ldcoolp-figshare,2023-03-20,Google,1,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -7712,6 +7718,7 @@ redata-docs,2023-03-16,github.com,2,1
 redata-docs,2023-03-17,github.com,2,1
 redata-docs,2023-03-18,github.com,2,1
 redata-docs,2023-03-19,github.com,2,1
+redata-docs,2023-03-20,github.com,2,1
 redata-iac,2021-06-30,github.com,3,2
 redata-iac,2021-07-05,github.com,2,1
 redata-iac,2021-07-06,github.com,2,1
@@ -8073,6 +8080,7 @@ redata-iac,2023-03-16,github.com,7,1
 redata-iac,2023-03-17,github.com,7,1
 redata-iac,2023-03-18,github.com,7,1
 redata-iac,2023-03-19,github.com,7,1
+redata-iac,2023-03-20,github.com,7,1
 redata-landing-page,2022-03-19,github.com,7,1
 redata-landing-page,2022-03-20,github.com,17,2
 redata-landing-page,2022-03-21,github.com,17,2
@@ -8220,6 +8228,7 @@ slacking,2022-05-09,github.com,1,1
 slacking,2022-05-10,github.com,1,1
 slacking,2023-03-18,Google,1,1
 slacking,2023-03-19,Google,1,1
+slacking,2023-03-20,Google,1,1
 uptime,2021-03-14,github.com,2,1
 uptime,2021-03-21,github.com,1,1
 uptime,2021-04-17,github.com,5,1
