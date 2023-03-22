@@ -487,7 +487,7 @@ ReQUIAM,2023-02-28,1,1
 ReQUIAM,2023-03-02,6,3
 ReQUIAM,2023-03-06,3,3
 ReQUIAM,2023-03-07,4,2
-ReQUIAM,2023-03-08,2,2
+ReQUIAM,2023-03-08,1,1
 ReQUIAM,2023-03-17,1,1
 ReQUIAM,2023-03-20,1,1
 ReQUIAM_csv,2021-03-01,3,2
@@ -1628,6 +1628,7 @@ github-stats,2023-03-17,5,3
 github-stats,2023-03-18,7,4
 github-stats,2023-03-19,5,3
 github-stats,2023-03-20,6,4
+github-stats,2023-03-21,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1892,6 +1893,7 @@ redata-commons,2023-03-04,1,1
 redata-commons,2023-03-10,3,3
 redata-commons,2023-03-18,3,3
 redata-commons,2023-03-20,1,1
+redata-commons,2023-03-21,2,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -2874,7 +2876,7 @@ uptime,2023-03-04,97,1
 uptime,2023-03-05,97,1
 uptime,2023-03-06,89,2
 uptime,2023-03-07,89,2
-uptime,2023-03-08,111,3
+uptime,2023-03-08,88,1
 uptime,2023-03-09,109,3
 uptime,2023-03-10,113,3
 uptime,2023-03-11,128,2
@@ -2887,4 +2889,5 @@ uptime,2023-03-17,121,2
 uptime,2023-03-18,127,2
 uptime,2023-03-19,126,3
 uptime,2023-03-20,120,3
-uptime,2023-03-21,22,2
+uptime,2023-03-21,130,2
+uptime,2023-03-22,22,2
