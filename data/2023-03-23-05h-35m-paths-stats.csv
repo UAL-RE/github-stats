@@ -1,0 +1,20 @@
+date,path,title,count,uniques
+2023-03-23,/UAL-RE/data-service-landscape-scan,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,5,3
+2023-03-23,/UAL-RE/data-service-landscape-scan/blob/main/data/services-final-pa.csv,data-service-landscape-scan/services-final-pa.csv at main · UAL-RE/data-servi...,3,3
+2023-03-23,/UAL-RE/data-service-landscape-scan/blob/main/LICENSE,data-service-landscape-scan/LICENSE at main · UAL-RE/data-service-landscape-s...,1,1
+2023-03-23,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,4
+2023-03-23,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
+2023-03-23,/UAL-RE/ldcoolp-figshare,GitHub - UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data...,1,1
+2023-03-23,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,5,2
+2023-03-23,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,2,1
+2023-03-23,/UAL-RE/ReBACH/commit/ce993869f5f7f1c3b8e97f875b2345348e08255e,small readme corrections · UAL-RE/ReBACH@ce99386,1,1
+2023-03-23,/UAL-RE/ReBACH/commits,Commits · UAL-RE/ReBACH,1,1
+2023-03-23,/UAL-RE/ReBACH/pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,1,1
+2023-03-23,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,4,1
+2023-03-23,/UAL-RE/redata-iac/issues,Issues · UAL-RE/redata-iac,1,1
+2023-03-23,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2023-03-23,/UAL-RE/redata-iac/issues/44,doctl_backup.sh: upgrade DigitalOcean token · Issue #44 · UAL-RE/redata-iac,1,1
+2023-03-23,/UAL-RE/ReQUIAM,GitHub - UAL-RE/ReQUIAM: Identity and Access Management backend software for ...,2,2
+2023-03-23,/UAL-RE/ReQUIAM/blob/d3d655a17b18cefa5e61cfd7026a27d84fb6689e/requiam/ldap_query.py,ReQUIAM/ldap_query.py at d3d655a17b18cefa5e61cfd7026a27d84fb6689e · UAL-RE/Re...,1,1
+2023-03-23,/UAL-RE/ReQUIAM/blob/master/.gitignore,ReQUIAM/.gitignore at master · UAL-RE/ReQUIAM · GitHub,1,1
+2023-03-23,/UAL-RE/slacking,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
