@@ -144,6 +144,7 @@ LD-Cool-P,2023-03-07,1,1
 LD-Cool-P,2023-03-08,1,1
 LD-Cool-P,2023-03-19,1,1
 LD-Cool-P,2023-03-23,1,1
+LD-Cool-P,2023-03-27,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -784,6 +785,7 @@ data-service-landscape-scan,2023-03-10,1,1
 data-service-landscape-scan,2023-03-11,1,1
 data-service-landscape-scan,2023-03-17,6,5
 data-service-landscape-scan,2023-03-20,1,1
+data-service-landscape-scan,2023-03-27,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -834,6 +836,7 @@ data-viz-challenge,2023-02-25,3,3
 data-viz-challenge,2023-03-02,4,2
 data-viz-challenge,2023-03-03,1,1
 data-viz-challenge,2023-03-10,1,1
+data-viz-challenge,2023-03-27,1,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -1638,6 +1641,7 @@ github-stats,2023-03-23,5,3
 github-stats,2023-03-24,5,3
 github-stats,2023-03-25,6,4
 github-stats,2023-03-26,5,3
+github-stats,2023-03-27,8,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1904,6 +1908,7 @@ redata-commons,2023-03-10,1,1
 redata-commons,2023-03-18,3,3
 redata-commons,2023-03-20,1,1
 redata-commons,2023-03-21,2,1
+redata-commons,2023-03-28,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -2892,7 +2897,7 @@ uptime,2023-03-10,91,1
 uptime,2023-03-11,101,1
 uptime,2023-03-12,100,1
 uptime,2023-03-13,95,2
-uptime,2023-03-14,105,2
+uptime,2023-03-14,79,1
 uptime,2023-03-15,120,2
 uptime,2023-03-16,118,3
 uptime,2023-03-17,121,2
@@ -2905,4 +2910,5 @@ uptime,2023-03-23,126,2
 uptime,2023-03-24,127,2
 uptime,2023-03-25,134,3
 uptime,2023-03-26,132,3
-uptime,2023-03-27,22,2
+uptime,2023-03-27,118,3
+uptime,2023-03-28,21,2

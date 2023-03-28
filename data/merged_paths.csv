@@ -5091,6 +5091,7 @@ LD-Cool-P,2023-03-26,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data cura
 LD-Cool-P,2023-03-26,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,4
 LD-Cool-P,2023-03-27,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 LD-Cool-P,2023-03-27,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+LD-Cool-P,2023-03-28,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,2,2
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -8106,6 +8107,11 @@ ReBACH,2023-03-27,commit/ce993869f5f7f1c3b8e97f875b2345348e08255e,small readme c
 ReBACH,2023-03-27,commits,Commits · UAL-RE/ReBACH,1,1
 ReBACH,2023-03-27,pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,1,1
 ReBACH,2023-03-27,tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,2,1
+ReBACH,2023-03-28,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,6,2
+ReBACH,2023-03-28,commit/ce993869f5f7f1c3b8e97f875b2345348e08255e,small readme corrections · UAL-RE/ReBACH@ce99386,1,1
+ReBACH,2023-03-28,commits,Commits · UAL-RE/ReBACH,1,1
+ReBACH,2023-03-28,pull/9,Change process by rubab · Pull Request #9 · UAL-RE/ReBACH,1,1
+ReBACH,2023-03-28,tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,2,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -13866,6 +13872,8 @@ ReQUIAM,2023-03-26,,GitHub - UAL-RE/ReQUIAM: Identity and Access Management back
 ReQUIAM,2023-03-26,blob/master/.gitignore,ReQUIAM/.gitignore at master · UAL-RE/ReQUIAM · GitHub,1,1
 ReQUIAM,2023-03-27,,GitHub - UAL-RE/ReQUIAM: Identity and Access Management backend software for ...,2,2
 ReQUIAM,2023-03-27,blob/master/.gitignore,ReQUIAM/.gitignore at master · UAL-RE/ReQUIAM · GitHub,1,1
+ReQUIAM,2023-03-28,,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,3,3
+ReQUIAM,2023-03-28,blob/master/.gitignore,ReQUIAM/.gitignore at master · UAL-RE/ReQUIAM · GitHub,1,1
 ReQUIAM_csv,2021-05-13,,UAL-RE/ReQUIAM_csv: Construct list of research themes and organization mapp...,2,1
 ReQUIAM_csv,2021-05-13,issues,Issues · UAL-RE/ReQUIAM_csv,6,1
 ReQUIAM_csv,2021-05-13,issues/72,Chore: Add docs checkmark to PR templates · Issue #72 · UAL-RE/ReQUIAM_csv,1,1
@@ -16396,6 +16404,7 @@ ReQUIAM_csv,2023-03-04,blob/master/.gitignore,ReQUIAM_csv/.gitignore at master �
 ReQUIAM_csv,2023-03-25,issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,1,1
 ReQUIAM_csv,2023-03-26,issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,1,1
 ReQUIAM_csv,2023-03-27,issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,1,1
+ReQUIAM_csv,2023-03-28,issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -18012,6 +18021,12 @@ data-service-landscape-scan,2023-03-26,,UAL-RE/data-service-landscape-scan: Scan
 data-service-landscape-scan,2023-03-26,blob/main/LICENSE,data-service-landscape-scan/LICENSE at main · UAL-RE/data-service-landscape-s...,1,1
 data-service-landscape-scan,2023-03-27,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,3,1
 data-service-landscape-scan,2023-03-27,blob/main/LICENSE,data-service-landscape-scan/LICENSE at main · UAL-RE/data-service-landscape-s...,1,1
+data-service-landscape-scan,2023-03-28,,UAL-RE/data-service-landscape-scan: Scan of data services at academic libraries,4,1
+data-service-landscape-scan,2023-03-28,blob/main/LICENSE,data-service-landscape-scan/LICENSE at main · UAL-RE/data-service-landscape-s...,1,1
+data-service-landscape-scan,2023-03-28,blob/main/data/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
+data-service-landscape-scan,2023-03-28,blob/main/scripts/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
+data-service-landscape-scan,2023-03-28,tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
+data-service-landscape-scan,2023-03-28,tree/main/scripts,data-service-landscape-scan/scripts at main · UAL-RE/data-service-landscape-s...,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -19774,6 +19789,9 @@ github-stats,2023-02-24,labels,Labels · UAL-RE/github-stats · GitHub,2,2
 github-stats,2023-02-25,labels,Labels · UAL-RE/github-stats · GitHub,2,2
 github-stats,2023-02-26,labels,Labels · UAL-RE/github-stats · GitHub,2,2
 github-stats,2023-02-27,labels,Labels · UAL-RE/github-stats · GitHub,2,2
+github-stats,2023-03-28,,UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
+github-stats,2023-03-28,blob/main/.github/workflows/gh-pages-deploy.yml,github-stats/gh-pages-deploy.yml at main · UAL-RE/github-stats,1,1
+github-stats,2023-03-28,tree/main/.github/workflows,github-stats/.github/workflows at main · UAL-RE/github-stats,1,1
 ld-cool-p,2022-03-30,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-03-31,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
 ld-cool-p,2022-05-20,,UAL-RE/LD-Cool-P: Python tool to enable data curation,1,1
@@ -22043,6 +22061,7 @@ ldcoolp-figshare,2023-03-24,,UAL-RE/ldcoolp-figshare: Python tool using the Figs
 ldcoolp-figshare,2023-03-25,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2023-03-26,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 ldcoolp-figshare,2023-03-27,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
+ldcoolp-figshare,2023-03-28,,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,2,2
 redata-commons,2021-05-13,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,3,2
 redata-commons,2021-05-13,issues,Issues · UAL-RE/redata-commons,3,1
 redata-commons,2021-05-13,issues/11,Add issue_requests function to code · Issue #11 · UAL-RE/redata-commons,1,1
@@ -28074,6 +28093,8 @@ redata-iac,2023-03-26,issues,Issues · UAL-RE/redata-iac,1,1
 redata-iac,2023-03-26,issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
 redata-iac,2023-03-27,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
 redata-iac,2023-03-27,issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+redata-iac,2023-03-28,,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+redata-iac,2023-03-28,issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
 redata-landing-page,2022-03-19,,UAL-RE/redata-landing-page: Redirect to main ReDATA site,7,1
 redata-landing-page,2022-03-19,blob/landing-page/index.html,redata-landing-page/index.html at landing-page · UAL-RE/redata-landing-page,2,1
 redata-landing-page,2022-03-19,branches,Branches · UAL-RE/redata-landing-page,2,1
@@ -29023,6 +29044,7 @@ slacking,2023-03-24,,UAL-RE/slacking: Experimentation with open-source tools for
 slacking,2023-03-25,,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
 slacking,2023-03-26,,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
 slacking,2023-03-27,,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
+slacking,2023-03-28,,UAL-RE/slacking: Experimentation with open-source tools for retrieving Slack ...,1,1
 uptime,2021-05-17,actions,Actions · UAL-RE/uptime,2,1
 uptime,2021-05-17,actions/runs/846972022,:bento: Update graphs [skip ci] · UAL-RE/uptime@662497c,1,1
 uptime,2021-05-17,actions/runs/847069357,:bento: Update graphs [skip ci] · UAL-RE/uptime@662497c,1,1
