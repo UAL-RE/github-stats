@@ -890,6 +890,7 @@ data-viz-evaluations,2023-02-02,2,2
 data-viz-evaluations,2023-03-02,2,1
 data-viz-evaluations,2023-03-03,1,1
 data-viz-evaluations,2023-03-10,1,1
+data-viz-evaluations,2023-03-30,5,4
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -1631,7 +1632,7 @@ github-stats,2023-03-12,5,3
 github-stats,2023-03-13,1,1
 github-stats,2023-03-14,5,3
 github-stats,2023-03-15,5,3
-github-stats,2023-03-16,5,3
+github-stats,2023-03-16,2,1
 github-stats,2023-03-17,5,3
 github-stats,2023-03-18,7,4
 github-stats,2023-03-19,5,3
@@ -1644,6 +1645,7 @@ github-stats,2023-03-25,6,4
 github-stats,2023-03-26,5,3
 github-stats,2023-03-27,8,5
 github-stats,2023-03-28,5,3
+github-stats,2023-03-29,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2903,7 +2905,7 @@ uptime,2023-03-12,100,1
 uptime,2023-03-13,95,2
 uptime,2023-03-14,79,1
 uptime,2023-03-15,94,1
-uptime,2023-03-16,118,3
+uptime,2023-03-16,91,1
 uptime,2023-03-17,121,2
 uptime,2023-03-18,127,2
 uptime,2023-03-19,126,3
@@ -2916,4 +2918,5 @@ uptime,2023-03-25,134,3
 uptime,2023-03-26,132,3
 uptime,2023-03-27,118,3
 uptime,2023-03-28,121,2
-uptime,2023-03-29,20,2
+uptime,2023-03-29,104,2
+uptime,2023-03-30,21,2
