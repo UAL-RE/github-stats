@@ -1408,6 +1408,7 @@ LD-Cool-P,2023-03-28,Google,2,2
 LD-Cool-P,2023-03-29,Google,2,2
 LD-Cool-P,2023-03-30,Google,3,3
 LD-Cool-P,2023-03-31,Google,3,3
+LD-Cool-P,2023-04-01,Google,3,3
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1912,6 +1913,7 @@ ReBACH,2023-03-28,github.com,10,2
 ReBACH,2023-03-29,github.com,10,2
 ReBACH,2023-03-30,github.com,16,2
 ReBACH,2023-03-31,github.com,59,2
+ReBACH,2023-04-01,github.com,115,2
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -3600,6 +3602,7 @@ ReQUIAM,2023-03-28,redata.readthedocs.io,1,1
 ReQUIAM,2023-03-29,Google,1,1
 ReQUIAM,2023-03-30,Google,1,1
 ReQUIAM,2023-03-31,Google,1,1
+ReQUIAM,2023-04-01,Google,1,1
 ReQUIAM_csv,2021-03-14,Google,1,1
 ReQUIAM_csv,2021-03-14,github.com,21,4
 ReQUIAM_csv,2021-03-21,Google,1,1
@@ -4339,6 +4342,8 @@ ReQUIAM_csv,2023-03-28,Google,1,1
 ReQUIAM_csv,2023-03-29,Google,1,1
 ReQUIAM_csv,2023-03-30,Google,1,1
 ReQUIAM_csv,2023-03-31,Google,1,1
+ReQUIAM_csv,2023-04-01,Google,1,1
+ReQUIAM_csv,2023-04-01,github.com,1,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -4811,6 +4816,7 @@ data-service-landscape-scan,2023-03-28,github.com,9,1
 data-service-landscape-scan,2023-03-29,github.com,9,1
 data-service-landscape-scan,2023-03-30,github.com,9,1
 data-service-landscape-scan,2023-03-31,github.com,6,1
+data-service-landscape-scan,2023-04-01,github.com,6,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -5448,6 +5454,7 @@ github-stats,2023-03-28,github.com,1,1
 github-stats,2023-03-29,github.com,1,1
 github-stats,2023-03-30,github.com,1,1
 github-stats,2023-03-31,github.com,1,1
+github-stats,2023-04-01,github.com,1,1
 ldcoolp-figshare,2021-05-15,github.com,1,1
 ldcoolp-figshare,2021-05-16,github.com,1,1
 ldcoolp-figshare,2021-05-17,github.com,1,1
@@ -7268,6 +7275,7 @@ redata-commons,2023-03-04,github.com,5,1
 redata-commons,2023-03-05,github.com,5,1
 redata-commons,2023-03-06,github.com,5,1
 redata-commons,2023-03-07,github.com,5,1
+redata-commons,2023-04-01,github.com,1,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
@@ -7790,6 +7798,7 @@ redata-docs,2023-03-19,github.com,2,1
 redata-docs,2023-03-20,github.com,2,1
 redata-docs,2023-03-21,github.com,2,1
 redata-docs,2023-03-22,github.com,2,1
+redata-docs,2023-04-01,Google,1,1
 redata-iac,2021-06-30,github.com,3,2
 redata-iac,2021-07-05,github.com,2,1
 redata-iac,2021-07-06,github.com,2,1
@@ -8163,6 +8172,7 @@ redata-iac,2023-03-28,github.com,1,1
 redata-iac,2023-03-29,github.com,1,1
 redata-iac,2023-03-30,github.com,1,1
 redata-iac,2023-03-31,github.com,1,1
+redata-iac,2023-04-01,github.com,1,1
 redata-landing-page,2022-03-19,github.com,7,1
 redata-landing-page,2022-03-20,github.com,17,2
 redata-landing-page,2022-03-21,github.com,17,2
