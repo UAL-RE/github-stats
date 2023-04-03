@@ -1,0 +1,23 @@
+date,path,title,count,uniques
+2023-04-03,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,4,4
+2023-04-03,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2023-04-03,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,40,1
+2023-04-03,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,12,1
+2023-04-03,/UAL-RE/ReBACH/tree/main/figshare,ReBACH/figshare at main · UAL-RE/ReBACH,7,1
+2023-04-03,/UAL-RE/ReBACH/tree/main/bagger/config,ReBACH/bagger/config at main · UAL-RE/ReBACH,5,1
+2023-04-03,/UAL-RE/ReBACH/branches,Branches · UAL-RE/ReBACH,4,1
+2023-04-03,/UAL-RE/ReBACH/blob/main/figshare/Article.py,ReBACH/Article.py at main · UAL-RE/ReBACH,3,1
+2023-04-03,/UAL-RE/ReBACH/tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-RE/ReBACH,3,1
+2023-04-03,/UAL-RE/ReBACH/tree/main/.github,ReBACH/.github at main · UAL-RE/ReBACH,3,1
+2023-04-03,/UAL-RE/ReBACH/blob/main/bagger/scripts/main.py,ReBACH/main.py at main · UAL-RE/ReBACH,2,1
+2023-04-03,/UAL-RE/ReBACH/blob/main/Config.py,ReBACH/Config.py at main · UAL-RE/ReBACH,2,1
+2023-04-03,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+2023-04-03,/UAL-RE/redata-docs,GitHub - UAL-RE/redata-docs: A repo to serve general documentation regarding ...,1,1
+2023-04-03,/UAL-RE/redata-iac,UAL-RE/redata-iac: Infrastructure as Code (IaC) resources for ReDATA,1,1
+2023-04-03,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2023-04-03,/UAL-RE/ReQUIAM,UAL-RE/ReQUIAM: Identity and Access Management backend software for UA Resear...,2,2
+2023-04-03,/UAL-RE/ReQUIAM/blob/master/.gitignore,ReQUIAM/.gitignore at master · UAL-RE/ReQUIAM · GitHub,1,1
+2023-04-03,/UAL-RE/ReQUIAM_csv,GitHub - UAL-RE/ReQUIAM_csv: Construct list of research themes and organizati...,1,1
+2023-04-03,/UAL-RE/ReQUIAM_csv/blob/master/.gitignore,ReQUIAM_csv/.gitignore at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
+2023-04-03,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
+2023-04-03,/UAL-RE/ReQUIAM_csv/issues/75,Docs: Update README.md to Avoid Duplicates with Docs · Issue #75 · UAL-RE/ReQ...,1,1
