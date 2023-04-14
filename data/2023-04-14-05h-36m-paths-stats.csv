@@ -1,0 +1,20 @@
+date,path,title,count,uniques
+2023-04-14,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,3,3
+2023-04-14,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+2023-04-14,/UAL-RE/LD-Cool-P/blob/master/.gitignore,LD-Cool-P/.gitignore at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-14,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-14,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-14,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-04-14,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-14,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2023-04-14,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,18,1
+2023-04-14,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH,12,1
+2023-04-14,/UAL-RE/ReBACH/tree/main/bagger/config,ReBACH/bagger/config at main · UAL-RE/ReBACH,5,1
+2023-04-14,/UAL-RE/ReBACH/tree/main/figshare,ReBACH/figshare at main · UAL-RE/ReBACH,5,1
+2023-04-14,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,5,1
+2023-04-14,/UAL-RE/ReBACH/blob/main/app.py,ReBACH/app.py at main · UAL-RE/ReBACH,3,1
+2023-04-14,/UAL-RE/ReBACH/blob/main/bagger/config/default.example.toml,ReBACH/default.example.toml at main · UAL-RE/ReBACH,3,1
+2023-04-14,/UAL-RE/ReBACH/blob/main/bagger/metadata.py,ReBACH/metadata.py at main · UAL-RE/ReBACH,3,1
+2023-04-14,/UAL-RE/ReBACH/tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-RE/ReBACH,3,1
+2023-04-14,/UAL-RE/ReBACH/blob/main/bagger/config/__init__.py,ReBACH/__init__.py at main · UAL-RE/ReBACH,2,1
+2023-04-14,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
