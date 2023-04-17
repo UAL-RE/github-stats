@@ -1,0 +1,20 @@
+date,path,title,count,uniques
+2023-04-17,/UAL-RE/figstats,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
+2023-04-17,/UAL-RE/LD-Cool-P,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,3,3
+2023-04-17,/UAL-RE/LD-Cool-P/issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
+2023-04-17,/UAL-RE/LD-Cool-P/blob/master/.gitignore,LD-Cool-P/.gitignore at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-17,/UAL-RE/LD-Cool-P/blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-17,/UAL-RE/LD-Cool-P/issues,Issues · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-17,/UAL-RE/LD-Cool-P/issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+2023-04-17,/UAL-RE/LD-Cool-P/pulls,Pull requests · UAL-RE/LD-Cool-P · GitHub,1,1
+2023-04-17,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH · GitHub,26,2
+2023-04-17,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,21,2
+2023-04-17,/UAL-RE/ReBACH/tree/main/bagger/config,ReBACH/bagger/config at main · UAL-RE/ReBACH,10,1
+2023-04-17,/UAL-RE/ReBACH/tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-RE/ReBACH,8,1
+2023-04-17,/UAL-RE/ReBACH/tree/main/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86/v01,ReBACH/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86...,7,1
+2023-04-17,/UAL-RE/ReBACH/tree/main/tests,ReBACH/tests at main · UAL-RE/ReBACH,6,1
+2023-04-17,/UAL-RE/ReBACH/tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,5,1
+2023-04-17,/UAL-RE/ReBACH/blob/main/bagger/config/default.example.toml,ReBACH/default.example.toml at main · UAL-RE/ReBACH,4,1
+2023-04-17,/UAL-RE/ReBACH/blob/main/app.py,ReBACH/app.py at main · UAL-RE/ReBACH,3,1
+2023-04-17,/UAL-RE/ReBACH/blob/main/bagger/metadata.py,ReBACH/metadata.py at main · UAL-RE/ReBACH,3,1
+2023-04-17,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
