@@ -5186,6 +5186,11 @@ LD-Cool-P,2023-04-18,issues,Issues · UAL-RE/LD-Cool-P · GitHub,1,1
 LD-Cool-P,2023-04-18,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
 LD-Cool-P,2023-04-18,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
 LD-Cool-P,2023-04-18,pulls,Pull requests · UAL-RE/LD-Cool-P · GitHub,1,1
+LD-Cool-P,2023-04-19,,GitHub - UAL-RE/LD-Cool-P: Python tool to enable data curation,2,2
+LD-Cool-P,2023-04-19,blob/master/.gitignore,LD-Cool-P/.gitignore at master · UAL-RE/LD-Cool-P · GitHub,1,1
+LD-Cool-P,2023-04-19,blob/master/README.md,LD-Cool-P/README.md at master · UAL-RE/LD-Cool-P · GitHub,1,1
+LD-Cool-P,2023-04-19,issues/131,Create new GitHub issue template for enhancement · Issue #131 · UAL-RE/LD-Coo...,1,1
+LD-Cool-P,2023-04-19,issues/37,Use Qualtrics Q_PopulateResponse to provide customized URL for Deposit Agreem...,3,3
 LD_Cool_P,2021-05-26,,ualibraries/LD_Cool_P: Python tool to enable data curation,18,4
 LD_Cool_P,2021-05-26,issues,Issues · ualibraries/LD_Cool_P,10,1
 LD_Cool_P,2021-05-26,pulls,Pull requests · ualibraries/LD_Cool_P,6,1
@@ -8409,6 +8414,16 @@ ReBACH,2023-04-18,tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-
 ReBACH,2023-04-18,tree/main/tests,ReBACH/tests at main · UAL-RE/ReBACH,6,1
 ReBACH,2023-04-18,tree/main/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86/v01,ReBACH/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86...,7,1
 ReBACH,2023-04-18,tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,5,1
+ReBACH,2023-04-19,,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,21,2
+ReBACH,2023-04-19,blob/main/app.py,ReBACH/app.py at main · UAL-RE/ReBACH,3,1
+ReBACH,2023-04-19,blob/main/bagger/config/default.example.toml,ReBACH/default.example.toml at main · UAL-RE/ReBACH,4,1
+ReBACH,2023-04-19,blob/main/bagger/metadata.py,ReBACH/metadata.py at main · UAL-RE/ReBACH,3,1
+ReBACH,2023-04-19,tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH · GitHub,26,2
+ReBACH,2023-04-19,tree/main/bagger/config,ReBACH/bagger/config at main · UAL-RE/ReBACH,10,1
+ReBACH,2023-04-19,tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-RE/ReBACH,8,1
+ReBACH,2023-04-19,tree/main/tests,ReBACH/tests at main · UAL-RE/ReBACH,6,1
+ReBACH,2023-04-19,tree/main/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86/v01,ReBACH/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86...,7,1
+ReBACH,2023-04-19,tree/main/ualrdm-directory-validation,ReBACH/ualrdm-directory-validation at main · UAL-RE/ReBACH,5,1
 ReDATA_README_Tool,2021-07-05,,UAL-ODIS/ReDATA_README_Tool: A Python web UI built on FastAPI to gather metad...,5,1
 ReDATA_README_Tool,2021-07-05,actions,Actions · UAL-ODIS/ReDATA_README_Tool,4,1
 ReDATA_README_Tool,2021-07-05,actions/runs/980507751,Org rename · UAL-ODIS/ReDATA_README_Tool@0eae882,3,1
@@ -16769,6 +16784,7 @@ ReQUIAM_csv,2023-04-12,blob/master/.gitignore,ReQUIAM_csv/.gitignore at master �
 ReQUIAM_csv,2023-04-12,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
 ReQUIAM_csv,2023-04-13,blob/master/.gitignore,ReQUIAM_csv/.gitignore at master · UAL-RE/ReQUIAM_csv · GitHub,1,1
 ReQUIAM_csv,2023-04-13,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
+ReQUIAM_csv,2023-04-19,commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,1,1
 Rem,2022-01-31,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-01,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
 Rem,2022-02-02,,UAL-RE/ReM: A Python web UI built on FastAPI to gather metadata to construct ...,2,1
@@ -18453,6 +18469,8 @@ data-service-landscape-scan,2023-04-09,blob/main/data/README.md,data-service-lan
 data-service-landscape-scan,2023-04-09,blob/main/scripts/README.md,data-service-landscape-scan/README.md at main · UAL-RE/data-service-landscape...,1,1
 data-service-landscape-scan,2023-04-09,tree/main/data,data-service-landscape-scan/data at main · UAL-RE/data-service-landscape-scan,1,1
 data-service-landscape-scan,2023-04-09,tree/main/scripts,data-service-landscape-scan/scripts at main · UAL-RE/data-service-landscape-s...,1,1
+data-service-landscape-scan,2023-04-19,,GitHub - UAL-RE/data-service-landscape-scan: Scan of data services at academi...,1,1
+data-service-landscape-scan,2023-04-19,tree/main/eda,data-service-landscape-scan/eda at main · UAL-RE/data-service-landscape-scan ...,1,1
 data-viz-challenge,2021-06-03,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-04,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
 data-viz-challenge,2021-06-05,,UAL-RE/data-viz-challenge: Repository for Data Visualization Challenge webs...,1,1
@@ -19363,6 +19381,7 @@ figstats,2023-03-16,,GitHub - UAL-RE/figstats: Python software to retrieve stati
 figstats,2023-03-17,,GitHub - UAL-RE/figstats: Python software to retrieve statistics for public d...,1,1
 figstats,2023-04-17,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
 figstats,2023-04-18,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
+figstats,2023-04-19,,UAL-RE/figstats: Python software to retrieve statistics for public datasets o...,1,1
 github-stats,2021-05-13,,GitHub - UAL-RE/github-stats: GitHub stats for UAL-RE,1,1
 github-stats,2021-05-14,,UAL-RE/github-stats: GitHub stats for UAL-RE,2,2
 github-stats,2021-05-14,commit/22ad2757c794d9251be337415f40821f239f7e35,Update data: 2021-05-13 · UAL-RE/github-stats@22ad275,1,1
@@ -24905,6 +24924,7 @@ redata-commons,2023-04-15,,UAL-RE/redata-commons: Commons code used by ReDATA co
 redata-commons,2023-04-16,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
 redata-commons,2023-04-17,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
 redata-commons,2023-04-18,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
+redata-commons,2023-04-19,,UAL-RE/redata-commons: Commons code used by ReDATA codebases,2,2
 redata-docs,2021-05-26,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,1,1
 redata-docs,2021-05-27,,UAL-RE/redata-docs: A repo to serve general documentation regarding ReDATA ...,8,1
 redata-docs,2021-05-27,actions,Actions · UAL-RE/redata-docs,2,1

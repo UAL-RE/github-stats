@@ -1426,6 +1426,7 @@ LD-Cool-P,2023-04-15,Google,7,6
 LD-Cool-P,2023-04-16,Google,6,5
 LD-Cool-P,2023-04-17,Google,6,5
 LD-Cool-P,2023-04-18,Google,6,5
+LD-Cool-P,2023-04-19,Google,6,5
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -1952,6 +1953,8 @@ ReBACH,2023-04-17,github.com,70,1
 ReBACH,2023-04-17,iowxy.com,3,1
 ReBACH,2023-04-18,github.com,70,1
 ReBACH,2023-04-18,iowxy.com,3,1
+ReBACH,2023-04-19,github.com,70,1
+ReBACH,2023-04-19,iowxy.com,3,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -4407,6 +4410,7 @@ ReQUIAM_csv,2023-04-10,github.com,1,1
 ReQUIAM_csv,2023-04-11,github.com,1,1
 ReQUIAM_csv,2023-04-12,github.com,1,1
 ReQUIAM_csv,2023-04-13,github.com,1,1
+ReQUIAM_csv,2023-04-19,github.com,1,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -4888,6 +4892,7 @@ data-service-landscape-scan,2023-04-06,github.com,5,1
 data-service-landscape-scan,2023-04-07,github.com,5,1
 data-service-landscape-scan,2023-04-08,github.com,5,1
 data-service-landscape-scan,2023-04-09,github.com,5,1
+data-service-landscape-scan,2023-04-19,Google,2,1
 data-viz-challenge,2021-04-10,github.com,2,1
 data-viz-challenge,2021-04-17,github.com,4,2
 data-viz-challenge,2021-04-23,github.com,2,1
@@ -5266,6 +5271,7 @@ figstats,2023-03-16,github.com,1,1
 figstats,2023-03-17,github.com,1,1
 figstats,2023-04-17,github.com,1,1
 figstats,2023-04-18,github.com,1,1
+figstats,2023-04-19,github.com,1,1
 github-stats,2021-04-24,github.com,1,1
 github-stats,2021-04-25,github.com,1,1
 github-stats,2021-04-26,github.com,3,1
@@ -7387,6 +7393,7 @@ redata-commons,2023-04-15,github.com,2,2
 redata-commons,2023-04-16,github.com,2,2
 redata-commons,2023-04-17,github.com,2,2
 redata-commons,2023-04-18,github.com,2,2
+redata-commons,2023-04-19,github.com,2,2
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
