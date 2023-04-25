@@ -152,6 +152,7 @@ LD-Cool-P,2023-04-09,1,1
 LD-Cool-P,2023-04-11,1,1
 LD-Cool-P,2023-04-16,1,1
 LD-Cool-P,2023-04-20,1,1
+LD-Cool-P,2023-04-24,1,1
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -271,6 +272,7 @@ ReBACH,2023-03-30,1,1
 ReBACH,2023-03-31,1,1
 ReBACH,2023-04-02,1,1
 ReBACH,2023-04-16,1,1
+ReBACH,2023-04-24,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -510,6 +512,7 @@ ReQUIAM,2023-04-04,1,1
 ReQUIAM,2023-04-13,1,1
 ReQUIAM,2023-04-16,1,1
 ReQUIAM,2023-04-23,1,1
+ReQUIAM,2023-04-24,1,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -703,6 +706,7 @@ UAL-RE,2023-03-02,4,2
 UAL-RE,2023-03-06,1,1
 UAL-RE,2023-03-11,1,1
 UAL-RE,2023-04-15,2,2
+UAL-RE,2023-04-25,1,1
 data-service-landscape-scan,2021-02-28,1,1
 data-service-landscape-scan,2021-03-16,1,1
 data-service-landscape-scan,2021-04-01,1,1
@@ -861,6 +865,7 @@ data-viz-challenge,2023-03-03,1,1
 data-viz-challenge,2023-03-10,1,1
 data-viz-challenge,2023-03-27,1,1
 data-viz-challenge,2023-04-16,1,1
+data-viz-challenge,2023-04-24,1,1
 data-viz-evaluations,2021-04-07,3,2
 data-viz-evaluations,2021-04-08,3,3
 data-viz-evaluations,2021-04-11,1,1
@@ -1687,7 +1692,7 @@ github-stats,2023-04-07,5,3
 github-stats,2023-04-08,5,3
 github-stats,2023-04-09,5,3
 github-stats,2023-04-10,5,3
-github-stats,2023-04-11,5,4
+github-stats,2023-04-11,1,1
 github-stats,2023-04-12,6,4
 github-stats,2023-04-13,5,3
 github-stats,2023-04-14,5,3
@@ -1700,6 +1705,7 @@ github-stats,2023-04-20,5,3
 github-stats,2023-04-21,5,3
 github-stats,2023-04-22,5,3
 github-stats,2023-04-23,5,3
+github-stats,2023-04-24,7,5
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -1821,6 +1827,7 @@ ldcoolp-figshare,2023-03-10,1,1
 ldcoolp-figshare,2023-03-18,1,1
 ldcoolp-figshare,2023-03-26,1,1
 ldcoolp-figshare,2023-03-29,2,1
+ldcoolp-figshare,2023-04-25,1,1
 redata-commons,2021-03-02,3,3
 redata-commons,2021-03-03,1,1
 redata-commons,2021-03-09,7,5
@@ -2231,6 +2238,7 @@ slacking,2023-03-09,1,1
 slacking,2023-03-11,1,1
 slacking,2023-03-12,1,1
 slacking,2023-03-14,1,1
+slacking,2023-04-25,1,1
 uptime,2021-02-28,28,1
 uptime,2021-03-01,97,5
 uptime,2021-03-02,117,4
@@ -3003,7 +3011,7 @@ uptime,2023-04-07,105,1
 uptime,2023-04-08,108,1
 uptime,2023-04-09,107,1
 uptime,2023-04-10,103,1
-uptime,2023-04-11,133,3
+uptime,2023-04-11,104,2
 uptime,2023-04-12,131,3
 uptime,2023-04-13,130,2
 uptime,2023-04-14,132,2
@@ -3016,4 +3024,5 @@ uptime,2023-04-20,129,2
 uptime,2023-04-21,131,2
 uptime,2023-04-22,134,2
 uptime,2023-04-23,133,2
-uptime,2023-04-24,17,2
+uptime,2023-04-24,131,3
+uptime,2023-04-25,17,2
