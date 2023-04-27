@@ -1,0 +1,15 @@
+date,path,title,count,uniques
+2023-04-27,/UAL-RE/ldcoolp-figshare,UAL-RE/ldcoolp-figshare: Python tool using the Figshare API for data curation,1,1
+2023-04-27,/UAL-RE/ReBACH/tree/main/bagger,ReBACH/bagger at main · UAL-RE/ReBACH · GitHub,18,3
+2023-04-27,/UAL-RE/ReBACH,UAL-RE/ReBACH: Python-based tool to enable data preservation to a cloud-hoste...,14,3
+2023-04-27,/UAL-RE/ReBACH/tree/main/bagger/config,ReBACH/bagger/config at main · UAL-RE/ReBACH · GitHub,7,2
+2023-04-27,/UAL-RE/ReBACH/tree/main/bagger/scripts,ReBACH/bagger/scripts at main · UAL-RE/ReBACH · GitHub,7,2
+2023-04-27,/UAL-RE/ReBACH/tree/main/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86/v01,ReBACH/tests/testbag/1234567_01_TEST_PACKAGE_6de0ea5d4b2317d016c6db397bbebe86...,6,1
+2023-04-27,/UAL-RE/ReBACH/blob/main/bagger/job.py,ReBACH/job.py at main · UAL-RE/ReBACH · GitHub,5,2
+2023-04-27,/UAL-RE/ReBACH/blob/main/bagger/bag.py,ReBACH/bag.py at main · UAL-RE/ReBACH · GitHub,4,1
+2023-04-27,/UAL-RE/ReBACH/blob/main/bagger/__init__.py,ReBACH/__init__.py at main · UAL-RE/ReBACH · GitHub,4,1
+2023-04-27,/UAL-RE/ReBACH/blob/main/bagger/scripts/main.py,ReBACH/main.py at main · UAL-RE/ReBACH · GitHub,4,1
+2023-04-27,/UAL-RE/ReBACH/tree/main/tests,ReBACH/tests at main · UAL-RE/ReBACH,4,1
+2023-04-27,/UAL-RE/redata-commons,UAL-RE/redata-commons: Commons code used by ReDATA codebases,1,1
+2023-04-27,/UAL-RE/redata-iac/issues/38,Use GitHub API token with redata-bot for releases · Issue #38 · UAL-RE/redata...,1,1
+2023-04-27,/UAL-RE/ReQUIAM_csv/commit/ac897392ea09c5c69e5cdb184bb3cfe579b7b64d,Updates to CSV file (iss #37) · UAL-RE/ReQUIAM_csv@ac89739,2,2
