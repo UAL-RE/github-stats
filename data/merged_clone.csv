@@ -273,6 +273,7 @@ ReBACH,2023-03-31,1,1
 ReBACH,2023-04-02,1,1
 ReBACH,2023-04-16,1,1
 ReBACH,2023-04-24,1,1
+ReBACH,2023-04-27,12,3
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -1709,6 +1710,7 @@ github-stats,2023-04-23,5,3
 github-stats,2023-04-24,7,5
 github-stats,2023-04-25,5,3
 github-stats,2023-04-26,5,3
+github-stats,2023-04-27,5,3
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2082,6 +2084,7 @@ redata-docs,2023-03-07,1,1
 redata-docs,2023-03-09,1,1
 redata-docs,2023-03-10,1,1
 redata-docs,2023-04-02,1,1
+redata-docs,2023-04-27,1,1
 redata-iac,2021-06-29,3,3
 redata-iac,2021-07-01,2,2
 redata-iac,2021-07-19,6,5
@@ -2190,6 +2193,7 @@ redata-landing-page,2023-02-16,1,1
 redata-landing-page,2023-03-02,2,1
 redata-landing-page,2023-03-09,1,1
 redata-landing-page,2023-03-31,1,1
+redata-landing-page,2023-04-27,1,1
 redata-meta-redirect,2021-11-04,7,5
 redata-meta-redirect,2021-11-05,13,5
 redata-meta-redirect,2021-11-08,1,1
@@ -3017,7 +3021,7 @@ uptime,2023-04-10,103,1
 uptime,2023-04-11,104,2
 uptime,2023-04-12,102,2
 uptime,2023-04-13,101,1
-uptime,2023-04-14,132,2
+uptime,2023-04-14,103,1
 uptime,2023-04-15,136,3
 uptime,2023-04-16,134,2
 uptime,2023-04-17,130,3
@@ -3030,4 +3034,5 @@ uptime,2023-04-23,133,2
 uptime,2023-04-24,131,3
 uptime,2023-04-25,130,2
 uptime,2023-04-26,130,2
-uptime,2023-04-27,22,2
+uptime,2023-04-27,130,2
+uptime,2023-04-28,22,2
