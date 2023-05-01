@@ -277,6 +277,7 @@ ReBACH,2023-04-24,1,1
 ReBACH,2023-04-27,12,3
 ReBACH,2023-04-28,57,3
 ReBACH,2023-04-29,43,2
+ReBACH,2023-05-01,1,1
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -517,7 +518,7 @@ ReQUIAM,2023-04-13,1,1
 ReQUIAM,2023-04-16,1,1
 ReQUIAM,2023-04-23,1,1
 ReQUIAM,2023-04-24,1,1
-ReQUIAM,2023-04-30,1,1
+ReQUIAM,2023-04-30,2,1
 ReQUIAM_csv,2021-03-01,3,2
 ReQUIAM_csv,2021-03-02,12,6
 ReQUIAM_csv,2021-03-03,9,5
@@ -821,6 +822,7 @@ data-service-landscape-scan,2023-03-27,1,1
 data-service-landscape-scan,2023-04-13,1,1
 data-service-landscape-scan,2023-04-16,1,1
 data-service-landscape-scan,2023-04-28,3,2
+data-service-landscape-scan,2023-04-30,1,1
 data-viz-challenge,2021-03-02,1,1
 data-viz-challenge,2021-03-13,1,1
 data-viz-challenge,2021-03-20,1,1
@@ -1707,7 +1709,7 @@ github-stats,2023-04-13,5,3
 github-stats,2023-04-14,5,3
 github-stats,2023-04-15,5,3
 github-stats,2023-04-16,5,3
-github-stats,2023-04-17,6,4
+github-stats,2023-04-17,1,1
 github-stats,2023-04-18,5,3
 github-stats,2023-04-19,6,4
 github-stats,2023-04-20,5,3
@@ -1720,7 +1722,7 @@ github-stats,2023-04-26,5,3
 github-stats,2023-04-27,5,3
 github-stats,2023-04-28,5,3
 github-stats,2023-04-29,5,3
-github-stats,2023-04-30,1,1
+github-stats,2023-04-30,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -3035,7 +3037,7 @@ uptime,2023-04-13,101,1
 uptime,2023-04-14,103,1
 uptime,2023-04-15,107,2
 uptime,2023-04-16,106,1
-uptime,2023-04-17,130,3
+uptime,2023-04-17,102,2
 uptime,2023-04-18,128,2
 uptime,2023-04-19,131,3
 uptime,2023-04-20,129,2
@@ -3048,4 +3050,5 @@ uptime,2023-04-26,130,2
 uptime,2023-04-27,130,2
 uptime,2023-04-28,133,2
 uptime,2023-04-29,137,3
-uptime,2023-04-30,17,2
+uptime,2023-04-30,136,2
+uptime,2023-05-01,22,2
