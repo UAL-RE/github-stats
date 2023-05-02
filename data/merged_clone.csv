@@ -154,6 +154,7 @@ LD-Cool-P,2023-04-16,1,1
 LD-Cool-P,2023-04-20,1,1
 LD-Cool-P,2023-04-24,1,1
 LD-Cool-P,2023-04-29,1,1
+LD-Cool-P,2023-05-01,7,2
 ReBACH,2021-03-15,1,1
 ReBACH,2021-03-17,1,1
 ReBACH,2021-03-20,1,1
@@ -277,7 +278,7 @@ ReBACH,2023-04-24,1,1
 ReBACH,2023-04-27,12,3
 ReBACH,2023-04-28,57,3
 ReBACH,2023-04-29,43,2
-ReBACH,2023-05-01,1,1
+ReBACH,2023-05-01,6,4
 ReM,2021-03-01,1,1
 ReM,2021-03-04,7,2
 ReM,2021-03-08,7,2
@@ -934,6 +935,7 @@ data-viz-evaluations,2023-04-01,1,1
 data-viz-evaluations,2023-04-02,1,1
 data-viz-evaluations,2023-04-11,1,1
 data-viz-evaluations,2023-04-16,1,1
+data-viz-evaluations,2023-05-01,2,2
 figstats,2021-03-03,2,2
 figstats,2021-03-09,3,2
 figstats,2021-04-20,1,1
@@ -1723,6 +1725,7 @@ github-stats,2023-04-27,5,3
 github-stats,2023-04-28,5,3
 github-stats,2023-04-29,5,3
 github-stats,2023-04-30,6,4
+github-stats,2023-05-01,6,4
 ldcoolp-figshare,2021-05-14,12,8
 ldcoolp-figshare,2021-05-15,4,3
 ldcoolp-figshare,2021-05-16,2,2
@@ -2005,6 +2008,7 @@ redata-commons,2023-04-12,1,1
 redata-commons,2023-04-13,1,1
 redata-commons,2023-04-15,1,1
 redata-commons,2023-04-29,1,1
+redata-commons,2023-05-01,1,1
 redata-docs,2021-05-25,2,2
 redata-docs,2021-05-26,22,13
 redata-docs,2021-05-27,1,1
@@ -3038,7 +3042,7 @@ uptime,2023-04-14,103,1
 uptime,2023-04-15,107,2
 uptime,2023-04-16,106,1
 uptime,2023-04-17,102,2
-uptime,2023-04-18,128,2
+uptime,2023-04-18,100,1
 uptime,2023-04-19,131,3
 uptime,2023-04-20,129,2
 uptime,2023-04-21,131,2
@@ -3051,4 +3055,5 @@ uptime,2023-04-27,130,2
 uptime,2023-04-28,133,2
 uptime,2023-04-29,137,3
 uptime,2023-04-30,136,2
-uptime,2023-05-01,22,2
+uptime,2023-05-01,134,4
+uptime,2023-05-02,22,2
