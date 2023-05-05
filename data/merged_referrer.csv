@@ -1442,6 +1442,8 @@ LD-Cool-P,2023-05-01,Google,13,8
 LD-Cool-P,2023-05-02,Google,13,8
 LD-Cool-P,2023-05-03,Google,12,7
 LD-Cool-P,2023-05-04,Google,10,6
+LD-Cool-P,2023-05-05,Google,10,6
+LD-Cool-P,2023-05-05,redata.readthedocs.io,1,1
 ReBACH,2021-03-21,github.com,1,1
 ReBACH,2021-06-29,github.com,1,1
 ReBACH,2021-06-30,github.com,1,1
@@ -2000,6 +2002,8 @@ ReBACH,2023-05-03,github.com,89,1
 ReBACH,2023-05-03,iowxy.com,31,1
 ReBACH,2023-05-04,github.com,114,1
 ReBACH,2023-05-04,iowxy.com,31,1
+ReBACH,2023-05-05,github.com,108,1
+ReBACH,2023-05-05,iowxy.com,31,1
 ReM,2021-03-21,github.com,5,1
 ReM,2021-04-10,github.com,1,1
 ReM,2021-04-17,github.com,4,1
@@ -4471,6 +4475,7 @@ ReQUIAM_csv,2023-05-01,github.com,2,2
 ReQUIAM_csv,2023-05-02,github.com,1,1
 ReQUIAM_csv,2023-05-03,github.com,1,1
 ReQUIAM_csv,2023-05-04,github.com,1,1
+ReQUIAM_csv,2023-05-05,github.com,1,1
 UAL-RE,2021-04-27,github.com,3,1
 UAL-RE,2021-04-28,github.com,3,1
 UAL-RE,2021-04-29,github.com,3,1
@@ -5119,6 +5124,7 @@ data-viz-challenge,2023-05-01,Google,1,1
 data-viz-challenge,2023-05-02,Google,1,1
 data-viz-challenge,2023-05-03,Google,1,1
 data-viz-challenge,2023-05-04,Google,1,1
+data-viz-challenge,2023-05-05,Google,1,1
 data-viz-evaluations,2021-04-10,github.com,1,1
 data-viz-evaluations,2021-04-17,github.com,1,1
 data-viz-evaluations,2021-06-29,github.com,4,1
@@ -6557,6 +6563,7 @@ ldcoolp-figshare,2023-05-01,Google,1,1
 ldcoolp-figshare,2023-05-02,Google,1,1
 ldcoolp-figshare,2023-05-03,Google,1,1
 ldcoolp-figshare,2023-05-04,Google,1,1
+ldcoolp-figshare,2023-05-05,Google,1,1
 redata-commons,2021-03-14,github.com,5,2
 redata-commons,2021-03-21,github.com,6,2
 redata-commons,2021-03-21,pypi.org,1,1
@@ -7503,6 +7510,7 @@ redata-commons,2023-04-25,github.com,1,1
 redata-commons,2023-04-26,github.com,1,1
 redata-commons,2023-04-27,github.com,1,1
 redata-commons,2023-05-04,Google,7,1
+redata-commons,2023-05-05,Google,7,1
 redata-docs,2021-05-26,github.com,1,1
 redata-docs,2021-05-27,github.com,3,1
 redata-docs,2021-05-28,github.com,4,2
